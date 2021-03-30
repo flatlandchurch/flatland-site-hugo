@@ -1,12 +1,13 @@
 ---
-startDate: 2021-04-05T09:30:00
-day: April 4, 2021
-time: 9:30 AM & 11:00 AM
-image: https://i.imgur.com/OSwX84x.png
+title: "Easter"
+startDate: "2021-04-05T09:30:00"
+day: "April 4, 2021"
+time: "9:30 AM & 11:00 AM"
+image: "https://i.imgur.com/OSwX84x.png"
 location: 
     - Online
     - Flatland 144
-category: All-Church
+category: "All-Church"
 ---
 
 Join us this Easter as we celebrate the resurrection of our Savior Jesus and as we anxiously anticipate the resurrection of the saints on the last day. 
