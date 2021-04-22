@@ -85,14 +85,23 @@
         {{ end }}
         {{ partial "footer.html" . }}
         <script>
+            const change = (selector, href, text, live = false) => {
+              const a = document.querySelector(selector);
+              a.href = href;
+              a.innerText = text;
+              if (live) {
+                a.className = 'nav-button--live';
+              }
+            };
             const now = new Date();
             const day = now.getDay();
             const hours = now.getHours();
             if (day === 0 && hours > 8 && hours < 14) {
-                const a = document.querySelector('#watch-link a');
-                a.href = 'https://flatland.online.church';
-                a.innerText = 'Live';
-                a.className = 'nav-button--live';
+              change('#watch-link a', 'https://flatland.online.church', 'Live');
+              change('#m-watch-link a', 'https://flatland.online.church', 'Live');
+
+              change('#news-link a', 'https://today.flatland.church/', 'Today');
+              change('#m-news-link a', 'https://today.flatland.church/', 'Today');
             }
         </script>
         <script type="text/template" id="modal-template">
