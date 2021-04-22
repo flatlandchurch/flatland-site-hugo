@@ -9,7 +9,7 @@ secondaryAction:
     url: /locations
     label: Plan a Visit
 today:
-    title: Engage with our services.
+    title: today.flatland.church
     subtitle: Find out what's happening this week at Flatland, take notes, read Scripture, and request prayer on our **Today** page.
     url: https://today.flatland.church
 connect:
@@ -21,17 +21,17 @@ connect:
       icon: fas fa-map-marker-alt
       img: https://i.imgur.com/jJ7jQns.jpg
       imgAlt: Front of Flatland 144 campus
-    - url: /groups
-      title: Join a life group.
-      icon: fas fa-user-friends
-      img: https://i.imgur.com/mdCzTUT.jpg
-      imgAlt: A small group of women smiling.
-    - url: /volunteer
-      title: Find a way to participate in ministry.
+    - url: /classes/next-step/
+      title: Find your next step through our Next Step class.
+      icon: 
+      img: https://i.imgur.com/vLzs1f7.jpg
+      imgAlt: Bart Wilkins teaching at the 174 Next Step class.
+    - url: /youth
+      title: Get your students connected as they grow.
       icon: far fa-heart
       img: https://i.imgur.com/ml4Y87D.jpg
       imgAlt: A youth leader tied up with tape.
-    - url: /parents
+    - url: /kids
       title: Partner in your kids' discipleship.
       icon: fas fa-seedling
       img: https://i.imgur.com/Mc6nx2D.jpg
@@ -40,19 +40,19 @@ transform:
     title: Experience transformation.
     subtitle: One of the things we say at Flatland all the time is "we love you right where you are, but we love you too much to leave you there." We're committed to seeing God transform your life as you move closer to the center of his Kingdom, and we have a number of key ways to help you do just that.
     cards:
-    - url: /classes/next-step/
-      title: Find your next step through our Next Step class.
-      icon: 
-      img: https://i.imgur.com/vLzs1f7.jpg
-      imgAlt: Bart Wilkins teaching at the 174 Next Step class.
-    - url: /classes
-      title: Take one of our classes.
+    - url: /groups
+      title: Join a life group.
+      icon: fas fa-user-friends
+      img: https://i.imgur.com/mdCzTUT.jpg
+      imgAlt: A small group of women smiling.
+    - url: /mentoring
+      title: Get mentored on your discipleship journey.
       img: https://i.imgur.com/HUyJAeO.jpg
       imgAlt: Women sitting in a teaching session.
     - url: /coaching
       title: Receive life coaching.
       img: https://i.imgur.com/vuen9vd.jpg
-    - url: /resources
+    - url: /blog
       title: Discover resources to move to the center.
       icon: fas fa-book
       img: https://images.unsplash.com/photo-1519682337058-a94d519337bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80

@@ -16,7 +16,7 @@ While you are more than welcome to give in person at any of in-person locations,
 
 It can be difficult to practice generosity when you are living paycheck-to-paycheck, or worse, barely scraping by. We don't want anyone to experience bondage to debt, which is why we offer Financial Peace University, a 9-week class designed to give you the tools and education to get debt free, develop an emergency fund, and start to save up for the future. We offer FPU at various times throughout the year.
 
-{{< action href="/classes/fpu/" context="gray" >}}Find a Class{{< /action >}}
+{{< action href="/classes/financial-peace-university/" context="gray" >}}Find a Class{{< /action >}}
 
 ## The Move
 
