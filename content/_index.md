@@ -23,7 +23,7 @@ connect:
       imgAlt: Front of Flatland 144 campus
     - url: /classes/next-step/
       title: Find your next step through our Next Step class.
-      icon: 
+      icon: fas fa-arrow-right
       img: https://i.imgur.com/vLzs1f7.jpg
       imgAlt: Bart Wilkins teaching at the 174 Next Step class.
     - url: /youth
@@ -46,10 +46,12 @@ transform:
       img: https://i.imgur.com/mdCzTUT.jpg
       imgAlt: A small group of women smiling.
     - url: /mentoring
+      icon: far fa-handshake
       title: Get mentored on your discipleship journey.
       img: https://i.imgur.com/HUyJAeO.jpg
       imgAlt: Women sitting in a teaching session.
     - url: /coaching
+      icon: far fa-clipboard
       title: Receive life coaching.
       img: https://i.imgur.com/vuen9vd.jpg
     - url: /blog
@@ -62,6 +64,12 @@ prayer:
     action:
       url: /prayer
       label: Request Prayer
+volunteer:
+    title: Join the Team
+    subtitle: At Flatland Church we value collaboration as we work together to help people move to the center. Find a place where you can serve at Flatland.
+    action:
+      url: /volunteer
+      label: Find Your Spot
 footerAd:
     title: Receive training, fulfill your calling
     subtitle: Omaha School of Ministry is a ministry training program from Flatland Church.  

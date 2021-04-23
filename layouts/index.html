@@ -69,7 +69,6 @@ Flatland Church | Helping people move to the center of God's Kingdom
             {{ range $card := .Params.Connect.Cards  }}
             <a class="card-link" href="{{ $card.url }}">
                 <div class="card card__img">
-                    <div></div>
                     <i class="{{ $card.icon }}"></i>
                     <h3>{{ $card.title }}</h3>
                     <img src="{{ $card.img }}" alt="{{ $card.imgAlt }}" />
@@ -113,7 +112,6 @@ Flatland Church | Helping people move to the center of God's Kingdom
             {{ range $card := .Params.Transform.Cards  }}
             <a class="card-link" href="{{ $card.url }}">
                 <div class="card card__img">
-                    <div></div>
                     <i class="{{ $card.icon }}"></i>
                     <h3>{{ $card.title }}</h3>
                     <img src="{{ $card.img }}" alt="{{ $card.imgAlt }}" />
@@ -126,11 +124,19 @@ Flatland Church | Helping people move to the center of God's Kingdom
 
     {{/* Request Prayer Section */}}
     <section class="block block--alt">
-        <div class="section-title">
-            <h2>{{ .Params.Prayer.Title }}</h2>
-            <p>{{ .Params.Prayer.Subtitle }}</p>
-            <div class="spacer" style="--top: 4"></div>
-            <a href="{{ .Params.Prayer.Action.Url }}" class="btn btn--secondary btn--center">{{ .Params.Prayer.Action.Label }}</a>
+        <div class="section-row">
+            <div class="section-title">
+                <h2>{{ .Params.Prayer.Title }}</h2>
+                <p>{{ .Params.Prayer.Subtitle }}</p>
+                <div class="spacer" style="--top: 4"></div>
+                <a href="{{ .Params.Prayer.Action.Url }}" class="btn btn--secondary btn--center">{{ .Params.Prayer.Action.Label }}</a>
+            </div>
+            <div class="section-title">
+                <h2>{{ .Params.Volunteer.Title }}</h2>
+                <p>{{ .Params.Volunteer.Subtitle }}</p>
+                <div class="spacer" style="--top: 4"></div>
+                <a href="{{ .Params.Volunteer.Action.Url }}" class="btn btn--primary btn--center">{{ .Params.Volunteer.Action.Label }}</a>
+            </div>
         </div>
     </section>
 
