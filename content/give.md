@@ -4,13 +4,17 @@ image: https://i.imgur.com/VxH0MQA.jpg
 imagePosition: 90%
 ---
 
-We believe that Jesus has called his followers to practice [radical generosity](https://www.youtube.com/watch?v=62CliEkRCso). Throughout Scripture we see God's incredible abundance from [creation](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=NIV) to his provision in [an arid wilderness](https://www.biblegateway.com/passage/?search=Exodus%2016&version=NIV). Not only that, the Biblical narrative concludes with [a great feast](https://www.biblegateway.com/passage/?search=Revelation%2019:6-9&version=ESV). God promises the Israelites that they will live in a land flowing with milk and honey, meaning that even the luxuries will be provided for out of the overflow of God's good gift. It doesn't stop there, in God's radical generosity, he sent his only Son to suffer and die on our behalf.
+Giving is one of our greatest privileges as Christ-followers. It is an act of worship, the overflow of a grateful heart. Jesus said, “It is more blessed to give than to receive.” That’s where true joy is found—on the giving side of life. It starts with giving God the tithe, the first ten percent of our income. Giving above and beyond the tithe is called an offering, and it’s one way to grow in generosity.
+
+> But since you excel in everything—in faith, in speech, in knowledge, in complete earnestness and in the love we have kindled in you—see that you also excel in this grace of giving. (2 Corinthians 8:7)
 
 ## Give Online
 
 While you are more than welcome to give in person at any of in-person locations, we also offer simple and secure online giving through our giving partner, Planning Center. You can give a one-time gift or setup recurring donations.
 
 {{< action href="https://flatland.churchcenter.com/giving" context="primary" >}}Give Now{{< /action >}}
+
+You can also give via Text. Text any amount to **84321** to give. Standard message and data rates may apply. When you initiate your first Text-to-Give donation, our system will respond with a message that includes a setup link.
 
 ## Financial Resources
 
