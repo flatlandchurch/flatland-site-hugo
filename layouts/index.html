@@ -145,6 +145,9 @@ Flatland Church | Helping people move to the center of God's Kingdom
         <section class="block block__img">
             <div class="container">
                 <div class="section-title section-title--left">
+                    {{ with .Prop }}
+                    <img src="{{.}}" />
+                    {{ end }}
                     <h2>{{ .Title }}</h2>
                     <p>{{ .Subtitle }}</p>
                     <div class="spacer" style="--top: 2"></div>
