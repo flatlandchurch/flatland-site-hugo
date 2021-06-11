@@ -3,11 +3,13 @@ title: Savior King
 image: https://i.imgur.com/ERbe0kY.jpg
 ---
 
-Flatland Church is releasing our very first worship single titled "Savior King" on Friday, June 11, 2021. You can pre-order your copy today, or join us this Sunday, June 6, to hear the song live during our worship response time.
+Flatland Church has release our very first worship single, titled "Savior King." Written by Flatland director of worship, Zach Jones, and executive coach, Mike King, "Savior King" worships Christ for his atoning sacrifice and proclaims him as king.
+
+You can listen to "Savior King" on all major streaming platforms, starting June 11.
 
 ![Savior King Album Art](https://i.imgur.com/4IwBWtP.png)
 
 {{< action href="https://sc.lnk.to/FLsk-s" context="primary" >}}
-Pre-Order
+Listen Now
 {{< /action >}}
 
