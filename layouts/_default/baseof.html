@@ -159,6 +159,10 @@
                   const actionBtn = document.querySelector(`#modal-${id} .action a`);
 
                   actionBtn.addEventListener('click', logDismissed(alertableItem));
+
+                  if (!alertableItem.action) {
+                    actionBtn.remove();
+                  }
                   closeBtn.addEventListener('click', (e) => {
                     logDismissed(alertableItem)(e);
                     document.getElementById(`modal-${id}`).remove();
@@ -170,9 +174,13 @@
               if (alertableItem.display.redbar) {
                 const appearance = alertableItem.type === 'alert' ? 'danger' : 'primary';
                 redBar.className = `red-bar live red-bar--${appearance}`;
-                const a = redBar.querySelector('a');
-                a.innerText = alertableItem.action.label;
-                a.href = alertableItem.action.uri;
+                if (alertableItem.action) {
+                  const a = redBar.querySelector('a');
+                  a.innerText = alertableItem.action.label;
+                  a.href = alertableItem.action.uri;
+                } else {
+                  redBar.querySelector('a').remove();
+                }
                 redBar.querySelector('.red-bar__content p').innerText = alertableItem.title;
               }
             }();
