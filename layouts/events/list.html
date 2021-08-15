@@ -106,7 +106,7 @@
 
     const categories = currentEvents.reduce((acc, { category }) => acc.includes(category) ? acc : [...acc, category], []).sort();
     const locations = currentEvents.reduce((acc, { location }) => {
-      location.forEach((loc) => {
+      (location || []).forEach((loc) => {
         if (!acc.includes(loc)) {
             acc.push(loc);
         }
