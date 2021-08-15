@@ -83,7 +83,7 @@
           .map((event) => {
               return window.templite(template, {
                 day: event.day,
-                locations: event.location.join(' | '),
+                locations: (event.location || []).join(' | '),
                 title: event.title,
                 image: event.image,
                 imageAlt: event.imageAlt || `${event.title} poster`,
