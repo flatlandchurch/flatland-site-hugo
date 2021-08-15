@@ -99,7 +99,7 @@
   !async function() {
     const events = await fetch(`/events/index.json`).then((d) => d.json());
     const currentEvents = events.filter(({ startDate }) => {
-      const eventDate = new Date(`${startDate}-05:00`).toISOString();
+      const eventDate = new Date(startDate.endsWith('Z') ? startDate : `${startDate}-05:00`).toISOString();
       const now = new Date().toISOString();
       return now <= eventDate;
     });
