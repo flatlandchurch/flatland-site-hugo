@@ -69,7 +69,7 @@
         document.getElementById('events-container').innerHTML = events
           .filter(({ category, location }) => {
             const isCategory = filters.category.includes(category);
-            const isLocation = location.some((loc) => filters.location.includes(loc));
+            const isLocation = (location || []).some((loc) => filters.location.includes(loc));
 
             if (!filters.category.length && !filters.location.length) return true;
 
