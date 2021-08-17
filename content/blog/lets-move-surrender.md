@@ -1,7 +1,6 @@
 ---
 title: "Let's Move: Surrender"
-image: "https://images.unsplash.com/oto-1582782657709-a4a0fd0a767e?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85
-"
+image: "https://images.unsplash.com/oto-1582782657709-a4a0fd0a767e?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85"
 date: "2021-08-17T14:17:42.000Z"
 author:
   id: "jj-jackson"
