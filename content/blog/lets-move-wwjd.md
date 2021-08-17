@@ -1,7 +1,6 @@
 ---
 title: "Let's Move: W.W.J.D?"
-image: "https://images.unsplash.com/photo-1459183885421-5cc683b8dbba?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85
-"
+image: "https://images.unsplash.com/photo-1459183885421-5cc683b8dbba?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85"
 date: "2021-08-16T14:25:53.000Z"
 author:
   id: "jj-jackson"

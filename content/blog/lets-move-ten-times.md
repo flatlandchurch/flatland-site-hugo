@@ -1,7 +1,6 @@
 ---
 title: "Let's Move: Ten Times"
-image: "https://images.unsplash.com/photo-1623165939532-93550cff0f84?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85
-"
+image: "https://images.unsplash.com/photo-1623165939532-93550cff0f84?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85"
 date: "2021-08-13T19:09:37.107Z"
 author:
   id: "bill-reveal"

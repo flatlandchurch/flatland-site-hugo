@@ -1,7 +1,6 @@
 ---
 title: "Let's Move: Trash Talk"
-image: "https://images.unsplash.com/photo-1503596476-1c12a8ba09a9?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85
-"
+image: "https://images.unsplash.com/photo-1503596476-1c12a8ba09a9?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85"
 date: "2021-08-13T14:23:03.000Z"
 author:
   id: "jj-jackson"

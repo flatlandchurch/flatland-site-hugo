@@ -1,7 +1,6 @@
 ---
 title: "Let's Move: In the Circle"
-image: "https://images.unsplash.com/photo-1511367461989-f85a21fda167?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85
-"
+image: "https://images.unsplash.com/photo-1511367461989-f85a21fda167?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85"
 date: "2021-08-11T19:05:08.455Z"
 author:
   id: "bill-reveal"
