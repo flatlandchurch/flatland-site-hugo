@@ -1,7 +1,7 @@
 ---
 title: "Flatland Youth Study Group: Defending Your Faith"
-startDate: null
-day: null
+startDate: ""
+day: ""
 time: 6:00 PM
 category: All-Church
 action:
