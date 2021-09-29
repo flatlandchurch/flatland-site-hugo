@@ -1,7 +1,7 @@
 ---
 title: "Derailed: Debris"
 image: "https://images.unsplash.com/photo-1588127727253-e5f2faf4f541?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85"
-date: "2021-08-26T21:07:16.387Z"
+date: "2021-08-25T21:07:16.387Z"
 author:
   id: "bill-reveal"
   name: "Bill Reveal"
