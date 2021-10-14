@@ -21,3 +21,4 @@ Festivals commemorating the great work the Lord has done for His people are also
 > _For I know the plans I have for you,” says the Lord. “They are plans for good and not for disaster, to give you a future and a hope._ Jeremiah 29:11 NLT
 
 [1]: https://www.biblegateway.com/passage/?search=Leviticus+16%2C+23%2C+Deuteronomy+17%2C+28&version=NLT
+
