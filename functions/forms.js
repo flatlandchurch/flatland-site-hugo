@@ -28,13 +28,13 @@ exports.handler = async function (event, ctx) {
   if (err) {
     return Promise.resolve({
       body: JSON.stringify({ errors: [err] }),
-      statusCode: 200,
+      statusCode: 400,
     });
   }
 
   return Promise.resolve({
     body: JSON.stringify(form),
-    statusCode: 400,
+    statusCode: 200,
     headers: {
       'Access-Control-Allow-Origin': '*',
     },
