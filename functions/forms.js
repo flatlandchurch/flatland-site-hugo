@@ -8,6 +8,7 @@ exports.handler = async function (event, ctx) {
   if (!event.queryStringParameters.id) {
     return Promise.resolve({
       body: JSON.stringify({ errors: ['ID of form must be supplied.'] }),
+      statusCode: 400,
     });
   }
 
@@ -27,11 +28,13 @@ exports.handler = async function (event, ctx) {
   if (err) {
     return Promise.resolve({
       body: JSON.stringify({ errors: [err] }),
+      statusCode: 200,
     });
   }
 
   return Promise.resolve({
     body: JSON.stringify(form),
+    statusCode: 400,
     headers: {
       'Access-Control-Allow-Origin': '*',
     },
