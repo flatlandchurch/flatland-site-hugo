@@ -21,7 +21,7 @@ The main lesson we also learn from Judges is to be teachers, leading and showing
 
 > _In everything set them an example by doing what is good. In your teaching show integrity, seriousness and soundness of speech that cannot be condemned._ -Titus 2:7-8
 
-[1]:	https://biblehub.com/judges/1.htm
-[2]:	https://biblehub.com/judges/17.htm
-[3]:	https://biblehub.com/context/judges/2-10.htm
-[4]:	https://biblehub.com/judges/17.htm
+[1]: https://biblehub.com/judges/1.htm
+[2]: https://biblehub.com/judges/17.htm
+[3]: https://biblehub.com/context/judges/2-10.htm
+[4]: https://biblehub.com/judges/17.htm

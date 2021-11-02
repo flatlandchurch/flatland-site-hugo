@@ -17,18 +17,18 @@ All too often we are presented with choices of convience, choices that the world
 
 Babylon may seem a far off but when we allow just a little bit of the world to slip in (see [2 Kings 20:12ff][2]), the next thing we know, we are being carted off into captivity. If a man of great wisdom can be tripped up by the bling of the world, how much more will we. It is so important to constantly strive to move the center of God’s kingdom; reading the Bible, prayer, fasting, and all the other spiritual practices can help. Mentoring, coaching, life groups, and getting involved in ministry are also big helps. As we move to the center, we flee from the rebellion that is just there waiting to trip us up.
 
-> _Blessed is the one
-> &nbsp;&nbsp;&nbsp;&nbsp;who does not walk in step with the wicked
-> &nbsp;&nbsp;&nbsp;&nbsp;or stand in the way that sinners take
-> &nbsp;&nbsp;&nbsp;&nbsp;or sit in the company of mockers,
-> but whose delight is in the law of the Lord,
-> &nbsp;&nbsp;&nbsp;&nbsp;and who meditates on his law day and night.
-> That person is like a tree planted by streams of water,
-> &nbsp;&nbsp;&nbsp;&nbsp;which yields its fruit in season
-> &nbsp;&nbsp;&nbsp;&nbsp;and whose leaf does not wither –
-> &nbsp;&nbsp;&nbsp;&nbsp;whatever they do prospers._‭‭-[Psalms‬ ‭1:1-3‬ ‭NIV][3]
+> _Blessed is the one   
+> &nbsp;&nbsp;&nbsp;&nbsp;who does not walk in step with the wicked   
+> &nbsp;&nbsp;&nbsp;&nbsp;or stand in the way that sinners take  
+> &nbsp;&nbsp;&nbsp;&nbsp;or sit in the company of mockers,  
+> but whose delight is in the law of the Lord,  
+> &nbsp;&nbsp;&nbsp;&nbsp;and who meditates on his law day and night.  
+> That person is like a tree planted by streams of water,   
+> &nbsp;&nbsp;&nbsp;&nbsp;which yields its fruit in season   
+> &nbsp;&nbsp;&nbsp;&nbsp;and whose leaf does not wither –    
+> &nbsp;&nbsp;&nbsp;&nbsp;whatever they do prospers._-[Psalms 1:1-3 NIV][3]
 >
 
-[1]:	https://biblehub.com/1_kings/10.htm
-[2]:	https://biblehub.com/context/2_kings/20-12.htm
-[3]:	https://biblehub.com/psalms/1.htm
+[1]: https://biblehub.com/1_kings/10.htm
+[2]: https://biblehub.com/context/2_kings/20-12.htm
+[3]: https://biblehub.com/psalms/1.htm
