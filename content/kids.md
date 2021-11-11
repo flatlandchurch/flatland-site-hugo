@@ -5,14 +5,14 @@ image: https://i.imgur.com/34hPWnJ.jpg
 
 ## Times
 
-**Currently Children’s Ministry is only offered at our 9:30am Sunday Service.**
-
-**Starting August 22, 2021, Flatland will expand our Children’s Ministry to both 9:30am & 11:00am Sunday Services.**
-
 {{< times >}}
 - day: Sunday
   time: 9:30 AM
+- day: Sunday
+  time: 11:00 AM
 {{</ times >}}
+  
+Our children's ministry is available during both of our Sunday morning services.
 
 FlatKids is the Flatland Church ministry for children birth to 5th Grade. Flatland Children’s Ministry department is based on Bible education, spiritual experience and practical application. Each child who begins their faith journey in our preschool program and ends in 5th grade will go through the Bible 8 times learning Bible stories, Biblical principles and how to know God personally. It is our desire to partner with parents to disciple their children. Each child is provided a take home paper with additional home activities coordinating with the week’s lesson.
 
