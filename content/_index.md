@@ -19,7 +19,7 @@ connect:
     - url: /locations
       title: Where & When
       icon: fas fa-map-marker-alt
-      img: https://i.imgur.com/2FjSSyo.jpg
+      img: https://i.imgur.com/i5A9ZVT.jpg
       imgAlt: Front of Flatland 174 campus
     - url: /classes/next-step/
       title: New Here?
