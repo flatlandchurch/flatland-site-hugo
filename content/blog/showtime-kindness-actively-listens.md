@@ -1,7 +1,6 @@
 ---
 title: "Showtime: Kindness Actively Listens"
-image: "https://images.unsplash.com/photo-1615044806063-cf09a17b1a04?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85
-"
+image: "https://images.unsplash.com/photo-1615044806063-cf09a17b1a04?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85"
 date: "2021-11-22T05:24:17.126Z"
 author:
   id: "bill-reveal"
@@ -21,7 +20,7 @@ It also shows we care when we let a person talk without interruption. That is so
 > _The one who has knowledge uses words with restraint,
 > &nbsp;&nbsp;&nbsp;&nbsp;and whoever has understanding is even-tempered.
 > Even fools are thought wise if they keep silent,
-> &nbsp;&nbsp;&nbsp;&nbsp;and discerning if they hold their tongues._-[Proverbs‬ ‭17:27-28][2]‬ ‭NIV
+> &nbsp;&nbsp;&nbsp;&nbsp;and discerning if they hold their tongues._-[Proverbs 17:27-28][2] NIV
 
-[1]:	https://biblehub.com/context/james/1-19.htm
-[2]:	https://biblehub.com/context/proverbs/17-27.htm
+[1]: https://biblehub.com/context/james/1-19.htm
+[2]: https://biblehub.com/context/proverbs/17-27.htm
