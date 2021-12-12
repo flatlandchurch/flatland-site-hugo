@@ -18,8 +18,8 @@ We should note that our eyes are almost always the gateway to sin. This entryway
 Suppose I told you I’d give you 100 million dollars, but if you accepted it, you’d be dead by tomorrow. Would you take it? Of course not! Life without money is full of all variety of joys and opportunities, but money without life is worthless. Similarly, all the goods in the world are worthless apart from the life in which Jesus has gifted us. Our eternal life isn’t some futuristic pipe dream to be chased, but a present reality. We’re already living our eternal life right now because God is already with us. Think of it, once you have God, what more is there? What needs to be added to God to make us better? If you really want to live life full of serenity – in absolute peace – put yourself in a place where God is catching your eye, not the world. After all, He’s already in your room. Just let Him know that you notice Him. Speak with Him a little more and take Him for granted a little less.
 
 ### Reflections
-Have you scheduled a meeting with God in your quiet place today to talk about the root cause/s of stress in your life?
-Do you have any other appointments on your calendar today that you think will give you greater peace?
+- Have you scheduled a meeting with God in your quiet place today to talk about the root cause/s of stress in your life?
+- Do you have any other appointments on your calendar today that you think will give you greater peace?
 
 > _Teach these new disciples to obey all the commands I have given you. And be sure of this: I am with you always, even to the end of the age._ Matthew 28:20 NLT
 

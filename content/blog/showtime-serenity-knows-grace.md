@@ -18,9 +18,9 @@ James points out the fact that before we were faithful, we were enemies of God. 
 God's grace brings us serenity like nothing else. Being at war with God is stressful, leading us to scheme how to get all kinds of other things to relieve that awful deep down gnawing at our souls. Nothing but God can bring us serenity. We need God's grace and wow, He is right there with us ready to pour His grace out on us when we believe. The serenity that comes when we submit ourselves to Him is guaranteed, "He will lift you up" (v.10).
 
 ### Reflection
-What is blocking you from serenity? How can you give it over to God?
+- What is blocking you from serenity? How can you give it over to God?
 
-> Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid. -[John 14:27 (NIV)][john]
+> _Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid._ -[John 14:27 (NIV)][john]
 
 [james]: https://biblehub.com/context/james/4-4.htm
 [james4]: https://biblehub.com/james/4-5.htm
