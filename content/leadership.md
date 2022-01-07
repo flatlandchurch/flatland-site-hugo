@@ -7,7 +7,7 @@ image: https://i.imgur.com/VXjsnkb.jpg
 - label: Bart Wilkins
   image: https://i.imgur.com/yWeQMT7.png
 - label: Jen Wilkins
-  image: https://i.imgur.com/06ksTj0.png
+  image: https://i.imgur.com/bsz47EK.png
 - label: Josie Laurent
   image: https://firebasestorage.googleapis.com/v0/b/flatland-api.appspot.com/o/leadership%2Fjosie-demuth.png?alt=media&token=d26fa7c7-b4bb-49c9-80ed-1471a57600dc
 - label: Zach Jones
@@ -15,13 +15,15 @@ image: https://i.imgur.com/VXjsnkb.jpg
 - label: Kevin Nygren
   image: https://i.imgur.com/4alrkPx.png
 - label: Codey Friesen
-  image: https://i.imgur.com/6rY2BGR.png
+  image: https://i.imgur.com/rF71y5w.png
 - label: Mitchell McNaney
   image: https://i.imgur.com/kzFD7Ly.png
 - label: JJ Jackson
   image: https://i.imgur.com/jUbKppR.jpg
 - label: Shannon Smay
   image: https://i.imgur.com/SnDTwZ2.jpg
+- label: Beth King
+  image: https://i.imgur.com/JNmetA8.png
 {{< /gallery >}}
 
 ## Bart Wilkins
@@ -70,3 +72,6 @@ _17 (Prison Ministry) Campus Pastor_
 
 _Communications Director_
 
+## Beth King
+
+_Director of Administration_
