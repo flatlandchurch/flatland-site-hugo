@@ -21,7 +21,10 @@ A brief synopsis, or in movie language “trailer”, of the Bible should pique 
 - Do you feel that you fully understand the problem of sin?
 - Is your appreciation for what Jesus has done for you expressed to people around you or is it something you keep to yourself?
 
+-----
+
 > _Give thanks to the Lord and proclaim his greatness.
     Let the whole world know what he has done._ 1 Chronicles 16:8 NLT
 
 [1]: https://www.biblegateway.com/passage/?search=Isaiah+14%3A1-2&version=NLT
+
