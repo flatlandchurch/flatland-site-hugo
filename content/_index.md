@@ -51,12 +51,12 @@ transform:
       imgAlt: A small group of women smiling.
     - url: /mentoring
       icon: far fa-handshake
-      title: Get mentored on your discipleship journey.
+      title: Get mentored.
       img: https://i.imgur.com/HUyJAeO.jpg
       imgAlt: Women sitting in a teaching session.
     - url: /coaching
       icon: far fa-clipboard
-      title: Receive life coaching.
+      title: Get coached.
       img: https://i.imgur.com/vuen9vd.jpg
 prayer:
     title: Need Prayer?
@@ -71,7 +71,7 @@ volunteer:
       url: /volunteer
       label: Find Your Spot
 footerAd:
-    title: Receive training, fulfill your calling
+    title: Accredited Education, Accelerated Experience
     subtitle: Omaha School of Ministry is a ministry training program from Flatland Church.
     prop: https://i.imgur.com/3SXjgZL.png
     action:
