@@ -1,6 +1,6 @@
 ---
 title: Helping people move to the <ins>center</ins> of God's Kingdom.
-subtitle: Welcome to Flatland Church.
+subtitle: Welcome to Flatland Church. There's something here for you.
 image: https://i.imgur.com/1feeiht.jpg
 action:
     url: https://flatland.online.church
