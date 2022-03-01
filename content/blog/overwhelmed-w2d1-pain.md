@@ -29,7 +29,7 @@ Now some would say, but I don’t want a burden at all. The problem is, we will 
 > _Relieve the troubles of my heart_   
 > _&nbsp;&nbsp;&nbsp;&nbsp;and free me from my anguish._   
 > _Look on my affliction and my distress_   
-> _&nbsp;&nbsp;&nbsp;&nbsp;and take away all my sins._ -[Psalms‬ ‭25:15-18‬ ‭NIV][2]
+> _&nbsp;&nbsp;&nbsp;&nbsp;and take away all my sins._ -[Psalms 25:15-18 NIV][2]
 
 [1]: https://biblehub.com/matthew/11-28.htm
 [2]: https://biblehub.com/niv/psalms/25.htm
