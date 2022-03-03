@@ -10,7 +10,7 @@ secondaryAction:
     label: Plan a Visit
 today:
     title: today.flatland.church
-    subtitle: Find out what's happening this week at Flatland!<br><br>
+    subtitle: Check out our latest news and information.<br><br>
     url: https://today.flatland.church
 connect:
     title: Discover love, authenticity, and collaboration.
