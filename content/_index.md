@@ -29,8 +29,8 @@ connect:
     - url: /youth
       title: Flatland Youth
       icon: far fa-heart
-      img: https://i.imgur.com/ml4Y87D.jpg
-      imgAlt: A youth leader tied up with tape.
+      img: /youth2022.jpg
+      imgAlt: Youth group.
     - url: /kids
       title: Flatland Kids
       icon: fas fa-seedling
