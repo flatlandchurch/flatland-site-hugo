@@ -17,7 +17,7 @@ connect:
     subtitle: There's something here for you.
     cards:
     - url: /locations
-      title: Where & When
+      title: Locations
       icon: fas fa-map-marker-alt
       img: https://i.imgur.com/i5A9ZVT.jpg
       imgAlt: Front of Flatland 174 campus
@@ -25,7 +25,7 @@ connect:
       title: New Here?
       icon: fas fa-arrow-right
       img: /images/entering.jpg
-      imgAlt: Bart Wilkins teaching at the 174 Next Step class.
+      imgAlt: Family entering Flatland 144.
     - url: /youth
       title: Flatland Youth
       icon: far fa-heart
