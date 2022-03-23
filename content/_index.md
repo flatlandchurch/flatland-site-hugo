@@ -13,7 +13,7 @@ today:
     subtitle: Check out our latest news and information.<br><br>
     url: https://today.flatland.church
 connect:
-    title: Discover love, authenticity, and collaboration.
+    title: Authenticity | Enthusiasm | Love | Collaboration | Transformation
     subtitle: Checkout different ways to get involved at Flatland
     cards:
     - url: /locations
