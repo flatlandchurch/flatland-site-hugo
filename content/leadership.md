@@ -1,6 +1,6 @@
 ---
 title: Leadership
-image: https://i.imgur.com/VXjsnkb.jpg
+image: /images/bart_preaching.jpg
 ---
 
 {{< gallery link="true" >}}
