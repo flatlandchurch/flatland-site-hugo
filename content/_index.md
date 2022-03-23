@@ -14,7 +14,7 @@ today:
     url: https://today.flatland.church
 connect:
     title: Authenticity | Enthusiasm | Love | Collaboration | Transformation
-    subtitle: Checkout different ways to get involved at Flatland
+    subtitle: There's something here for you.
     cards:
     - url: /locations
       title: Where & When
