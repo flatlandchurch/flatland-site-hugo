@@ -24,12 +24,12 @@ connect:
     - url: /classes/next-step/
       title: New Here?
       icon: fas fa-arrow-right
-      img: https://i.imgur.com/vLzs1f7.jpg
+      img: /images/entering.jpg
       imgAlt: Bart Wilkins teaching at the 174 Next Step class.
     - url: /youth
       title: Flatland Youth
       icon: far fa-heart
-      img: /youth2022.jpg
+      img: /images/youth2022.jpg
       imgAlt: Youth group.
     - url: /kids
       title: Flatland Kids
