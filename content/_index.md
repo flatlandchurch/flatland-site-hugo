@@ -1,7 +1,7 @@
 ---
 title: Helping people move to the <ins>center</ins> of God's Kingdom.
 subtitle: Welcome to Flatland Church. There's something here for you.
-image: /image/baptism-bevverly-smith.jpg
+image: /images/baptism-beverly-smith.jpg
 action:
     url: https://flatland.online.church
     label: Watch Live
