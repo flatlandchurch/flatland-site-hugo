@@ -78,6 +78,12 @@ footerAd:
       url: https://omasom.com/
       label: Find Out More
     img: /fc-jumbo.jpeg
+holiday:
+    title: Resurrection Sunday 2022
+    description: Join us blah blah blah // Supports markdown
+    Image:
+        src: https://images.unsplash.com/photo-1643627726989-8e92bfac6fc2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1020&q=80
+        alt: Stained glass window depicting Jesus’ ascension in heaven with Apostles surrounding him
 ---
 
 Flatland is all about moving people to the center of God's kingdom. We do this by communicating the good news of Jesus and experiencing the presence and power of His Spirit.
