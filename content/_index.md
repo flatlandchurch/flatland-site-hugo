@@ -79,8 +79,8 @@ footerAd:
       label: Find Out More
     img: /fc-jumbo.jpeg
 holiday:
-    title: Resurrection Sunday 2022
-    description: Join us Sunday, April 17, at 9:30 or 11:00am.
+    title: Easter Services
+    description: Join us on Resurrection Sunday, April 17, at 9:30 or 11:00am. Experience the wonder and personal impact of Christ's resurrection power.
     Image:
         src: /Images/easter-background.png
         alt: Stained glass window depicting Jesus’ ascension in heaven with Apostles surrounding him
