@@ -80,7 +80,7 @@ footerAd:
     img: /fc-jumbo.jpeg
 holiday:
     title: Easter Services
-    description: Join us on Resurrection Sunday, April 17, at 9:30 or 11:00am. Experience the wonder and personal impact of Christ's resurrection power.
+    description: Join us on Resurrection Sunday, April 17, at <ins>9:30am</ins> or <ins>11:00am</ins>. Experience the wonder and personal impact of Christ's resurrection power.
     Image:
         src: /Images/easter-background.png
         alt: Stained glass window depicting Jesus’ ascension in heaven with Apostles surrounding him
