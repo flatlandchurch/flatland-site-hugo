@@ -82,7 +82,7 @@ holiday:
     title: Resurrection Sunday 2022
     description: Join us Sunday, April 17, at 9:30 or 11:00am.
     Image:
-        src: https://images.unsplash.com/photo-1643627726989-8e92bfac6fc2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1020&q=80
+        src: /Images/easter-background.png
         alt: Stained glass window depicting Jesus’ ascension in heaven with Apostles surrounding him
 ---
 
