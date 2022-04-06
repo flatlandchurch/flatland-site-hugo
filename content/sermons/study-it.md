@@ -1,7 +1,7 @@
 ---
 title: "Study It"
 image: https://i.imgur.com/8etzWtQ.png
-date: 2022-01-10T14:30:00.000Z
+date: 2022-01-09T14:30:00.000Z
 video:
   type: vimeo
   id: 664319719
