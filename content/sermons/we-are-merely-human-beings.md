@@ -8,4 +8,5 @@ video:
 speaker:
   name: "Mitchell McNaney"
   permalink: "mitchell-mcnaney"
+series: "the-wild-conversations-of-mr-paul"
 ---

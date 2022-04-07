@@ -8,4 +8,5 @@ video:
 speaker:
   name: "Kelvin Nygren"
   permalink: "kelvin-nygren"
+series: "the-wild-conversations-of-mr-paul"
 ---
