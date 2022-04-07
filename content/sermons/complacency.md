@@ -8,4 +8,5 @@ speaker:
 title: Complacency
 image: https://i.imgur.com/S7AXP5d.png
 date: 2021-09-05T14:30:00.000Z
+series: "derailed"
 ---

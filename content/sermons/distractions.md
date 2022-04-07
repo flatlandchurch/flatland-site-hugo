@@ -8,4 +8,5 @@ speaker:
 title: Distractions
 image: https://i.imgur.com/TpvCn3C.png
 date: 2021-09-26T14:30:00.000Z
+series: "derailed"
 ---

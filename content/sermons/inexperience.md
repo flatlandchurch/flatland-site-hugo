@@ -8,4 +8,5 @@ speaker:
 title: Inexperience
 image: ""
 date: 2021-09-19T14:30:00.000Z
+series: "derailed"
 ---

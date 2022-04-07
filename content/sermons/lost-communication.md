@@ -8,4 +8,5 @@ speaker:
 title: Lost Communication
 image: https://i.imgur.com/CGEKp1y.png
 date: 2021-09-12T14:30:00.000Z
+series: "derailed"
 ---
