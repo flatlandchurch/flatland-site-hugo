@@ -1,6 +1,6 @@
 ---
 title: "Cope"
-image: images/series-cope.png
+image: /images/series-cope.png
 date: "2020-10-04T09:30:00.000Z"
 ---
 
