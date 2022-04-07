@@ -8,4 +8,5 @@ video:
 speaker:
   name: "Bart Wilkins"
   permalink: "bart-wilkins"
+series: "the-wild-conversations-of-mr-paul"
 ---
