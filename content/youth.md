@@ -1,6 +1,6 @@
 ---
 title: Youth
-image: /youth2022.jpg
+image: /images/youth2022.jpg
 imagePosition: 28%
 ---
 
