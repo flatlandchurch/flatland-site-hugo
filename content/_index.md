@@ -34,7 +34,7 @@ connect:
     - url: /kids
       title: Flatland Kids
       icon: fas fa-seedling
-      img: https://i.imgur.com/Mc6nx2D.jpg
+      img: /images/kids2022.jpg
       imgAlt: Kids running in an easter egg hunt.
 transform:
     title: Experience transformation.
