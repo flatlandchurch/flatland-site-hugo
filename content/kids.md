@@ -1,6 +1,6 @@
 ---
 title: Kids
-image: https://i.imgur.com/34hPWnJ.jpg
+image: /images/kids2022.jpg
 ---
 
 ## Times
