@@ -52,7 +52,7 @@ transform:
     - url: /mentoring
       icon: far fa-handshake
       title: Get mentored.
-      img: https://i.imgur.com/HUyJAeO.jpg
+      img: /images/kelvin-leon.jpg
       imgAlt: Women sitting in a teaching session.
     - url: /coaching
       icon: far fa-clipboard
