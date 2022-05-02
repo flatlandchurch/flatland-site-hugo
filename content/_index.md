@@ -47,7 +47,7 @@ transform:
     - url: /groups
       title: Join a life group.
       icon: fas fa-user-friends
-      img: https://i.imgur.com/mdCzTUT.jpg
+      img: /images/smith-3.jpg
       imgAlt: A small group of women smiling.
     - url: /mentoring
       icon: far fa-handshake
@@ -57,7 +57,7 @@ transform:
     - url: /coaching
       icon: far fa-clipboard
       title: Get coached.
-      img: https://i.imgur.com/vuen9vd.jpg
+      img: /images/coaching-2.jpg
 prayer:
     title: Need Prayer?
     subtitle: Prayer is at the core of everything we are at Flatland. The Apostle Paul encouraged his friends to never stop praying. We want to pray for you in your time of need.
