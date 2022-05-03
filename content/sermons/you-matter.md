@@ -6,7 +6,7 @@ video:
   type: vimeo
   id: 702692778
 speaker:
-    name: "Bart Wilkins"
-    permalink: "bart-wilkins"
+  name: "Bart Wilkins"
+  permalink: "bart-wilkins"
 series: "you-matter"
 ---
