@@ -8,5 +8,5 @@ video:
 speaker:
   name: "Bart Wilkins"
   permalink: "bart-wilkins"
-series: "you-matter"
+series: "series/you-matter"
 ---
