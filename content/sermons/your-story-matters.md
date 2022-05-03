@@ -8,5 +8,5 @@ speaker:
 title: Your Story Matters
 image: https://i.imgur.com/HhBP5IP.png
 date: 2022-05-01T14:30:00.000Z
-series: "series/you-matter"
+series: "you-matter-series"
 ---
