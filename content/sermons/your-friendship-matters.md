@@ -8,4 +8,5 @@ speaker:
 title: Your Friendship Matters
 image: https://i.imgur.com/uQgtd7g.png
 date: 2022-05-08T14:30:00.000Z
+series: "you-matter-series"
 ---
