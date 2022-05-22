@@ -1,5 +1,5 @@
 ---
-title: "Life of Tim"
+title: "The Life of Tim"
 image: "https://i.imgur.com/rwg59VR.jpg"
 date: "2021-01-03T09:30:00.000Z"
 ---

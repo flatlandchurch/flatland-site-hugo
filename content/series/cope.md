@@ -1,6 +1,6 @@
 ---
 title: "Cope"
-image: "https://images.unsplash.com/photo-1535890696255-dd5bcd79e6df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+image: /images/series-cope.png
 date: "2020-10-04T09:30:00.000Z"
 ---
 

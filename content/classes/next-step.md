@@ -4,12 +4,13 @@ category:
     label: Start Here
     className: purple
 classNumber: 100
-image: https://i.imgur.com/jHyS99K.jpg
+image: /images/nextsteplogobanner.png
 childcare: true
 price: Free
 ---
 
-Here at Flatland we want to help you move closer to the center of God’s kingdom, but that’s hard to do if you don’t know your next step. Join Bart and Jen Wilkins, lead pastors of Flatland Church as we explore the history and purpose of Flatland, and in turn show you your next step here.
+Curious about our name? Want to know what's here for you? Join our Next Step Class to find out what Flatland is all about and how we can help you move closer to the Lord.
 
 ## Class Structure
 
+This 90-minute class is interactive. Our lead pastor, Bart Wilkins, shares Flatland's mission and plan for helping people move to the center of God's kingdom. You'll hear what drives us and get to ask the questions you would like to have answered the most.

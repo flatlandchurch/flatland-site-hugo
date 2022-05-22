@@ -69,7 +69,7 @@
         document.getElementById('events-container').innerHTML = events
           .filter(({ category, location }) => {
             const isCategory = filters.category.includes(category);
-            const isLocation = location.some((loc) => filters.location.includes(loc));
+            const isLocation = (location || []).some((loc) => filters.location.includes(loc));
 
             if (!filters.category.length && !filters.location.length) return true;
 
@@ -83,7 +83,7 @@
           .map((event) => {
               return window.templite(template, {
                 day: event.day,
-                locations: event.location.join(' | '),
+                locations: (event.location || []).join(' | '),
                 title: event.title,
                 image: event.image,
                 imageAlt: event.imageAlt || `${event.title} poster`,
@@ -99,14 +99,14 @@
   !async function() {
     const events = await fetch(`/events/index.json`).then((d) => d.json());
     const currentEvents = events.filter(({ startDate }) => {
-      const eventDate = new Date(`${startDate}-05:00`).toISOString();
+      const eventDate = new Date(startDate.endsWith('Z') ? startDate : `${startDate}-05:00`).toISOString();
       const now = new Date().toISOString();
       return now <= eventDate;
     });
 
     const categories = currentEvents.reduce((acc, { category }) => acc.includes(category) ? acc : [...acc, category], []).sort();
     const locations = currentEvents.reduce((acc, { location }) => {
-      location.forEach((loc) => {
+      (location || []).forEach((loc) => {
         if (!acc.includes(loc)) {
             acc.push(loc);
         }

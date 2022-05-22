@@ -85,14 +85,23 @@
         {{ end }}
         {{ partial "footer.html" . }}
         <script>
+            const change = (selector, href, text, live = false) => {
+              const a = document.querySelector(selector);
+              a.href = href;
+              a.innerText = text;
+              if (live) {
+                a.className = 'nav-button--live';
+              }
+            };
             const now = new Date();
             const day = now.getDay();
             const hours = now.getHours();
             if (day === 0 && hours > 8 && hours < 14) {
-                const a = document.querySelector('#watch-link a');
-                a.href = 'https://flatland.online.church';
-                a.innerText = 'Live';
-                a.className = 'nav-button--live';
+              change('#watch-link a', 'https://flatland.online.church', 'Live');
+              change('#m-watch-link a', 'https://flatland.online.church', 'Live');
+
+              change('#news-link a', 'https://today.flatland.church/', 'Today');
+              change('#m-news-link a', 'https://today.flatland.church/', 'Today');
             }
         </script>
         <script type="text/template" id="modal-template">
@@ -124,7 +133,7 @@
                 if (a.date > b.date) return 1;
                 if (b.date > a.date) return -1;
                 return 0;
-              }).find(({ display, liveThru }) => display.modal && new Date(liveThru) > new Date());
+              }).find(({ liveThru }) => new Date(liveThru) > new Date());
 
               const logDismissed = ({ permalink }) => () => {
                 dismissedModals.push(permalink);
@@ -133,7 +142,7 @@
 
               if (!alertableItem) return;
 
-              if (alertableItem && !dismissedModals.includes(alertableItem.permalink) && alertableItem.display.modal) {
+              if (alertableItem.display === 'modal' && !dismissedModals.includes(alertableItem.permalink) && alertableItem.display.modal) {
                 setTimeout(() => {
                   const el = document.getElementById('modal-template');
                   const id = new Date().getTime().toString(16);
@@ -142,6 +151,7 @@
                   div.id = `modal-${id}`;
                   div.innerHTML = window.templite(el.innerText, {
                     ...alertableItem,
+                    action: alertableItem.action || {},
                     appearance: alertableItem.type === 'alert' ? 'danger' : 'primary',
                   });
                   document.body.append(div);
@@ -150,6 +160,10 @@
                   const actionBtn = document.querySelector(`#modal-${id} .action a`);
 
                   actionBtn.addEventListener('click', logDismissed(alertableItem));
+
+                  if (!alertableItem.action) {
+                    actionBtn.remove();
+                  }
                   closeBtn.addEventListener('click', (e) => {
                     logDismissed(alertableItem)(e);
                     document.getElementById(`modal-${id}`).remove();
@@ -161,9 +175,13 @@
               if (alertableItem.display.redbar) {
                 const appearance = alertableItem.type === 'alert' ? 'danger' : 'primary';
                 redBar.className = `red-bar live red-bar--${appearance}`;
-                const a = redBar.querySelector('a');
-                a.innerText = alertableItem.action.label;
-                a.href = alertableItem.action.uri;
+                if (alertableItem.action) {
+                  const a = redBar.querySelector('a');
+                  a.innerText = alertableItem.action.label;
+                  a.href = alertableItem.action.uri;
+                } else {
+                  redBar.querySelector('a').remove();
+                }
                 redBar.querySelector('.red-bar__content p').innerText = alertableItem.title;
               }
             }();

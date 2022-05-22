@@ -17,6 +17,64 @@ header {
   }
 }
 
+.has-submenu {
+  position: relative;
+}
+
+.has-submenu > a,
+.has-submenu > button {
+  padding-right: 16px;
+}
+
+.has-submenu > a::after,
+.has-submenu > button::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  background: transparent;
+  position: absolute;
+  right: 0;
+  bottom: 16px;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 4px solid var(--white);
+  cursor: pointer;
+}
+
+.submenu {
+  position: absolute;
+  padding: 24px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  list-style: none;
+  background: #fff;
+  top: 100%;
+  grid-template-columns: minmax(0, 1fr);
+  width: max-content;
+  grid-gap: 24px;
+  box-shadow: 0 8px 24px 0 rgba(0, 0, 0, .16);
+  display: none;
+
+  li {
+    padding: 0;
+    margin: 0;
+    display: block;
+  }
+
+  li a {
+    color: var(--black)!important;
+    text-decoration: none;
+  }
+}
+
+.has-submenu:hover > .submenu,
+.has-submenu > button:active ~ .submenu,
+.has-submenu > button:focus ~ .submenu,
+.has-submenu:focus-within .submenu {
+  display: grid;
+}
+
 header.header--white {
   background: #fff;
   box-shadow: 0 0 12px -1px rgba(0,0,0,0.1);
@@ -29,6 +87,11 @@ header.header--white {
   .btn__icon--hamburger span::before,
   .btn__icon--hamburger span::after {
     background: var(--black);
+  }
+
+  .has-submenu > a::after,
+  .has-submenu > button::after {
+    border-top: 4px solid var(--black);
   }
 }
 
@@ -63,7 +126,14 @@ header.header--white {
   display: flex;
 }
 
-.desktop-nav > ul > li > a {
+.desktop-nav > ul > li > button {
+  background: transparent;
+  border: 0;
+  appearance: none;
+}
+
+.desktop-nav > ul > li > a,
+.desktop-nav > ul > li > button {
   text-decoration: none;
   color: var(--white);
   font-weight: 600;
