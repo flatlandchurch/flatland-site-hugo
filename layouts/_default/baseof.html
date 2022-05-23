@@ -142,7 +142,9 @@
 
               if (!alertableItem) return;
 
-              if (alertableItem.display === 'modal' && !dismissedModals.includes(alertableItem.permalink) && alertableItem.display.modal) {
+              console.log(alertableItem)
+
+              if (alertableItem.display.modal && !dismissedModals.includes(alertableItem.permalink) && alertableItem.display.modal) {
                 setTimeout(() => {
                   const el = document.getElementById('modal-template');
                   const id = new Date().getTime().toString(16);
