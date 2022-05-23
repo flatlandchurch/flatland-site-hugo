@@ -8,4 +8,5 @@ speaker:
 title: Your Growth Matters
 image: https://i.imgur.com/iS7fkIy.png
 date: 2022-05-22T14:30:00.000Z
+series: "you-matter-series"
 ---
