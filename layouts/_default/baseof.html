@@ -142,8 +142,6 @@
 
               if (!alertableItem) return;
 
-              console.log(alertableItem)
-
               if (alertableItem.display.modal && !dismissedModals.includes(alertableItem.permalink) && alertableItem.display.modal) {
                 setTimeout(() => {
                   const el = document.getElementById('modal-template');
