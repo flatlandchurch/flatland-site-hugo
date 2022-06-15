@@ -27,6 +27,24 @@ Flatland Church | Helping people move to the center of God's Kingdom
         <div class="jumbotron__overlay"></div>
     </section>
 
+    {{ with .Params.JumboAd }}
+    <section class="block block__img">
+        <div class="container">
+            <div class="section-title section-title--left">
+                {{ with .Prop }}
+                <img src="{{.}}" />
+                {{ end }}
+                <h2>{{ .Title }}</h2>
+                <p>{{ .Subtitle | markdownify }}</p>
+                <div class="spacer" style="--top: 2"></div>
+                <a href="{{ .Action.Url }}" class="btn">{{ .Action.Label }}</a>
+            </div>
+            <img src="{{ .Img }}" alt="{{ .ImgAlt }}"/>
+            <div class="overlay"></div>
+        </div>
+    </section>
+    {{ end }}
+
     {{ with .Params.Holiday }}
     <section class="block block__img">
         <div class="container">
