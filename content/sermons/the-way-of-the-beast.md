@@ -8,4 +8,5 @@ speaker:
 title: The Way of the Beast
 image: https://i.imgur.com/kBZMmH8.png
 date: 2022-06-19T14:30:00.000Z
+series: "666"
 ---
