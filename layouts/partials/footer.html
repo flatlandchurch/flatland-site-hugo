@@ -90,6 +90,11 @@
             <a href="https://flatland.churchcenter.com">My Account</a>
             <a href="https://today.flatland.church">Updates</a>
         </div>
-        <p class="copyright">Copyright 2020, Flatland Group | All Rights Reserved | 501(c)3 47-0795919</p>
+        <p class="copyright">Copyright 2020-<span id="cr-current-year"></span>, Flatland Group | All Rights Reserved | 501(c)3 47-0795919</p>
     </div>
+    <script>
+        (() => {
+            document.getElementById('cr-current-year').innerText = new Date().getFullYear();
+        })();
+    </script>
 </footer>
