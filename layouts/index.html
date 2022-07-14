@@ -13,7 +13,7 @@ Flatland Church | Helping people move to the center of God's Kingdom
             <h1>{{.Params.Title | safeHTML}}</h1>
             <div class="jumbotron__content--text">
                 <p>{{.Params.Subtitle}}</p>
-                <p><small>Sunday Mornings, 9:30 AM &amp; 11:00 AM</small></p>
+                <p><small>Sunday Mornings, 10:00 AM</small></p>
             </div>
             <div class="jumbotron__buttons">
                 <a class="btn btn--primary" href="{{ .Params.Action.Url }}">{{ .Params.Action.Label }}</a>
@@ -26,6 +26,24 @@ Flatland Church | Helping people move to the center of God's Kingdom
         <img class="mobile-alt" src="{{ .Params.Image }}" alt="Jason Berry being baptized">
         <div class="jumbotron__overlay"></div>
     </section>
+
+    {{ with .Params.JumboAd }}
+    <section class="block block__img">
+        <div class="container">
+            <div class="section-title section-title--left">
+                {{ with .Prop }}
+                <img src="{{.}}" />
+                {{ end }}
+                <h2>{{ .Title }}</h2>
+                <p>{{ .Subtitle | markdownify }}</p>
+                <div class="spacer" style="--top: 2"></div>
+                <a href="{{ .Action.Url }}" class="btn">{{ .Action.Label }}</a>
+            </div>
+            <img src="{{ .Img }}" alt="{{ .ImgAlt }}"/>
+            <div class="overlay"></div>
+        </div>
+    </section>
+    {{ end }}
 
     {{ with .Params.Holiday }}
     <section class="block block__img">
