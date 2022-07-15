@@ -84,7 +84,7 @@ _holiday:
     Image:
         src: /Images/easter-background.png
         alt: Stained glass window depicting Jesus’ ascension in heaven with Apostles surrounding him
-jumboAd:
+_jumboAd:
     title: Become a Legend
     subtitle: Every athlete admires the legends of their favorite sport. It's easy for kids to look at these great players and want to be just like them. It's important to show them that becoming a legend doesn't happen overnight. It takes perseverance, lots of hard work, and a _great_ team.<br />MEGA Sports Camp _Legendary_ gives kids tools to help them in sports and in life. Through action-packed sports training session mixed with interactive rallies and Bible reading, kids will have fun and meet the **One** who is beyond legendary – Jesus.
     prop: /images/mega_2022.png
