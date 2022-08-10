@@ -1,7 +1,7 @@
 ---
 title: "Good News: Name - ‘I AM’"
 image: "https://images.unsplash.com/photo-1500670602153-5e2dd3c75f20?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85"
-date: "2022-07-18T15:50:21.320Z"
+date: "2022-07-25T09:56:14.000Z"
 author:
   id: "jj-jackson"
   name: "JJ Jackson"
@@ -22,7 +22,7 @@ This week, we’re going to show how the Light (God) has been brought to earth, 
 
 ----
 
-> _This is my eternal name,   
+> _This is my eternal name,    
     my name to remember for all generations._ Exodus 3:15b NLT
 
 [1]: https://biblehub.com/bsb/exodus/3.htm
