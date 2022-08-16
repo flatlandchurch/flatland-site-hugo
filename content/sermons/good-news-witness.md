@@ -8,4 +8,5 @@ speaker:
 title: Good News - Witness
 image: https://i.imgur.com/iYCxyJ3.png
 date: 2022-08-14T14:30:00.000Z
+series: "good-news"
 ---
