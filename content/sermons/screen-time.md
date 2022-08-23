@@ -8,4 +8,5 @@ speaker:
 title: Screen Time
 image: https://i.imgur.com/VfBEGRC.png
 date: 2022-08-22T14:30:00.000Z
+series: "hot-topics-vol-3"
 ---
