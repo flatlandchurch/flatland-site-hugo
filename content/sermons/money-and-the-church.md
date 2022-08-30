@@ -8,4 +8,5 @@ speaker:
 title: Money and the Church
 image: https://i.imgur.com/lV6xtiH.png
 date: 2022-08-28T14:30:00.000Z
+series: "hot-topics-vol-3"
 ---
