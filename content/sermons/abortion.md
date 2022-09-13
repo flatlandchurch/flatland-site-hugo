@@ -8,4 +8,5 @@ speaker:
 title: Abortion
 image: https://i.imgur.com/ShQqSQy.png
 date: 2022-09-11T14:30:00.000Z
+series: "hot-topics-vol-3"
 ---
