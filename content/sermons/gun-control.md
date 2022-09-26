@@ -8,4 +8,5 @@ speaker:
 title: Gun Control
 image: https://i.imgur.com/4PUmxiY.png
 date: 2022-09-25T14:30:00.000Z
+series: "hot-topics-vol-3"
 ---
