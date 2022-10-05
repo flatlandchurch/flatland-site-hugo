@@ -1,7 +1,7 @@
 ---
 title: Moving to the <ins>center</ins> of God's Kingdom.
 subtitle: Welcome to Flatland Church. There's something here for you.
-image: /images/baptism-candida-baxter.jpg
+image: /images/baptism-will-allen.jpg
 action:
     url: https://flatland.online.church
     label: Watch Live
