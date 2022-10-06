@@ -38,7 +38,7 @@ connect:
       imgAlt: Kids running in an easter egg hunt.
 transform:
     title: Experience transformation.
-    subtitle: Flatland. Our name reflects our mission and our culture. We make the pathway to knowing God as flat and easy as possible. You'll also find that everyone is on level ground--we're all on this journey together--with Jesus as our Lord. If you want to move to the center of God's kingdom, there's something here for you.
+    subtitle: One of the things we say at Flatland all the time is "we love you right where you are, but we love you too much to leave you there." We're committed to seeing God transform your life as you move closer to the center of his Kingdom, and we have a number of key ways to help you do just that.
     cards:
     - url: /baptism
       title: Get baptized.
@@ -94,5 +94,5 @@ _jumboAd:
         label: Sign Up Now
 ---
 
-Flatland is all about moving people to the center of God's kingdom. We do this by communicating the good news of Jesus and experiencing the presence and power of His Spirit.
+Flatland. Our name reflects our mission and our culture. We make the pathway to knowing God as flat and easy as possible. You'll also find that everyone is on level ground--we're all on this journey together--with Jesus as our Lord. If you want to move to the center of God's kingdom, there's something here for you.
 
