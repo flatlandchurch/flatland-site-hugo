@@ -94,5 +94,5 @@ _jumboAd:
         label: Sign Up Now
 ---
 
-Flatland. Our name reflects our mission and our culture. We make the pathway to knowing God as flat and easy as possible. You'll also find that everyone is on level ground--we're all on this journey together--with Jesus as our Lord. If you want to move to the center of God's kingdom, there's something here for you.
+Flatland. Our name reflects our mission and our culture. We make the pathway to knowing God as smooth and easy as possible. We're all on this journey together. If you want a safe and inspiring place to move to the center of God's kingdom, <b>there's something here for you</b>. Discover the good news of Jesus and experience the power of His Spirit.
 
