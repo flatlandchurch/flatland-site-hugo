@@ -8,4 +8,5 @@ speaker:
 title: ID - Immortal
 image: https://i.imgur.com/Marnrnn.png
 date: 2022-11-20T14:30:00.000Z
+series: "id"
 ---
