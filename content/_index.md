@@ -84,9 +84,23 @@ _holiday:
     Image:
         src: /Images/easter-background.png
         alt: Stained glass window depicting Jesus’ ascension in heaven with Apostles surrounding him
+holiday:
+    title: Christmas Eve
+    description: Join us for Christmas Eve on Saturday, December 24, at <ins>3:30pm</ins> or <ins>5:00pm</ins>. Enjoy the Christmas story, Christmas music, and more as we celebrate the birth of Christ.
+    Image:
+        src: /Images/christmas-background.png
+        alt: Christmas Graphic
 _jumboAd:
-    title: Become a Legend
-    subtitle: Every athlete admires the legends of their favorite sport. It's easy for kids to look at these great players and want to be just like them. It's important to show them that becoming a legend doesn't happen overnight. It takes perseverance, lots of hard work, and a _great_ team.<br />MEGA Sports Camp _Legendary_ gives kids tools to help them in sports and in life. Through action-packed sports training session mixed with interactive rallies and Bible reading, kids will have fun and meet the **One** who is beyond legendary – Jesus.
+    title: Review/Preview
+    subtitle: Our annual Review/Preview service is Sunday, January 1. This year features an online, 30-minute special as we review 2022 and unveil our eight teaching series for 2023. Join us at 10:00am right hear at flatlandchurch.com.
+    prop: /images/mega_2022.png
+    img: /images/buffet.jpeg
+    action:
+        url: https://flatland.churchcenter.com/registrations/events/1248043
+        label: Sign Up Now
+_jumboAd:
+    title: MEGA Sports Camp
+    subtitle: Our annual Review/Preview service is Sunday, January 1. This year features an online, 30-minute special as we review 2022 and unveil our eight teaching series for 2023. Join us at 10:00am right hear at flatlandchurch.com.
     prop: /images/mega_2022.png
     img: /images/buffet.jpeg
     action:
