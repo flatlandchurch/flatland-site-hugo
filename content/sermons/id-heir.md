@@ -8,4 +8,5 @@ speaker:
 title: ID - Heir
 image: https://i.imgur.com/sU4QmTN.png
 date: 2022-12-04T14:30:00.000Z
+series: "id"
 ---
