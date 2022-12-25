@@ -84,7 +84,7 @@ _holiday:
     Image:
         src: /Images/easter-background.png
         alt: Stained glass window depicting Jesus’ ascension in heaven with Apostles surrounding him
-holiday:
+_holiday:
     title: Christmas Services
     description: Christmas Eve<br> In Person and Online<br> Saturday, December 24<br> 3:30pm or 5:00pm<br><br> Christmas Day<br> Online Only<br> Sunday, December 25<br> 10:00am
     Image:
@@ -93,12 +93,12 @@ holiday:
 _jumboAd:
     title: Review/Preview
     subtitle: Our annual Review/Preview service is Sunday, January 1. This year features an online, 30-minute special as we review 2022 and unveil our eight teaching series for 2023. Join us at 10:00am right hear at flatlandchurch.com.
-    prop: /images/mega_2022.png
+    prop: /images/cupojoy.jpg
     img: /images/buffet.jpeg
     action:
-        url: https://flatland.churchcenter.com/registrations/events/1248043
-        label: Sign Up Now
-_jumboAd:
+        url: https://flatland.churchcenter.com/registrations/events/1551070
+        label: Register Now
+jumboAd:
     title: MEGA Sports Camp
     subtitle: Our annual Review/Preview service is Sunday, January 1. This year features an online, 30-minute special as we review 2022 and unveil our eight teaching series for 2023. Join us at 10:00am right hear at flatlandchurch.com.
     prop: /images/mega_2022.png
