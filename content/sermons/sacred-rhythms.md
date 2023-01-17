@@ -8,5 +8,5 @@ speaker:
 title: Sacred Rhythms
 image: https://i.imgur.com/qgz15XB.png
 date: 2023-01-08T14:30:00.000Z
-series: "rhythm"
+series: "Rhythm"
 ---

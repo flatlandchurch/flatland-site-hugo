@@ -8,4 +8,5 @@ speaker:
 title: Seasonal Rhythms
 image: https://i.imgur.com/vo3vB0I.png
 date: 2023-01-15T14:30:00.000Z
+series: "Rhythm"
 ---

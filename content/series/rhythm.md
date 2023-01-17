@@ -1,5 +1,5 @@
 ---
-title: "rhythm"
+title: "Rhythm"
 image: /images/series-rhythm.jpg
 date: "2023-01-08T14:30:00.000Z"
 ---
