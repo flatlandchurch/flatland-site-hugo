@@ -8,4 +8,5 @@ speaker:
 title: Weekly Rhythms
 image: https://i.imgur.com/wJA8JJh.png
 date: 2023-01-22T14:30:00.000Z
+series: "rhythm"
 ---
