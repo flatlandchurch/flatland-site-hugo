@@ -8,4 +8,5 @@ speaker:
 title: Daily Rhythms
 image: https://i.imgur.com/rwo0MLd.png
 date: 2023-01-29T14:30:00.000Z
+series: "rhythm"
 ---
