@@ -8,4 +8,5 @@ speaker:
 title: Intermittent Rhythms
 image: https://i.imgur.com/RlxjfnI.png
 date: 2023-02-05T14:30:00.000Z
+series: "rhythm"
 ---
