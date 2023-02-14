@@ -1,7 +1,7 @@
 ---
 title: Discipleship
 image: /images/mitchell-matt.jpg
-imagePosition: bottom
+imagePosition: top
 ---
 
 Our top priority at Flatland is to help you move to the center of God’s kingdom. God designed your life to function at it’s best when you are closest to Him.

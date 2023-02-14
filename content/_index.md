@@ -49,9 +49,9 @@ transform:
       icon: fas fa-user-friends
       img: /images/smith-3.jpg
       imgAlt: A small group of women smiling.
-    - url: /mentoring
+    - url: /discipleship
       icon: far fa-handshake
-      title: Get mentored.
+      title: Move to the center.
       img: /images/kelvin-leon.jpg
       imgAlt: Women sitting in a teaching session.
     - url: /coaching
