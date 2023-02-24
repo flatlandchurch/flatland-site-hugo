@@ -1,0 +1,5 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range .RegularPages -}}
+{{- $.Scratch.Add "index" (dict "title" .Title "permalink" .RelPermalink "date" .Params.Date "vimeoId" .Params.Video.Id "speaker" .Params.Speaker.Name) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}
