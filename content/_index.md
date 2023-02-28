@@ -82,7 +82,7 @@ holiday:
     title: Easter Services
     description: Join us on Resurrection Sunday, April 9, at <ins>9:00am</ins> or <ins>10:30am</ins>. Experience the wonder and personal impact of Christ's resurrection power.
     Image:
-        src: /Images/easter-background.png
+        src: /Images/lilies_background.jpg
         alt: Stained glass window depicting Jesus’ ascension in heaven with Apostles surrounding him
 _holiday:
     title: Christmas Services
