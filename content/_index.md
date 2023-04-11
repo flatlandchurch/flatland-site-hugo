@@ -78,7 +78,7 @@ footerAd:
       url: https://omasom.com/
       label: Find Out More
     img: /fc-jumbo.jpeg
-holiday:
+_holiday:
     title: Easter Services
     description: Join us on Resurrection Sunday, April 9, at <ins>9:00am</ins> or <ins>10:30am</ins>. Experience the wonder and personal impact of Christ's resurrection power.
     Image:
