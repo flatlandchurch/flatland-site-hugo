@@ -8,4 +8,5 @@ speaker:
 title: Holy Work
 image: https://i.imgur.com/c7EDlOp.png
 date: 2023-04-23T14:30:00.000Z
+series: "holiness"
 ---
