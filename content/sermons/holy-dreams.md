@@ -8,4 +8,5 @@ speaker:
 title: Holy Dreams
 image: https://i.imgur.com/gV1OVcm.png
 date: 2023-04-30T14:30:00.000Z
+series: "holiness"
 ---
