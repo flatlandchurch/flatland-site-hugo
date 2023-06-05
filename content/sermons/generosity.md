@@ -8,4 +8,5 @@ speaker:
 title: Generosity
 image: https://i.imgur.com/skkHcU8.png
 date: 2023-06-04T14:30:00.000Z
+series: "they-called-us-christians"
 ---
