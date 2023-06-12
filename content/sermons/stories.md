@@ -8,4 +8,5 @@ speaker:
 title: Stories
 image: https://i.imgur.com/QgC1zel.png
 date: 2023-06-11T14:30:00.000Z
+series: "they-called-us-christians"
 ---
