@@ -97,14 +97,16 @@ _jumboAd:
     action:
         url: https://flatland.churchcenter.com/registrations/events/1551070
         label: Register Now
-_jumboAd:
+jumboAd:
     title: MEGA Sports Camp
-    subtitle: Our annual Review/Preview service is Sunday, January 1. This year features an online, 30-minute special as we review 2022 and unveil our eight teaching series for 2023. Join us at 10:00am right hear at flatlandchurch.com.
-    prop: /images/mega_2022.png
-    img: /images/buffet.jpeg
+    subtitle: July 17-21<br>
+    4801 North 144th Street<br>
+    MEGA Sports Camp is a great way for kids to learn about Jesus while participating in soccer, track & field, or cheer. Sign up by July 1 and receive a camp t-shirt.
+    prop: /images/mega_2023.png
+    img: /images/mega_2023.png
     action:
-        url: https://flatland.churchcenter.com/registrations/events/1248043
-        label: Sign Up Now
+        url: https://flatland.churchcenter.com/registrations/events/1691588
+        label: More Info
 ---
 
 Flatland. Our name reflects our mission and our culture. We make the pathway to knowing God as smooth and easy as possible. We're all on this journey together. If you want a safe and inspiring place to move to the center of God's kingdom, <b>there's something here for you</b>. Discover the good news of Jesus and experience the power of His Spirit.
