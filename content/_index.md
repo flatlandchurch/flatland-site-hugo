@@ -78,6 +78,13 @@ footerAd:
       url: https://omasom.com/
       label: Find Out More
     img: /fc-jumbo.jpeg
+holiday:
+    title: Review/Preview Cup o' Joy Edition
+    subtitle: Our annual Review/Preview service is Sunday, January 1. This year features an online, 30-minute special as we review 2022 and unveil our eight teaching series for 2023. Join us at 10:00am right hear at flatlandchurch.com.<br><br> Or, join us at Flatland Church for a Watch Party! Register and come early for breakfast at 9:30am!<br>
+    img: /images/cupojoy.jpg
+    action:
+        url: https://flatland.churchcenter.com/registrations/events/1551070
+        label: Register Now
 _holiday:
     title: Easter Services
     description: Join us on Resurrection Sunday, April 9, at <ins>9:00am</ins> or <ins>10:30am</ins>. Experience the wonder and personal impact of Christ's resurrection power.
