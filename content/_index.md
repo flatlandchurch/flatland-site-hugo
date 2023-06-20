@@ -106,9 +106,7 @@ _jumboAd:
         label: Register Now
 jumboAd:
     title: MEGA Sports Camp
-    subtitle: July 17-21<br>
-    4801 North 144th Street<br>
-    MEGA Sports Camp is a great way for kids to learn about Jesus while participating in soccer, track & field, or cheer. Sign up by July 1 and receive a camp t-shirt.
+    subtitle: July 17-21<br>4801 North 144th Street<br>MEGA Sports Camp is a great way for kids to learn about Jesus while participating in soccer, track & field, or cheer. Sign up by July 1 and receive a camp t-shirt.
     img: /images/mega_2023.png
     action:
         url: https://flatland.churchcenter.com/registrations/events/1691588
