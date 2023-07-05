@@ -8,4 +8,5 @@ speaker:
 title: Overseers
 image: https://i.imgur.com/Z5qLBqQ.png
 date: 2023-07-02T14:30:00.000Z
+series: "they-called-us-christians"
 ---
