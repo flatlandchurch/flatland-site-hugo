@@ -8,4 +8,5 @@ speaker:
 title: Left, Right
 image: https://i.imgur.com/uFZXpuT.png
 date: 2023-07-16T14:30:00.000Z
+series: "in-step"
 ---
