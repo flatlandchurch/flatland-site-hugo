@@ -8,4 +8,5 @@ speaker:
 title: Altogether Now
 image: https://i.imgur.com/nFfvDk8.png
 date: 2023-07-23T14:30:00.000Z
+series: "in-step"
 ---
