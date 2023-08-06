@@ -8,4 +8,5 @@ speaker:
 title: Walking Backwards
 image: https://i.imgur.com/Y2mCQL3.png
 date: 2023-07-30T14:30:00.000Z
+series: "in-step"
 ---
