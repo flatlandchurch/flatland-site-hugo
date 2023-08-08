@@ -8,4 +8,5 @@ speaker:
 title: Tripped Up
 image: https://i.imgur.com/1UYXSPY.png
 date: 2023-08-06T14:30:00.000Z
+series: "in-step"
 ---
