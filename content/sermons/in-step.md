@@ -8,4 +8,5 @@ speaker:
 title: In Step
 image: https://i.imgur.com/2q8nKqy.png
 date: 2023-08-13T14:30:00.000Z
+series: "in-step"
 ---
