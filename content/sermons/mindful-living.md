@@ -8,4 +8,5 @@ speaker:
 title: Mindful Living
 image: https://i.imgur.com/CJAsyQt.png
 date: 2023-08-20T14:30:00.000Z
+series: "jesus-is-coming"
 ---
