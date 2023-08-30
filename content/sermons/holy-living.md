@@ -8,4 +8,5 @@ speaker:
 title: Holy Living
 image: https://i.imgur.com/s4smysQ.png
 date: 2023-08-27T14:30:00.000Z
+series: "jesus-is-coming"
 ---
