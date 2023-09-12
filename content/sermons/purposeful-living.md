@@ -8,4 +8,5 @@ speaker:
 title: Purposeful Living
 image: https://i.imgur.com/SNsX5QN.png
 date: 2023-09-11T14:30:00.000Z
+series: "jesus-is-coming"
 ---
