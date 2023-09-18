@@ -8,4 +8,5 @@ speaker:
 title: Joyful Living
 image: https://i.imgur.com/rBpvYd0.png
 date: 2023-09-17T14:30:00.000Z
+series: "jesus-is-coming"
 ---
