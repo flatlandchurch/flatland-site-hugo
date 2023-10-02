@@ -8,4 +8,5 @@ speaker:
 title: Health and Wellness
 image: https://i.imgur.com/AQorsDG.png
 date: 2023-10-01T14:30:00.000Z
+series: "hot-topics-vol-4"
 ---
