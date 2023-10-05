@@ -21,7 +21,7 @@ connect:
       icon: fas fa-map-marker-alt
       img: /images/flatland144_fall.jpg
       imgAlt: Front of Flatland 174 campus
-    - url: /classes/next-step/
+    - url: https://flatland.churchcenter.com/registrations/events/1877033
       title: New Here?
       icon: fas fa-arrow-right
       img: /images/entering.jpg
