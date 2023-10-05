@@ -40,24 +40,24 @@ transform:
     title: Experience transformation.
     subtitle: One of the things we say at Flatland all the time is "we love you right where you are, but we love you too much to leave you there." We're committed to seeing God transform your life as you move closer to the center of his Kingdom, and we have a number of key ways to help you do just that.
     cards:
-    - url: https://flatland.churchcenter.com/people/forms/178622
-      title: Get baptized.
-      icon: fas fa-water
-      img: https://c2.staticflickr.com/2/1914/31222352798_4cef1d97c7_b.jpg
+    - url: https://flatland.churchcenter.com/registrations/events/1877033
+      icon: far fa-clipboard
+      title: Flatland 101.
+      img: /images/coaching-2.jpg
     - url: /groups
       title: Join a life group.
       icon: fas fa-user-friends
       img: /images/smith-3.jpg
       imgAlt: A small group of women smiling.
-    - url: /discipleship
+    - url: https://flatland.churchcenter.com/people/forms/518796
       icon: far fa-handshake
-      title: Move to the center.
+      title: Get discipled.
       img: /images/kelvin-leon.jpg
       imgAlt: Women sitting in a teaching session.
-    - url: /coaching
-      icon: far fa-clipboard
-      title: Get coached.
-      img: /images/coaching-2.jpg
+    - url: https://flatland.churchcenter.com/people/forms/178622
+      title: Get baptized.
+      icon: fas fa-water
+      img: https://c2.staticflickr.com/2/1914/31222352798_4cef1d97c7_b.jpg
 prayer:
     title: Need Prayer?
     subtitle: Prayer is at the core of everything we are at Flatland. The Apostle Paul encouraged his friends to never stop praying. We want to pray for you in your time of need.
