@@ -40,7 +40,7 @@ transform:
     title: Experience transformation.
     subtitle: One of the things we say at Flatland all the time is "we love you right where you are, but we love you too much to leave you there." We're committed to seeing God transform your life as you move closer to the center of his Kingdom, and we have a number of key ways to help you do just that.
     cards:
-    - url: /baptism
+    - url: https://flatland.churchcenter.com/people/forms/178622
       title: Get baptized.
       icon: fas fa-water
       img: https://c2.staticflickr.com/2/1914/31222352798_4cef1d97c7_b.jpg
