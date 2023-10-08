@@ -37,3 +37,9 @@ High-Five Class: Every April/May children ending their 5th grade year have a spe
 ## Find Out More
 
 {{< form id=379972 >}}
+
+Please let us know if you have any questions about our kids' ministry at Flatland.
+
+action:
+    url: https://flatland.churchcenter.com/people/forms/379972
+    label: Questions
