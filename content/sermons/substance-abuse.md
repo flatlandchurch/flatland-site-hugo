@@ -8,4 +8,5 @@ speaker:
 title: Substance Abuse
 image: https://i.imgur.com/HHUUGyA.png
 date: 2023-10-08T14:30:00.000Z
+series: "hot-topics-vol-4"
 ---
