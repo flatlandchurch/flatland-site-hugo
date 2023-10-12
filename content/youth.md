@@ -31,6 +31,4 @@ Throughout the year we also offer several events to help students move closer to
   image: https://i.imgur.com/6rY2BGR.png
 {{< /gallery >}}
 
-## Find Out More
-
-{{< form id=379971 >}}
+## [Find Out More](https://flatland.churchcenter.com/people/forms/379971)
