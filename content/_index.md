@@ -113,5 +113,5 @@ _jumboAd:
         label: More Info
 ---
 
-Flatland. Our name reflects our mission and our culture. We make the pathway to knowing God as smooth and easy as possible. We're all on this journey together. If you want a safe and inspiring place to move to the center of God's kingdom, <b>there's something here for you</b>. Discover the good news of Jesus and experience the power of His Spirit.
+Flatland. We make the pathway to knowing God as smooth and easy as possible. We're all on this journey together. If you want a safe and inspiring place to move to the center of God's kingdom, <b>there's something here for you</b>. Discover the good news of Jesus and experience the power of His Spirit.
 
