@@ -113,5 +113,5 @@ _jumboAd:
         label: More Info
 ---
 
-Flatland.<br>We make the pathway to knowing God<br>as smooth and easy as possible.<br>We're all on this journey together.<br>If you want a safe<br>and inspiring place to<br>move to the center of God's kingdom,<br><b>there's something here for you</b>.<br>Discover the good news of Jesus<br>and experience the power of His Spirit.
+Flatland. We make the pathway to knowing God as smooth and easy as possible. We're all on this journey together. If you want a safe and inspiring place to move to the center of God's kingdom, <b>there's something here for you</b>. Discover the good news of Jesus and experience the power of His Spirit.
 
