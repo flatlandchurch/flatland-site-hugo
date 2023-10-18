@@ -8,4 +8,5 @@ speaker:
 title: Pornography
 image: https://i.imgur.com/WdMd57S.png
 date: 2023-10-15T14:30:00.000Z
+series: "hot-topics-vol-4"
 ---
