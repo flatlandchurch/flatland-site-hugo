@@ -8,4 +8,5 @@ speaker:
 title: Domestic Violence
 image: https://i.imgur.com/z9rotaO.png
 date: 2023-10-29T14:30:00.000Z
+series: "hot-topics-vol-4"
 ---
