@@ -8,4 +8,5 @@ speaker:
 title: Artificial Intelligence
 image: https://i.imgur.com/NVwsfYT.png
 date: 2023-11-05T14:30:00.000Z
+series: "hot-topics-vol-4"
 ---
