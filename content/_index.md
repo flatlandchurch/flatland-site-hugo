@@ -6,7 +6,7 @@ action:
     url: https://flatland.online.church
     label: Watch Live
 secondaryAction:
-    url: /locations
+    url: https://flatland.churchcenter.com/people/forms/650071
     label: Plan a Visit
 today:
     title: today.flatland.church
