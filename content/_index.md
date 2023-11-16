@@ -62,13 +62,13 @@ prayer:
     title: Need Prayer?
     subtitle: Prayer is at the core of everything we are at Flatland. The Apostle Paul encouraged his friends to never stop praying. We want to pray for you in your time of need.
     action:
-      url: /prayer
+      url: https://flatland.churchcenter.com/people/forms/15019
       label: Request Prayer
 volunteer:
     title: Join the Team
     subtitle: At Flatland Church we value collaboration as we work together to help people move to the center. Find a place where you can serve at Flatland.
     action:
-      url: /volunteer
+      url: https://flatland.churchcenter.com/people/forms/245824
       label: Find Your Spot
 footerAd:
     title: Accredited Education, Accelerated Experience
