@@ -2,7 +2,7 @@
 title: About
 description: Find out more about Flatland Church.
 image: /images/flatland-2023.jpg
-imagePosition: center
+imagePosition: bottom
 ---
 
 Flatland is all about moving people to the center of God’s kingdom. Through creative presentations and messages you will discover what God’s kingdom is all about and how being a part of it will transform your life in a powerful way.
