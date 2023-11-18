@@ -5,13 +5,13 @@ image: /images/flatland-2023.jpg
 imagePosition: bottom
 ---
 
-Flatland is all about moving people to the center of God’s kingdom. Through creative presentations and messages you will discover what God’s kingdom is all about and how being a part of it will transform your life in a powerful way.
+Flatland is all about moving people to the center of God’s kingdom. Through creative presentations and messages you will discover what God’s kingdom is all about. You will also discover how being a part of God's kingdom will transform your life in a powerful way.
 
 If you're new to the area, new to church, or looking for a new start, our Sunday morning services offer the opportunity to be transformed and grow deeper in your walk with Christ.
 
-We meet in 2 location in the Omaha Metro Area, with an additional "venue" that serves our local jail. Check out our locations page to find the service that meets nearest you.
+We currently have worship services at our Flatland 144 campus (144th & Larimore) on Sundays at 10:00am. Our Flatland 174 campus (174th & Pacific) serves as our unique discipleship center. We offer professional Christian counseling, support groups and various workshops and seminars at this location.
 
-<a href="/locations" class="btn btn--primary">Find a Location</a>
+<a href="/locations" class="btn btn--primary">Locations</a>
 
 ## Our Values
 
