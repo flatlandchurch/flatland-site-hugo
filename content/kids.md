@@ -34,4 +34,6 @@ Summer Kid’s Camp: FlatKid’s, going in 2nd grade – 5th grade can attend ou
 
 High-Five Class: Every April/May children ending their 5th grade year have a special 6 week class taught by our youth pastor, Codey Friesen. The mission of the High Five Course is to help students move easily and comfortably from children's ministry to youth ministry. All those who successfully complete this class will be able to attend Youth Camp for free.
 
-## [Find Out More](https://flatland.churchcenter.com/people/forms/379972)
+{{< action href="https://flatland.churchcenter.com/people/forms/379972" context="primary">}}
+Find Out More
+{{< /action >}}
