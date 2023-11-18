@@ -1,7 +1,7 @@
 ---
 title: About
 description: Find out more about Flatland Church.
-image: https://i.imgur.com/6jKhyU9.jpg
+image: /images/flatland-2023.jpg
 imagePosition: center
 ---
 
@@ -31,7 +31,7 @@ Love has always been at the core of Christ’s mission here on Earth. Jesus told
 
 In [2 Corinthians 3:18](https://www.biblegateway.com/passage/?search=2%20Corinthians%203:18) the Apostle Paul encourages his friends at a church in Greece to continue being transformed from glory to glory. We value life transformation here at Flatland Church. We believe that becoming more like God and moving closer to the center of His Kingdom is a life-long journey. We desire to equip you for the journey through inspiring teaching, educational class, and regular life coaching.
 
-<a href="/coaching" class="btn btn--gray">Get a Coach</a>
+<a href="/discipleship" class="btn btn--gray">Get Discipled</a>
 
 ### Collaboration
 
