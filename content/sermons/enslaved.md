@@ -8,4 +8,5 @@ speaker:
 title: Enslaved
 image: https://i.imgur.com/wzkW2dt.png
 date: 2023-11-19T14:30:00.000Z
+series: "the-practice-of-sorrow"
 ---
