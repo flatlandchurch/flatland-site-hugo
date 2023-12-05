@@ -91,11 +91,11 @@ _holiday:
     Image:
         src: /Images/lilies_background.jpg
         alt: Stained glass window depicting Jesus’ ascension in heaven with Apostles surrounding him
-_holiday:
-    title: Christmas Services
-    description: Christmas Eve<br> In Person and Online<br> Saturday, December 24<br> 3:30pm or 5:00pm<br><br> Christmas Day<br> Online Only<br> Sunday, December 25<br> 10:00am
+holiday:
+    title: Christmas Eve Services
+    description: Christmas Eve<br> In Person and Online<br> Sunday, December 25<br> 10:00am or 3:30pm
     Image:
-        src: /Images/christmas-background.png
+        src: /Images/2024-christmas-background.png
         alt: Christmas Graphic
 _jumboAd:
     title: Review/Preview Cup o' Joy Edition
