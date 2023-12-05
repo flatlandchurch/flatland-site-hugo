@@ -93,7 +93,7 @@ _holiday:
         alt: Stained glass window depicting Jesus’ ascension in heaven with Apostles surrounding him
 holiday:
     title: Christmas Eve Services
-    description: Christmas Eve<br> In Person and Online<br> Sunday, December 25<br> 10:00am or 3:30pm
+    description: Sunday, December 24<br> 10:00am or 3:30pm<br> In Person and Online
     Image:
         src: /Images/2024-christmas-background.png
         alt: Christmas Graphic
