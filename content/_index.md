@@ -113,5 +113,5 @@ _jumboAd:
         label: More Info
 ---
 
-If you want a safe and inspiring place to discover the good news of Jesus, <b>there's something here for you</b>. Flatland offers a smooth and level pathway to move to the center of God's kingdom.
+If you want a safe and inspiring place to discover the good news of Jesus, <b>there's something here for you</b>. Flatland offers a straightforward and level pathway to move to the center of God's kingdom.
 
