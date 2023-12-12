@@ -8,4 +8,5 @@ speaker:
 title: Corrupted
 image: https://i.imgur.com/QW7uToO.png
 date: 2023-12-10T14:30:00.000Z
+series: "the-practice-of-sorrow"
 ---
