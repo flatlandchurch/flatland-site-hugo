@@ -8,4 +8,5 @@ speaker:
 title: Forsaken
 image: https://i.imgur.com/MsmG7Hy.png
 date: 2023-12-17T14:30:00.000Z
+series: "the-practice-of-sorrow"
 ---
