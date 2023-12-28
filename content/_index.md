@@ -91,7 +91,7 @@ _holiday:
     Image:
         src: /Images/lilies_background.jpg
         alt: Stained glass window depicting Jesus’ ascension in heaven with Apostles surrounding him
-holiday:
+_holiday:
     title: Christmas Eve Services
     description: Sunday, December 24<br> 10:00am or 3:30pm<br> In Person and Online
     Image:
