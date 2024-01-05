@@ -21,7 +21,7 @@ image: /images/bart_preaching.jpg
 - label: JJ Jackson
   image: https://i.imgur.com/jUbKppR.jpg
 - label: Jacob Werner
-  image: /images/Jacob Werner.png
+  image: /images/Jacob Werner.jpg
 - label: Kaitlynn Schimonitz
   image: 
 - label: Jennifer Huckaby
