@@ -13,16 +13,16 @@ The church will be open for prayer Monday through Thursday, 7:00-8:00am and 7:00
 
 **Daily Prayer Focus**
 
-> Sunday: Pray for our eight sermon series, that they would be powerfully anointed this year.
+> <b>Sunday:</b> Pray for our eight sermon series, that they would be powerfully anointed this year.
 
-> Monday: Pray for a hunger for God's word and greater biblical literacy within our church.
+> <b>Monday:</b> Pray for a hunger for God's word and greater biblical literacy within our church.
 
-> Tuesday: Pray for the ongoing development of our Flatland Life Center.
+> <b>Tuesday:</b> Pray for the ongoing development of our Flatland Life Center.
 
-> Wednesday: Pray for our children's and youth ministries.
+> <b>Wednesday:</b> Pray for our children's and youth ministries.
 
-> Thursday: Pray for a great Omaha School of Ministry semester starting next week.
+> <b>Thursday:</b> Pray for a great Omaha School of Ministry semester starting next week.
 
-> Friday: Pray for our missionaries and organizations we support through The Move.
+> <b>Friday:</b> Pray for our missionaries and organizations we support through The Move.
 
-> Saturday: Pray for friends and family who need to know and follow Jesus.
+> <b>Saturday:</b> Pray for friends and family who need to know and follow Jesus.
