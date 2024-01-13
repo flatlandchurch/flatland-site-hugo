@@ -1,5 +1,5 @@
 ---
-title: Sunday Online Service
+title: In-Person Service Canceled Sunday, Join Us Online
 type: alert
 display:
     redBar: true
