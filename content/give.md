@@ -32,4 +32,4 @@ That is why I invite you to join me in giving to The Move. This booklet outlines
 
 Let's move!
 
-{{< action href="/the-move" context="secondary" >}}Learn More{{< /action >}}
+{{< action href="/the-move-project-guide-2024.pdf" context="secondary" >}}Learn More{{< /action >}}
