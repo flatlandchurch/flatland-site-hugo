@@ -28,7 +28,7 @@ It is so exciting to be a part of God's mission for the world. He loves people a
 
 The Move is our way of giving to ministry organizations, projects and efforts that influence lives for the kingdom. The most effective initiatives are the sending and supporting of missionaries, the development of new Christian leaders, and the expansion of the local church. The best investment you can make in the kingdom of God is in these three areas.
 
-That is why I invite you to join me in giving to The Move. This booklet outlines the many ways we are working to build the church and make disciples in 2023. Your monthly or one-time giving to this endeavor will change lives and help us fulfill the mission God has given His church. Together we can advance the kingdom and make disciples of all nations for the sake of Christ and the glory of God.
+That is why I invite you to join me in giving to The Move. This booklet outlines the many ways we are working to build the church and make disciples in 2024. Your monthly or one-time giving to this endeavor will change lives and help us fulfill the mission God has given His church. Together we can advance the kingdom and make disciples of all nations for the sake of Christ and the glory of God.
 
 Let's move!
 
