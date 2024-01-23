@@ -8,4 +8,5 @@ speaker:
 title: The Torah
 image: https://i.imgur.com/dXKpSp6.png
 date: 2024-01-21T14:30:00.000Z
+series: "blessed"
 ---
