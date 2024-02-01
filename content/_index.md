@@ -89,7 +89,7 @@ holiday:
     title: Easter Services
     description: Join us on Resurrection Sunday, March 31, at <ins>9:30am</ins> or <ins>11:00am</ins>. Experience the wonder and personal impact of Christ's resurrection power.
     Image:
-        src: /images/easter_background.png
+        src: /images/easter-background.png
         alt: Pastel wood background
 _holiday:
     title: Christmas Eve Services
