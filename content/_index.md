@@ -85,12 +85,12 @@ _holiday:
     action:
         url: https://flatland.churchcenter.com/registrations/events/1551070
         label: Register Now
-_holiday:
+holiday:
     title: Easter Services
-    description: Join us on Resurrection Sunday, April 9, at <ins>9:00am</ins> or <ins>10:30am</ins>. Experience the wonder and personal impact of Christ's resurrection power.
+    description: Join us on Resurrection Sunday, March 31, at <ins>9:30am</ins> or <ins>11:00am</ins>. Experience the wonder and personal impact of Christ's resurrection power.
     Image:
-        src: /Images/lilies_background.jpg
-        alt: Stained glass window depicting Jesus’ ascension in heaven with Apostles surrounding him
+        src: /images/easter_background.png
+        alt: Pastel wood background
 _holiday:
     title: Christmas Eve Services
     description: Sunday, December 24<br> 10:00am or 3:30pm<br> In Person and Online
