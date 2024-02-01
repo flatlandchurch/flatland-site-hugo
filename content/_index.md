@@ -85,7 +85,7 @@ _holiday:
     action:
         url: https://flatland.churchcenter.com/registrations/events/1551070
         label: Register Now
-holiday:
+_holiday:
     title: Easter Services
     description: Join us on Resurrection Sunday, March 31, at <ins>9:30am</ins> or <ins>11:00am</ins>. Experience the wonder and personal impact of Christ's resurrection power.
     Image:
