@@ -8,4 +8,5 @@ speaker:
 title: The Provision
 image: https://i.imgur.com/6T2qvnj.png
 date: 2024-02-04T14:30:00.000Z
+series: "blessed"
 ---
