@@ -88,7 +88,7 @@ _holiday:
 holiday:
     title: Easter Services 2024
     description: Sunday, March 31<br>
-    <ins>9:30am</ins> or <ins>11:00am</ins>
+    9:30am and 11:00am
     Image:
         src: /images/easter-background.png
         alt: Pastel wood background
