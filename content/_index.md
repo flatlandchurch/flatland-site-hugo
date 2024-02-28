@@ -87,7 +87,8 @@ _holiday:
         label: Register Now
 holiday:
     title: Easter Services
-    description: Join us on Resurrection Sunday, March 31, at <ins>9:30am</ins> or <ins>11:00am</ins>. Experience the wonder and personal impact of Christ's resurrection power.
+    description: Sunday, March 31<br>
+    <ins>9:30am</ins> or <ins>11:00am</ins>
     Image:
         src: /images/easter-background.png
         alt: Pastel wood background
