@@ -71,6 +71,14 @@ volunteer:
       url: https://flatland.churchcenter.com/people/forms/245824
       label: Find Your Spot
 footerAd:
+    title: Integrated Mental Health Collective
+    subtitle: Flatland is developing 7 unique centers for the purpose of providing holistic, Christ-centered support for optimal well-being.
+    prop: /images/FLC-logo.jpg
+    action:
+      url: https://flatland.life/
+      label: Find Out More
+    img: /fc-jumbo.jpeg
+footerAd:
     title: Accredited Education, Accelerated Experience
     subtitle: Omaha School of Ministry is a ministry training program from Flatland Church.
     prop: https://i.imgur.com/3SXjgZL.png
