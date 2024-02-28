@@ -86,7 +86,7 @@ _holiday:
         url: https://flatland.churchcenter.com/registrations/events/1551070
         label: Register Now
 holiday:
-    title: Easter Services
+    title: Easter Services 2024
     description: Sunday, March 31<br>
     <ins>9:30am</ins> or <ins>11:00am</ins>
     Image:
