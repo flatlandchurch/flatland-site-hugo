@@ -59,7 +59,7 @@ transform:
       icon: fas fa-water
       img: https://c2.staticflickr.com/2/1914/31222352798_4cef1d97c7_b.jpg
 prayer:
-    title: Need Prayer?
+    title: Need Prayer
     subtitle: Prayer is at the core of everything we are at Flatland. The Apostle Paul encouraged his friends to never stop praying. We want to pray for you in your time of need.
     action:
       url: https://flatland.churchcenter.com/people/forms/15019
