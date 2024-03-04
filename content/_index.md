@@ -78,48 +78,12 @@ footerAd:
       url: https://flatland.life/
       label: Find Out More
     img: /fc-jumbo.jpeg
-footerAd:
-    title: Accredited Education, Accelerated Experience
-    subtitle: Omaha School of Ministry is a ministry training program from Flatland Church.
-    prop: https://i.imgur.com/3SXjgZL.png
-    action:
-      url: https://omasom.com/
-      label: Find Out More
-    img: /fc-jumbo.jpeg
-_holiday:
-    title: Review/Preview Cup o' Joy Edition
-    subtitle: Our annual Review/Preview service is Sunday, January 1. This year features an online, 30-minute special as we review 2022 and unveil our eight teaching series for 2023. Join us at 10:00am right hear at flatlandchurch.com.<br><br> Or, join us at Flatland Church for a Watch Party! Register and come early for breakfast at 9:30am!<br>
-    img: /images/cupojoy.jpg
-    action:
-        url: https://flatland.churchcenter.com/registrations/events/1551070
-        label: Register Now
 holiday:
     title: Easter Services 2024
-    description: Sunday, March 31<br>
-    9:30am and 11:00am
+    description: Sunday, March 31<br>9:30am and 11:00am
     Image:
         src: /images/easter-background.png
         alt: Pastel wood background
-_holiday:
-    title: Christmas Eve Services
-    description: Sunday, December 24<br> 10:00am or 3:30pm<br> In Person and Online
-    Image:
-        src: /Images/2024-christmas-background.png
-        alt: Christmas Graphic
-_jumboAd:
-    title: Review/Preview Cup o' Joy Edition
-    subtitle: Our annual Review/Preview service is Sunday, January 1. This year features an online, 30-minute special as we review 2022 and unveil our eight teaching series for 2023. Join us at 10:00am right hear at flatlandchurch.com.<br><br> Or, join us at Flatland Church for a Watch Party! Register and come early for breakfast at 9:30am!<br>
-    img: /images/cupojoy.jpg
-    action:
-        url: https://flatland.churchcenter.com/registrations/events/1551070
-        label: Register Now
-_jumboAd:
-    title: MEGA Sports Camp
-    subtitle: July 17-21<br>4801 North 144th Street<br>MEGA Sports Camp is a great way for kids to learn about Jesus while participating in soccer, track & field, or cheer. Sign up by July 1 and receive a camp t-shirt.
-    img: /images/mega_2023.png
-    action:
-        url: https://flatland.churchcenter.com/registrations/events/1691588
-        label: More Info
 ---
 
 If you want a safe and inspiring place to discover the good news of Jesus, <b>there's something here for you</b>. Flatland offers a level, straightforward pathway to move to the center of God's kingdom.
