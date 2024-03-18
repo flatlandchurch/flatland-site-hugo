@@ -8,4 +8,5 @@ speaker:
 title: Responding To the Son of Man
 image: https://i.imgur.com/1ApO5Nd.png
 date: 2024-03-17T14:30:00.000Z
+series: "writing-on-the-wall"
 ---
