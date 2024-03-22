@@ -73,7 +73,6 @@ volunteer:
 footerAd:
     title: Integrated Mental Health Collective
     subtitle: Flatland is developing 7 unique centers for the purpose of providing holistic, Christ-centered support for optimal well-being.
-    prop: /images/FLC-logo.jpg
     action:
       url: https://flatland.life/
       label: Find Out More
