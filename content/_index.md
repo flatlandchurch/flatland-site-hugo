@@ -71,7 +71,7 @@ volunteer:
       url: https://flatland.churchcenter.com/people/forms/245824
       label: Find Your Spot
 footerAd:
-    title: Integrated Mental Health Collective
+    title: Flatland Life Center
     subtitle: Flatland is developing 7 unique centers for the purpose of providing holistic, Christ-centered support for optimal well-being.
     action:
       img: /images/FLC-logo.png
