@@ -76,6 +76,7 @@ footerAd:
     action:
       url: https://flatland.life/
       label: Find Out More
+      img: /FLC-logo.png
     img: /fc-jumbo.jpeg
 holiday:
     title: Easter Services 2024
