@@ -5,7 +5,7 @@ address:
     locale: Omaha, NE 68114
     link: "https://www.google.com/maps/place/4801+N+144th+St,+Omaha,+NE+68116/data=!4m2!3m1!1s0x8793edc40dfb7771:0x2f8ed43ac33696f?sa=X&ved=2ahUKEwjU0oSjn5zrAhUFWs0KHS2TAaIQ8gEwAHoECGUQAQ"
 times:
-    - { day: Sunday, time: "10:00 AM" }
+    - { day: Sunday, time: "9:30 & 11:00 AM" }
 locationName: Flatland 144
 order: 1
 image: "https://i.imgur.com/0YjvTjS.jpg"
