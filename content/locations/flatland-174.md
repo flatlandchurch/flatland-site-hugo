@@ -1,7 +1,5 @@
 ---
-title: Plan a Visit to Flatland 174
-times:
-    - { day: Sunday, time: "No Weekend Services" }
+title: No weekly services at Flatland 174
 locationName: Flatland 174
 image: "https://i.imgur.com/G3PnTMl.png"
 order: 2
