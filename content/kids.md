@@ -7,7 +7,7 @@ image: /images/kids2022.jpg
 
 {{< times >}}
 - day: Sunday
-  time: 10:00 AM
+  time: 9:30 and 11:00 AM
 {{</ times >}}
   
 Our children's ministry is available during both of our Sunday morning services.
