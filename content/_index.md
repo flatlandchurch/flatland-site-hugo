@@ -78,7 +78,7 @@ footerAd:
       url: https://flatland.life/
       label: Find Out More
     img: /fc-jumbo.jpeg
-holiday:
+_holiday:
     title: Easter Services 2024
     description: Sunday, March 31<br>9:30am and 11:00am
     Image:
