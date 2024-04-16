@@ -49,7 +49,7 @@ transform:
       icon: fas fa-user-friends
       img: /images/smith-3.jpg
       imgAlt: A small group of women smiling.
-    - url: https://flatland.churchcenter.com/people/forms/518796
+    - url: /discipleship
       icon: far fa-handshake
       title: Get discipled.
       img: /images/kelvin-leon.jpg
