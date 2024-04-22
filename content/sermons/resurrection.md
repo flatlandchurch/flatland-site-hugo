@@ -8,4 +8,5 @@ speaker:
 title: Resurrection
 image: https://i.imgur.com/Qxgk9qN.png
 date: 2024-04-21T14:30:00.000Z
+series: "life-after-life"
 ---
