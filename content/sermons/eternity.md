@@ -8,4 +8,5 @@ speaker:
 title: Eternity
 image: https://i.imgur.com/SEWKkTS.png
 date: 2024-04-28T14:30:00.000Z
+series: "life-after-life"
 ---
