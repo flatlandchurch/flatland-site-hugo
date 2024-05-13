@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: bart-wilkins
   name: Bart Wilkins
-title: Righteousness
+title: 6. Righteousness
 image: https://i.imgur.com/OFp2fvk.png
 date: 2024-05-12T14:30:00.000Z
+series: "life-after-life"
 ---
