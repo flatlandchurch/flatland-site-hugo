@@ -46,10 +46,6 @@ _Next Gen Director_
 
 _Administration Director_
 
-## Giri Mohanan
-
-_Flatland Life Center Director_
-
 ## Mitchell McNaney
 
 _Omaha School of Ministry Director_
