@@ -4,7 +4,7 @@ category:
     label: Start Here
     className: purple
 classNumber: 100
-image: /images/nextsteplogobanner.png
+image: /images/flatland101.jpg
 childcare: true
 price: Free
 ---
