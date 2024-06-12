@@ -1,0 +1,33 @@
+.units-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-gap: 12px;
+
+  @media screen and (max-width: 960px) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  @media screen and (max-width: 441px) {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+.units-grid--small {
+  margin-top: 24px;
+}
+
+.units-card {
+  @include card;
+
+  width: 100%;
+  height: 0;
+  padding-bottom: 177%;
+
+  @media screen and (max-width: 441px) {
+    padding-bottom: 100%;
+  }
+
+  .overlay {
+    @include card-overlay;
+  }
+}
