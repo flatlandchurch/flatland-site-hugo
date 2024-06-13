@@ -1,3 +1,3 @@
 ---
-title: Units
+title: Discipleship Pathway Units
 --- 

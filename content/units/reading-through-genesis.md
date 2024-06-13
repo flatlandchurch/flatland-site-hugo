@@ -1,6 +1,6 @@
 ---
 title: Reading Through Genesis
-image: https://images.unsplash.com/photo-1542046398918-2d21581386ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&h=400&q=80
+image: /images/dp-genesis.jpg
 category: Understanding Christianity
 ---
 

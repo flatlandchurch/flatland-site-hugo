@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section>
+    <div class="container container__content">
+        <h1>{{ .Title }}</h1>
+        <div class="resources-grid">
+            {{ range .Pages }}
+                <a href="{{ .Permalink }}" class="sermon-link" aria-label="{{ .Title }}">
+                    <div class="sermon-card">
+                        <img src="{{ .Params.Image }}" />
+                        <div class="sermon-card__meta">
+                            <p>{{ .Title }}</p>
+                        </div>
+                        <div class="overlay"></div>
+                    </div>
+                </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
