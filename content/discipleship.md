@@ -32,4 +32,4 @@ We recommend meeting weekly, but you can adjust to fit your schedule and availab
 
 Click the button below to fill out a short questionnaire. You'll be able to let us know if you'd prefer to meet one-on-one or with a small cohort. Someone from our team will contact you to answer any questions you may have, set up a time to introduce you to a mentor or cohort leader, and to help you get started.
 
-<a href="https://flatland.churchcenter.com/people/forms/518796" class="btn btn--primary">Let's Get Started</a>
+<a href="/units" class="btn btn--primary">Let's Get Started</a>
