@@ -5,7 +5,7 @@ video:
 speaker:
   permalink: bart-wilkins
   name: Bart Wilkins
-title: The Excuses
+title: 5. The Excuses
 image: https://i.imgur.com/WZnia4j.png
 date: 2024-06-16T14:30:00.000Z
 series: "messengers"
