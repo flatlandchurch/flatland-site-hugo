@@ -7,6 +7,6 @@ speaker:
   name: Bart Wilkins
 title: 6. The Seventy
 image: https://i.imgur.com/ZeM44tS.png
-date: 2024-06-24T14:30:00.000Z
+date: 2024-06-23T14:30:00.000Z
 series: "messengers"
 ---
