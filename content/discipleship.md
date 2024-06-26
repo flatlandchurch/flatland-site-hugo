@@ -14,9 +14,13 @@ Our Discipleship Pathway is divided into two parts: Understanding Christianity a
 
 If you are new to Christianity, or don't feel you have learned a lot about God, the Bible, prayer and other spiritual teachings and practices, this section will greatly enhance your knowledge of what it means to follow Jesus into a thriving relationship with God. If you have quite a bit of understanding about Christianity, we believe this section will strengthen your faith and further expand your understanding of God and His word.
 
+<a href="/units/understanding-christianity" class="btn btn--primary">Unit List</a>
+
 ### Practicing Christianity
 
 As your understanding of Christianity deepens, the real joy of following Jesus begins. In this section, you will learn how following Jesus and walking in step with His Spirit can lead you into an abundant life. This life is comprised of love, joy, peace, patience and so much more. You'll discover God's transforming presence and His healing power for our lives. And you'll begin to experience a more vibrant relationship with Him.
+
+<a href="/units/practicing-christianity" class="btn btn--primary">Unit List</a>
 
 ## Our Process
 
