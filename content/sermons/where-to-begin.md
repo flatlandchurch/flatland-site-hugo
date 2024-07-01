@@ -8,4 +8,5 @@ speaker:
 title: Where To Begin
 image: https://i.imgur.com/hizjjIO.png
 date: 2024-06-30T14:30:00.000Z
+series: "scripture-under-scrutiny"
 ---
