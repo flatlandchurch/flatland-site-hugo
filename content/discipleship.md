@@ -44,14 +44,10 @@ As your understanding of Christianity deepens, the real joy of following Jesus b
 
 ### What’s involved?
 
-Discipleship really requires community. We will connect you with an individual or small cohort to help you process through a variety of books and resources. Together, you can freely discuss the material and any questions or thoughts you may have. At the completion of each book or resource, you'll have the opportunity to immediately move to the next one or take a break if needed.
-
-### How often will we meet?
-
-We recommend meeting weekly, but you can adjust to fit your schedule and availability. Your mentor or cohort leader will work with you to create a schedule that works for you. You'll also work with your mentor or cohort leader on meeting locations. People often meet at the church or at a coffee shop of their choice.
+Discipleship really requires community. The majority of our units are offered as classes or small cohorts that meet weekly or every other week. A few units are compact workshops that can be completed in a day or two. The lists of units above is our recommended order for the pathway; however, detours are common and okay. Taking them out of order on occassion will not prevent you from moving to the center of God's kingdom.
 
 ### How do I sign up?
 
-Click the button below to see all of our Discipleship Pathway units. Click on a unit for details and registration information.
+Click the button below to see all of our Discipleship Pathway units currently being offered. Click on a preferred unit for details and registration information.
 
 <a href="/units" class="btn btn--primary">Let's Get Started</a>
