@@ -16,7 +16,6 @@ If you are new to Christianity, or don't feel you have learned a lot about God, 
 
 #### List of Units
 
-<ul>
 <li>Alpha Course<br>
 <li>Reading Through Matthew and Acts
 <li>Living the Spirit-Formed Life
@@ -25,7 +24,7 @@ If you are new to Christianity, or don't feel you have learned a lot about God, 
 <li>How to Read Biblical Narrative
 <li>How to Read Biblical Prose Discourse
 <li>How to Read Biblical Poetry
-<li>Reading the Bible in Community</ul>
+<li>Reading the Bible in Community
 
 ### Practicing Christianity
 
@@ -33,13 +32,12 @@ As your understanding of Christianity deepens, the real joy of following Jesus b
 
 #### List of Units
 
-<ul>
 <li>Practicing the Way
 <li>Rule of Life Workshop
 <li>Emotionally Healthy Spirituality
 <li>Holy Spirit Workshop
 <li>Step Up to Life Workshop
-<li>Transformational Coach Training</ul>
+<li>Transformational Coach Training
 <li>Communal Practices
 
 ## Our Process
