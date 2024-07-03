@@ -18,20 +18,29 @@ If you are new to Christianity, or don't feel you have learned a lot about God, 
 
 <ul>
 <li>Alpha Course<br>
-<li>Reading Through Matthew and Acts<br>
-<li>Living the Spirit-Formed Life<br>
-<li>Reading Through Genesis<br>
-<li>Christian Essentials<br>
-<li>How to Read Biblical Narrative<br>
-<li>How to Read Biblical Prose Discourse<br>
-<li>How to Read Biblical Poetry<br>
-<li>Reading the Bible in Community<br></ul>
+<li>Reading Through Matthew and Acts
+<li>Living the Spirit-Formed Life
+<li>Reading Through Genesis
+<li>Christian Essentials
+<li>How to Read Biblical Narrative
+<li>How to Read Biblical Prose Discourse
+<li>How to Read Biblical Poetry
+<li>Reading the Bible in Community</ul>
 
 ### Practicing Christianity
 
 As your understanding of Christianity deepens, the real joy of following Jesus begins. In this section, you will learn how following Jesus and walking in step with His Spirit can lead you into an abundant life. This life is comprised of love, joy, peace, patience and so much more. You'll discover God's transforming presence and His healing power for our lives. And you'll begin to experience a more vibrant relationship with Him.
 
-<a href="/practicing-christianity" class="btn btn--primary">Unit List</a>
+#### List of Units
+
+<ul>
+<li>Practicing the Way
+<li>Rule of Life Workshop
+<li>Emotionally Healthy Spirituality
+<li>Holy Spirit Workshop
+<li>Step Up to Life Workshop
+<li>Transformational Coach Training</ul>
+<li>Communal Practices
 
 ## Our Process
 
