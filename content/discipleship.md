@@ -14,7 +14,18 @@ Our Discipleship Pathway is divided into two parts: Understanding Christianity a
 
 If you are new to Christianity, or don't feel you have learned a lot about God, the Bible, prayer and other spiritual teachings and practices, this section will greatly enhance your knowledge of what it means to follow Jesus into a thriving relationship with God. If you have quite a bit of understanding about Christianity, we believe this section will strengthen your faith and further expand your understanding of God and His word.
 
-<a href="/understanding-christianity" class="btn btn--primary">Unit List</a>
+#### List of Units
+
+<ul>
+<li>Alpha Course<br>
+<li>Reading Through Matthew and Acts<br>
+<li>Living the Spirit-Formed Life<br>
+<li>Reading Through Genesis<br>
+<li>Christian Essentials<br>
+<li>How to Read Biblical Narrative<br>
+<li>How to Read Biblical Prose Discourse<br>
+<li>How to Read Biblical Poetry<br>
+<li>Reading the Bible in Community<br></ul>
 
 ### Practicing Christianity
 
