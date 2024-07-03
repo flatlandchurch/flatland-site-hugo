@@ -8,7 +8,7 @@ Our Discipleship Pathway at Flatland is designed to help you move to the center 
 
 ## Our Pathway
 
-Our Discipleship Pathway is divided into two parts: Understanding Christianity and Practicing Christianity. 
+Our Discipleship Pathway is divided into two parts: <b>Understanding Christianity</b> and <b>Practicing Christianity</b>. Before you embark on this journey, however, we recommend you check out <b>Flatland 101</b>. This will equip you with important tools and information for a successful journey toward the center of God's kingdom.
 
 ### Understanding Christianity
 
