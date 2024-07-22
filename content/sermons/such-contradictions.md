@@ -8,4 +8,5 @@ speaker:
 title: Such Contradictions
 image: https://i.imgur.com/e0yakvG.png
 date: 2024-07-21T14:30:00.000Z
+series: "scripture-under-scrutiny"
 ---
