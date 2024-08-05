@@ -1,6 +1,6 @@
 ---
 title: Discipleship
-image: /images/mitchell-matt.jpg
+image: /images/dp-lets-move.png
 imagePosition: top
 ---
 
