@@ -6,6 +6,8 @@ imagePosition: top
 
 Our Discipleship Pathway at Flatland is designed to help you move to the center of God's kingdom. Are you exploring Christianity? This is a great way for you to ask questions. Are you growing in your faith? We can help you know God better. Are you struggling to trust God? We would love to hear your story and strengthen your faith. Do you want to grow closer or stay centered? We have a pathway for you.
 
+<a href="https://flatland.churchcenter.com/registrations" class="btn btn--primary">Let's Get Started</a>
+
 ## Our Pathway
 
 Our Discipleship Pathway is divided into two parts: <b>Understanding Christianity</b> and <b>Practicing Christianity</b>. Before you embark on this journey, however, we recommend you check out <b>Flatland 101</b>. This will equip you with important tools and information for a successful journey toward the center of God's kingdom.
@@ -50,4 +52,4 @@ Discipleship really requires community. The majority of our units are offered as
 
 Click the button below to see all of our Discipleship Pathway units currently being offered. Click on a preferred unit for details and registration information.
 
-<a href="/units" class="btn btn--primary">Let's Get Started</a>
+<a href="https://flatland.churchcenter.com/registrations" class="btn btn--primary">Let's Get Started</a>
