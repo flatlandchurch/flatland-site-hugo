@@ -1,6 +1,6 @@
 ---
 title: Discipleship
-image: /images/dp-lets-move.png
+image: /images/dp-logo.png
 imagePosition: top
 ---
 
