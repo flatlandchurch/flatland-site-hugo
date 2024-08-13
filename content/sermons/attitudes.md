@@ -8,4 +8,5 @@ speaker:
 title: Attitudes
 image: https://i.imgur.com/iOkrcwG.png
 date: 2024-08-11T14:30:00.000Z
+series: "purifying-the-well"
 ---
