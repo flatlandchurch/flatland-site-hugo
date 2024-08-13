@@ -12,8 +12,6 @@ image: /images/bart_preaching.jpg
   image: https://i.imgur.com/rF71y5w.png
 - label: Josie Laurent
   image: https://firebasestorage.googleapis.com/v0/b/flatland-api.appspot.com/o/leadership%2Fjosie-demuth.png?alt=media&token=d26fa7c7-b4bb-49c9-80ed-1471a57600dc
-- label: Mitchell McNaney
-  image: https://i.imgur.com/kzFD7Ly.png
 - label: Kevin Nygren
   image: https://i.imgur.com/4alrkPx.png
 - label: JJ Jackson
@@ -45,10 +43,6 @@ _Next Gen Director_
 ## Josie Laurent
 
 _Administration Director_
-
-## Mitchell McNaney
-
-_Omaha School of Ministry Director_
 
 ## Kelvin Nygren
 
