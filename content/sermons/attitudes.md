@@ -5,7 +5,7 @@ video:
 speaker:
   permalink: bart-wilkins
   name: Bart Wilkins
-title: Attitudes
+title: 1. Attitudes
 image: https://i.imgur.com/iOkrcwG.png
 date: 2024-08-11T14:30:00.000Z
 series: "purifying-the-well"
