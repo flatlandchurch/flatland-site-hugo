@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: bart-wilkins
   name: Bart Wilkins
-title: Instincts
+title: 4. Instincts
 image: https://i.imgur.com/C0RTPMx.png
 date: 2024-09-01T14:30:00.000Z
+series: "purifying-the-well"
 ---
