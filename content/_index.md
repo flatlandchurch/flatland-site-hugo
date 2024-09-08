@@ -84,6 +84,7 @@ holiday:
     Image:
         src: /images/orange.jpg
         alt: Flatland Orange
+    action:
         url: https://flatlandchurch.com/united
         label: Info
 ---
