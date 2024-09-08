@@ -78,12 +78,14 @@ footerAd:
       url: https://flatland.life/
       label: Find Out More
     img: /fc-jumbo.jpeg
-_holiday:
-    title: Easter Services 2024
-    description: Sunday, March 31<br>9:30am and 11:00am
+holiday:
+    title: Flatland United
+    description: Sunday, September 22<br>11:00am service ONLY
     Image:
-        src: /images/easter-background.png
-        alt: Pastel wood background
+        src: /images/orange.jpg
+        alt: Flatland Orange
+        url: https://flatlandchurch.com/united
+        label: Info
 ---
 
 If you want a safe and inspiring place to discover the good news of Jesus, <b>there's something here for you</b>. Flatland offers a level, straightforward pathway to move to the center of God's kingdom.
