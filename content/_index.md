@@ -81,8 +81,10 @@ footerAd:
 holiday:
     title: Flatland United
     description: Sunday, September 22<br>11:00am service ONLY
+    image: 
+      src: /images/orange.jpg
+      alt: Splash of orange
     action:
-        img: /images/orange.jpg
         url: https://flatlandchurch.com/united
         label: Info
 ---
