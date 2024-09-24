@@ -78,7 +78,7 @@ footerAd:
       url: https://flatland.life/
       label: Find Out More
     img: /fc-jumbo.jpeg
-holiday:
+_holiday:
     title: Flatland United
     description: Sunday, September 22<br>11:00am service ONLY
     image: 
