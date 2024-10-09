@@ -68,7 +68,7 @@ volunteer:
     title: Join the Team
     subtitle: At Flatland Church we value collaboration as we work together to help people move to the center. Find a place where you can serve at Flatland.
     action:
-      url: https://flatland.churchcenter.com/people/forms/245824
+      url: https://flatland.churchcenter.com/registrations/events/category/86059
       label: Find Your Spot
 footerAd:
     title: Flatland Life Center
