@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: bart-wilkins
   name: Bart Wilkins
-title: Division
+title: 4. Division
 image: https://i.imgur.com/NYOcHZH.png
 date: 2024-10-20T14:30:00.000Z
+series: "dark-powers"
 ---
