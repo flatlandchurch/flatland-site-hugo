@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: codey-friesen
   name: Codey Friesen
-title: Allegiance
+title: 5. Allegiance
 image: https://i.imgur.com/0Mrul1J.png
 date: 2024-10-27T14:30:00.000Z
+series: "dark-powers"
 ---
