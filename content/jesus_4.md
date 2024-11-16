@@ -1,5 +1,5 @@
 ---
-title: Jesus the Messiah
+title: Jesus the Image of God
 image: /images/series-all-he-wants.png
 imagePosition: top
 ---
@@ -26,19 +26,11 @@ he will wash his garments in wine,
 12 His eyes will be darker than wine,
     his teeth whiter than milk. (NIV)
 
-## Revelation 5:1-10
+## Colossians 1:15-23
 
-5 Then I saw in the right hand of him who sat on the throne a scroll with writing on both sides and sealed with seven seals. 2 And I saw a mighty angel proclaiming in a loud voice, “Who is worthy to break the seals and open the scroll?” 3 But no one in heaven or on earth or under the earth could open the scroll or even look inside it. 4 I wept and wept because no one was found who was worthy to open the scroll or look inside. 5 Then one of the elders said to me, “Do not weep! See, the Lion of the tribe of Judah, the Root of David, has triumphed. He is able to open the scroll and its seven seals.”
+15 The Son is the image of the invisible God, the firstborn over all creation. 16 For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him. 17 He is before all things, and in him all things hold together. 18 And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy. 19 For God was pleased to have all his fullness dwell in him, 20 and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross.
 
-6 Then I saw a Lamb, looking as if it had been slain, standing at the center of the throne, encircled by the four living creatures and the elders. The Lamb had seven horns and seven eyes, which are the seven spirits of God sent out into all the earth. 7 He went and took the scroll from the right hand of him who sat on the throne. 8 And when he had taken it, the four living creatures and the twenty-four elders fell down before the Lamb. Each one had a harp and they were holding golden bowls full of incense, which are the prayers of God’s people. 9 And they sang a new song, saying:
-
-“You are worthy to take the scroll
-    and to open its seals,
-because you were slain,
-    and with your blood you purchased for God
-    persons from every tribe and language and people and nation.
-10 You have made them to be a kingdom and priests to serve our God,
-    and they will reign on the earth.” (NIV)
+21 Once you were alienated from God and were enemies in your minds because of[g] your evil behavior. 22 But now he has reconciled you by Christ’s physical body through death to present you holy in his sight, without blemish and free from accusation— 23 if you continue in your faith, established and firm, and do not move from the hope held out in the gospel. This is the gospel that you heard and that has been proclaimed to every creature under heaven, and of which I, Paul, have become a servant. (NIV)
 
 ## The Messiah 
 
