@@ -1,5 +1,5 @@
 ---
-title: Jesus the Messiah
+title: Jesus the Sacrifice
 image: /images/series-all-he-wants.png
 imagePosition: top
 ---
