@@ -6,6 +6,8 @@ imagePosition: top
 
 In the opening pages of the Bible we are introduced to a coming savior, a descendent of Eve, who would crush the head of the serpent that tempted her. What unfolds in the following chapters of Genesis (the first book of the Bible) is the story of the family who would be the ancestors of this savior (Messiah in Hebrew). It is incredible that this story was written hundreds of years before the Messiah was born. Read the following passages of scripture and watch the video to learn more about Jesus the Messiah.
 
+{{< youtube 3dEh25pduQ8 >}}
+
 ## Genesis 49:8-12
 
 8 “Judah, your brothers will praise you;
