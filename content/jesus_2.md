@@ -1,5 +1,5 @@
 ---
-title: Jesus the Messiah
+title: Jesus the Son of Man
 image: /images/series-all-he-wants.png
 imagePosition: top
 ---
@@ -42,14 +42,10 @@ because you were slain,
 
 ## The Messiah 
 
-The Messiah video from Bible Project provides a brief overview of this critical, overarching theme of the Bible.
-<a href="https://bibleproject.com/explore/video/messiah/
-" class="btn btn--primary">Link to Video</a>
+The Messiah video from Bible Project provides a brief overview of this critical, overarching theme of the Bible.<br><br>
+
+{{< youtube z6cWEcqxhlI&t=11s >}}
 
 ## Prayer
 
 Heavenly Father, thank You for sending Jesus Christ as our savior, our Messiah. You promised His coming long ago, and You are faithful to fulfill your promises. Forgive my sins as I put my faith in Messiah Jesus. Help me live in victory as I follow Him. In Jesus' name, amen.
-
-## Resources
-
-<li>
