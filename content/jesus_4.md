@@ -35,8 +35,8 @@ he will wash his garments in wine,
 ## The Messiah 
 
 The Messiah video from Bible Project provides a brief overview of this critical, overarching theme of the Bible.
-<a href="https://bibleproject.com/explore/video/messiah/
-" class="btn btn--primary">Link to Video</a>
+
+<a href="https://bibleproject.com/explore/video/messiah/" class="btn btn--primary">Link to Video</a>
 
 ## Prayer
 

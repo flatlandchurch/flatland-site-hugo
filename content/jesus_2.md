@@ -63,7 +63,7 @@ The high priest said to him, “I charge you under oath by the living God: Tell 
 
 The Son of Man video from Bible Project provides a brief overview of this critical, overarching theme of the Bible.<br><br>
 
-{{< youtube z6cWEcqxhlI&t=11s >}}
+{{< youtube z6cWEcqxhlI >}}
 
 ## Prayer
 
