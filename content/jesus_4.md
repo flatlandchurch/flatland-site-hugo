@@ -4,44 +4,34 @@ image: /images/series-all-he-wants.png
 imagePosition: top
 ---
 
-In the opening pages of the Bible we are introduced to a coming savior, a descendent of Eve, who would crush the head of the serpent that tempted her. What unfolds in the following chapters of Genesis (the first book of the Bible) is the story of the family who would be the ancestors of this savior (Messiah in Hebrew). It is incredible that this story was written hundreds of years before the Messiah was born. Read the following passages of scripture and watch the video to learn more about Jesus the Messiah.
+In the beginning, God created the skies and the land. At the conclusion of all His creating, God created humanity. He blessed them to be fruitful and multiply, filling the land and ruling over His creation as His image-bearing partners. But rather than ruling over creation with His wisdom and love, humanity began ruling over one another with selfishness and violence. Jesus, the Son of God, took on human flesh to become the perfect image-bearer who would rescue humanity and the broken world back to God.
 
-## Genesis 49:8-12
+## Genesis 1:26-31
 
-8 “Judah, your brothers will praise you;
-    your hand will be on the neck of your enemies;
-    your father’s sons will bow down to you.
-9 You are a lion’s cub, Judah;
-    you return from the prey, my son.
-Like a lion he crouches and lies down,
-    like a lioness—who dares to rouse him?
-10 The scepter will not depart from Judah,
-    nor the ruler’s staff from between his feet,
-until he to whom it belongs shall come
-    and the obedience of the nations shall be his.
-11 He will tether his donkey to a vine,
-    his colt to the choicest branch;
-he will wash his garments in wine,
-    his robes in the blood of grapes.
-12 His eyes will be darker than wine,
-    his teeth whiter than milk. (NIV)
+26 Then God said, “Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.”
 
-## Colossians 1:15-23
+27 So God created mankind in his own image,
+    in the image of God he created them;
+    male and female he created them.
 
-15 The Son is the image of the invisible God, the firstborn over all creation. 16 For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him. 17 He is before all things, and in him all things hold together. 18 And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy. 19 For God was pleased to have all his fullness dwell in him, 20 and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross.
+28 God blessed them and said to them, “Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.”
 
-21 Once you were alienated from God and were enemies in your minds because of[g] your evil behavior. 22 But now he has reconciled you by Christ’s physical body through death to present you holy in his sight, without blemish and free from accusation— 23 if you continue in your faith, established and firm, and do not move from the hope held out in the gospel. This is the gospel that you heard and that has been proclaimed to every creature under heaven, and of which I, Paul, have become a servant. (NIV)
+29 Then God said, “I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food. 30 And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I give every green plant for food.” And it was so.
 
-## The Messiah 
+31 God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day. (NIV)
 
-The Messiah video from Bible Project provides a brief overview of this critical, overarching theme of the Bible.
+## Colossians 3:1-11
 
-<a href="https://bibleproject.com/explore/video/messiah/" class="btn btn--primary">Link to Video</a>
+1 Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God. 2 Set your minds on things above, not on earthly things. 3 For you died, and your life is now hidden with Christ in God. 4 When Christ, who is your life, appears, then you also will appear with him in glory.
+
+5 Put to death, therefore, whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry. 6 Because of these, the wrath of God is coming. 7 You used to walk in these ways, in the life you once lived. 8 But now you must also rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips. 9 Do not lie to each other, since you have taken off your old self with its practices 10 and have put on the new self, which is being renewed in knowledge in the image of its Creator. 11 Here there is no Gentile or Jew, circumcised or uncircumcised, barbarian, Scythian, slave or free, but Christ is all, and is in all. (NIV)
+
+## The Image of God 
+
+The Image of God video from Bible Project provides a brief overview of this critical, overarching theme of the Bible.
+
+{{< youtube YbipxLDtY8c >}}
 
 ## Prayer
 
-Heavenly Father, thank You for sending Jesus Christ as our savior, our Messiah. You promised His coming long ago, and You are faithful to fulfill your promises. Forgive my sins as I put my faith in Messiah Jesus. Help me live in victory as I follow Him. In Jesus' name, amen.
-
-## Resources
-
-<li>
+Heavenly Father, thank You for sending Jesus Christ as a human in Your perfect image. You promised One who would come to rule in perfect wisdom and love. Forgive me for serving the kingdom of darkness by living by my own wisdom and selfishness. Help me be conformed, more and more, into the image of King Jesus. In Jesus' name, amen.
