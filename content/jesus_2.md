@@ -39,7 +39,7 @@ The court was seated,
 
 11 “Then I continued to watch because of the boastful words the horn was speaking. I kept looking until the beast was slain and its body destroyed and thrown into the blazing fire. 12 (The other beasts had been stripped of their authority, but were allowed to live for a period of time.)
 
-13 “In my vision at night I looked, and there before me was one like a son of man,[a] coming with the clouds of heaven. He approached the Ancient of Days and was led into his presence. 14 He was given authority, glory and sovereign power; all nations and peoples of every language worshiped him. His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will never be destroyed. (NIV)
+13 “In my vision at night I looked, and there before me was one like a son of man, coming with the clouds of heaven. He approached the Ancient of Days and was led into his presence. 14 He was given authority, glory and sovereign power; all nations and peoples of every language worshiped him. His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will never be destroyed." (NIV)
 
 ## Matthew 26:57-66
 
@@ -53,7 +53,7 @@ Finally two came forward 61 and declared, “This fellow said, ‘I am able to d
 
 The high priest said to him, “I charge you under oath by the living God: Tell us if you are the Messiah, the Son of God.”
 
-64 “You have said so,” Jesus replied. “But I say to all of you: From now on you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.”[e]
+64 “You have said so,” Jesus replied. “But I say to all of you: From now on you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.”
 
 65 Then the high priest tore his clothes and said, “He has spoken blasphemy! Why do we need any more witnesses? Look, now you have heard the blasphemy. 66 What do you think?”
 
