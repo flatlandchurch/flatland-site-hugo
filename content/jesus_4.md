@@ -30,6 +30,7 @@ In the beginning, God created the skies and the land. At the conclusion of all H
 
 The Image of God video from Bible Project provides a brief overview of this critical, overarching theme of the Bible.
 
+
 {{< youtube YbipxLDtY8c >}}
 
 ## Prayer
