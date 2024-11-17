@@ -4,48 +4,26 @@ image: /images/series-all-he-wants.png
 imagePosition: top
 ---
 
-In the opening pages of the Bible we are introduced to a coming savior, a descendent of Eve, who would crush the head of the serpent that tempted her. What unfolds in the following chapters of Genesis (the first book of the Bible) is the story of the family who would be the ancestors of this savior (Messiah in Hebrew). It is incredible that this story was written hundreds of years before the Messiah was born. Read the following passages of scripture and watch the video to learn more about Jesus the Messiah.
+Because of the sin throughout the community, God gave instructions for sacrifices to be made. These sacrifices provided a ritual cleansing of the people and offered a way for them to renew their right fellowship with the LORD God. All of these sacrifices were done in anticipation of a renewed, or new, covenant. Jesus came as the final, perfect sacrifice who would take away the sins of the world, offering forgiveness and life to all who call on His name. It is by the blood of Christ that we are reconciled to God.
 
-## Genesis 49:8-12
+## Exodus 29:38-46
 
-8 “Judah, your brothers will praise you;
-    your hand will be on the neck of your enemies;
-    your father’s sons will bow down to you.
-9 You are a lion’s cub, Judah;
-    you return from the prey, my son.
-Like a lion he crouches and lies down,
-    like a lioness—who dares to rouse him?
-10 The scepter will not depart from Judah,
-    nor the ruler’s staff from between his feet,
-until he to whom it belongs shall come
-    and the obedience of the nations shall be his.
-11 He will tether his donkey to a vine,
-    his colt to the choicest branch;
-he will wash his garments in wine,
-    his robes in the blood of grapes.
-12 His eyes will be darker than wine,
-    his teeth whiter than milk. (NIV)
+38 “This is what you are to offer on the altar regularly each day: two lambs a year old. 39 Offer one in the morning and the other at twilight. 40 With the first lamb offer a tenth of an ephah of the finest flour mixed with a quarter of a hin of oil from pressed olives, and a quarter of a hin of wine as a drink offering. 41 Sacrifice the other lamb at twilight with the same grain offering and its drink offering as in the morning—a pleasing aroma, a food offering presented to the Lord.
 
-## Revelation 5:1-10
+42 “For the generations to come this burnt offering is to be made regularly at the entrance to the tent of meeting, before the Lord. There I will meet you and speak to you; 43 there also I will meet with the Israelites, and the place will be consecrated by my glory.
 
-5 Then I saw in the right hand of him who sat on the throne a scroll with writing on both sides and sealed with seven seals. 2 And I saw a mighty angel proclaiming in a loud voice, “Who is worthy to break the seals and open the scroll?” 3 But no one in heaven or on earth or under the earth could open the scroll or even look inside it. 4 I wept and wept because no one was found who was worthy to open the scroll or look inside. 5 Then one of the elders said to me, “Do not weep! See, the Lion of the tribe of Judah, the Root of David, has triumphed. He is able to open the scroll and its seven seals.”
+44 “So I will consecrate the tent of meeting and the altar and will consecrate Aaron and his sons to serve me as priests. 45 Then I will dwell among the Israelites and be their God. 46 They will know that I am the Lord their God, who brought them out of Egypt so that I might dwell among them. I am the Lord their God." (NIV)
 
-6 Then I saw a Lamb, looking as if it had been slain, standing at the center of the throne, encircled by the four living creatures and the elders. The Lamb had seven horns and seven eyes, which are the seven spirits of God sent out into all the earth. 7 He went and took the scroll from the right hand of him who sat on the throne. 8 And when he had taken it, the four living creatures and the twenty-four elders fell down before the Lamb. Each one had a harp and they were holding golden bowls full of incense, which are the prayers of God’s people. 9 And they sang a new song, saying:
+## Hebrews 9:11-14
 
-“You are worthy to take the scroll
-    and to open its seals,
-because you were slain,
-    and with your blood you purchased for God
-    persons from every tribe and language and people and nation.
-10 You have made them to be a kingdom and priests to serve our God,
-    and they will reign on the earth.” (NIV)
+11 But when Christ came as high priest of the good things that are now already here, he went through the greater and more perfect tabernacle that is not made with human hands, that is to say, is not a part of this creation. 12 He did not enter by means of the blood of goats and calves; but he entered the Most Holy Place once for all by his own blood, thus obtaining eternal redemption. 13 The blood of goats and bulls and the ashes of a heifer sprinkled on those who are ceremonially unclean sanctify them so that they are outwardly clean. 14 How much more, then, will the blood of Christ, who through the eternal Spirit offered himself unblemished to God, cleanse our consciences from acts that lead to death, so that we may serve the living God! (NIV)
 
-## The Messiah 
+## The Sacrifice 
 
-The Messiah video from Bible Project provides a brief overview of this critical, overarching theme of the Bible.<br><br>
+The Sacrifice video from Bible Project provides a brief overview of this critical, overarching theme of the Bible.<br><br>
 
-{{< youtube QxOeq3of3O4 >}}
+{{< youtube G_OlRWGLdnw >}}
 
 ## Prayer
 
-Heavenly Father, thank You for sending Jesus Christ as our savior, our Messiah. You promised His coming long ago, and You are faithful to fulfill your promises. Forgive my sins as I put my faith in Messiah Jesus. Help me live in victory as I follow Him. In Jesus' name, amen.
+Heavenly Father, thank You for sending Jesus Christ as our atoning sacrifice. You love us while we are still sinners, and you provide a way for forgiveness and reconciliation. Forgive my sins as I put my faith in the sacrifice Jesus made for the world. Help me live a life worthy of His sacrifice. In Jesus' name, amen.
