@@ -16,8 +16,6 @@ image: /images/bart_preaching.jpg
   image: https://i.imgur.com/jUbKppR.jpg
 - label: Jacob Werner
   image: /images/Jacob Werner.jpg
-- label: Jennifer Huckaby
-  image: 
 - label: Shannon Smay
   image: https://i.imgur.com/SnDTwZ2.jpg
 {{< /gallery >}}
@@ -45,10 +43,6 @@ _Campus Pastor (Jail Ministry)_
 ## Jacob Werner
 
 _Children's Pastor_
-
-## Jennifer Huckaby
-
-_Admin Assistant_
 
 ## Shannon Smay
 
