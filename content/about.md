@@ -25,8 +25,6 @@ Enthusiasm is the belief in the special revelations of the Holy Spirit. We belie
 
 Love has always been at the core of Christ’s mission here on Earth. Jesus told his disciples in [John 13:35](http://biblehub.com/john/13-35.htm) that the world will know we are his disciples by our love for one another. We strive to have an environment of love and respect for one another, where needs are met and relationships flourish. One of the best ways to experience meaningful Christian relationships here at Flatland Church is to join a life group.
 
-<a href="/groups" class="btn btn--gray">Join a Group</a>
-
 ### Collaboration
 
 Here at Flatland Church we know we can’t do this journey to the center of God’s Kingdom alone. That’s why we value collaboration in everything we do.
