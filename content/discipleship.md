@@ -26,11 +26,10 @@ Discipleship really requires community. The majority of our units are offered as
 <li>How to Read Biblical Poetry
 <li>Reading the Bible in Community
 <li>Practicing the Way
-<li>Rule of Life Workshop
 <li>Emotionally Healthy Spirituality
 <li>Holy Spirit Workshop
-<li>Step Up to Life Workshop
-<li>Transformational Coach Training
+<li>Step Up to Life
+<li>Transformational Coaching
 <li>Communal Practices
 
 ## How do I sign up?
