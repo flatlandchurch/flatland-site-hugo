@@ -17,10 +17,10 @@ Discipleship really requires community. The majority of our units are offered as
 ### Discipleship Pathway Units
 
 <li>Alpha Course<br>
-<li>Reading Through Matthew and Acts
-<li>Living the Spirit-Formed Life
 <li>Reading Through Genesis
 <li>Christian Essentials
+<li>Reading Through Matthew and Acts
+<li>Living the Spirit-Formed Life
 <li>How to Read Biblical Narrative
 <li>How to Read Biblical Prose Discourse
 <li>How to Read Biblical Poetry
