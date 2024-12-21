@@ -29,6 +29,6 @@ Wear what makes you comfortable. Most folks come in jeans and button-down shirts
 
 We have age-specific ministries on Sunday mornings for children from birth to 5th grade. Our kids environment is secure, and every single volunteer is background checked. We want your kids to learn more about Jesus and his Kingdom, in a safe, fun, and Biblical way. Learn more about FlatKids.
 
-{{< action href="https://flatland.churchcenter.com/people/forms/650071" >}}
+{{< action href="https://flatland.churchcenter.com/people/forms/650071" context="primary" >}}
 Plan a Visit
 {{< /action >}}
