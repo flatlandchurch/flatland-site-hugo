@@ -37,3 +37,7 @@ We have age-specific ministries on Sunday mornings for children from birth to 5t
 ### Do you have communion?
 
 We provide an opportunity for you and your family to partake of communion every week at prayer stations we have placed around the auditorium. The last week of every series (about twice a quarter), we provide an opportunity to take communion as a church family.
+
+{{< action href="https://flatland.churchcenter.com/people/forms/650071" >}}
+Plan a Visit
+{{< /action >}}
