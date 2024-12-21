@@ -7,7 +7,6 @@ address:
 times:
     - { day: Sunday, time: "9:30 & 11:00 AM" }
 locationName: Flatland 144
-order: 1
 image: "https://i.imgur.com/0YjvTjS.jpg"
 ---
 
