@@ -1,13 +1,13 @@
 ---
-title: "One Flatland United Service 11:00AM this Sunday"
+title: "Review/Preview is 11:00AM this Sunday"
 type: "notif"
 display:
   redBar: true
   modal: true
-liveThru: "2024-09-22T23:59:00Z"
+liveThru: "2024-12-29T23:59:00Z"
 action:
   uri: "/united"
   label: "Learn More"
 ---
 
-This Sunday (September 22), we will hold a single United service at 11:00am featuring a Q&A with our lead pastor, Bart Wilkins, and his wife, Jennifer.
+We only have one service this Sunday--11:00am--as we review 2024 and reveal our 8 series for 2025.
