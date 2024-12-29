@@ -4,7 +4,7 @@ type: "notif"
 display:
   redBar: true
   modal: true
-liveThru: "2024-12-29T23:59:00Z"
+liveThru: "2024-12-28T23:59:00Z"
 action:
   uri: "/united"
   label: "Learn More"
