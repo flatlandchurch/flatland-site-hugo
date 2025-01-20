@@ -23,7 +23,7 @@ Discipleship really requires community. The majority of our units are offered as
 <li>Living the Spirit-Formed Life
 <li>How to Read Biblical Narrative
 <li>How to Read Biblical Prose Discourse
-<li>How to Read Biblical the Psalms
+<li>How to Read the Psalms
 <li>Practicing the Way
 <li>Emotionally Healthy Spirituality
 <li>Encountering the Holy Spirit
