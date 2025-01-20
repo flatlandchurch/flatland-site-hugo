@@ -16,21 +16,19 @@ Discipleship really requires community. The majority of our units are offered as
 
 ### Discipleship Pathway Units
 
-<li>Alpha Course<br>
+<li>Alpha Course
 <li>Reading Through Genesis
 <li>Christian Essentials
 <li>Reading Through Matthew and Acts
 <li>Living the Spirit-Formed Life
 <li>How to Read Biblical Narrative
 <li>How to Read Biblical Prose Discourse
-<li>How to Read Biblical Poetry
-<li>Reading the Bible in Community
+<li>How to Read Biblical the Psalms
 <li>Practicing the Way
 <li>Emotionally Healthy Spirituality
-<li>Holy Spirit Workshop
+<li>Encountering the Holy Spirit
 <li>Step Up to Life
-<li>Transformational Coaching
-<li>Communal Practices
+<li>Spiritual Conversations
 
 ## How do I sign up?
 
