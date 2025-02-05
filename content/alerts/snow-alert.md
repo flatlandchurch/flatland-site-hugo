@@ -1,11 +1,11 @@
 ---
-title: In-Person Service Canceled Sunday, Join Us Online
+title: Midweek Activities Canceled
 type: alert
 display:
     redBar: true
     modal: true
-liveThru: "2024-01-14T18:00:00Z"
-date: "2024-01-12T06:00:00Z"
+liveThru: "2025-02-05T23:00:00Z"
+date: "2025-02-05T06:00:00Z"
 action:
     uri: https://flatland.online.church/
     label: Watch Live
