@@ -20,7 +20,7 @@ When we meet: Monday Nights, 7:45-9:00pm
 
 {{< gallery >}}
 - label: Cindy Hayes
-  image: images/placeholder.png
+  image: placeholder.png
 - label: Ali Stoakes
-  image: images/placeholder.png
+  image: placeholder.png
 {{< /gallery >}}
