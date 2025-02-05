@@ -13,7 +13,7 @@ imagePosition: 40%
 
 Our College ministry is for young adults ages 18-24. During our meetings we spend time in prayer and study as we reflect upon and discuss Sunday's sermon. Throughout the year you can join us for one of our several events including: concerts, ice skating, volleyball, and retreats.<br><br> 
 
-Where we meet: 15209 Nebraska Ave (Ali's House)
+Where we meet: 15209 Nebraska Ave (Ali's House)<br>
 When we meet: Monday Nights, 7:45-9:00pm
 
 ## College Leaders
