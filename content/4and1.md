@@ -44,7 +44,7 @@ We all face tough decisions in life. What career field should I enter? Should I 
   <b>Allan Hale</b><br>Training Coach<br>Peak Leadership<br><br>
   <b>Adam Julch</b><br>Wealth Advisor/Partner<br>RetirePath Advisors<br><br>
   <b>Lance Laurent</b><br>President and Owner<br>Pro Track and Tennis<br><br>
-  <b>Mike McDonald, Ph.D.</b><br>Senior Workplace Conultant<br>Gallup
+  <b>Mike McDonald, Ph.D.</b><br>Senior Workplace Consultant<br>Gallup
 </ul>
 
 ## Tailgate Discount
