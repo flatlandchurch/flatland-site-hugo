@@ -7,9 +7,7 @@ image: /images/4and1.png
 
 ### 6:30pm Friday thru 11:30am Saturday
 
-### Cost: $40
-
-<ul>See below for our Tailgate Discount.</ul><br><br>
+### Cost: $40 (tailgate discount available)
 
 {{< action href="https://flatland.churchcenter.com/registrations/events/2776013" context="primary">}}
 Register
