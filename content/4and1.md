@@ -38,18 +38,14 @@ We all face tough decisions in life. What career field should I enter? Should I 
 </ul>
 
 ## Speakers
-
-### <u>David Brooks</u><br>President and Founder<br>Retire SMART<br>SMART Wealth<br>Tax SMART
-
-### <u>M. Rohan Fernando, Ph.D.</u><br>Director<br>Molecular Diagnostic Research Laboratory
-
-### <u>Allan Hale</u><br>Training Coach<br>Peak Leadership
-
-### <u>Adam Julch</u><br>Wealth Advisor/Partner<br>RetirePath Advisors
-
-### <u>Lance Laurent</u><br>President and Owner<br>Pro Track and Tennis
-
-### <u>Mike McDonald, Ph.D.</u><br>Senior Workplace Conultant<br>Gallup
+<ul>
+  <b>David Brooks</b><br>President and Founder<br>Retire SMART<br>SMART Wealth<br>Tax SMART<br><br>
+  <b>M. Rohan Fernando, Ph.D.</b><br>Director<br>Molecular Diagnostic Research Laboratory<br><br>
+  <b>Allan Hale</b><br>Training Coach<br>Peak Leadership<br><br>
+  <b>Adam Julch</b><br>Wealth Advisor/Partner<br>RetirePath Advisors<br><br>
+  <b>Lance Laurent</b><br>President and Owner<br>Pro Track and Tennis<br><br>
+  <b>Mike McDonald, Ph.D.</b><br>Senior Workplace Conultant<br>Gallup
+</ul>
 
 ## Tailgate Discount
 
@@ -62,7 +58,7 @@ When you register you will have the option to sign up to bring food for our tail
 
 ## Saturday Lunch Option
 
-<ul>At the conclusion, we encourage you to join your Men's Event table group for lunch. Details will be available at the event.</ul><br><br>
+At the conclusion, we encourage you to join your Men's Event table group for lunch. Details will be available at the event.</ul>
 
 {{< action href="https://flatland.churchcenter.com/registrations/events/2776013" context="primary">}}
 Register
