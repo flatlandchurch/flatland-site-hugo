@@ -55,9 +55,9 @@ We all face tough decisions in life. What career field should I enter? Should I 
 
 When you register you will have the option to sign up to bring food for our tailgate party. Discounts are available based on the food you bring.
 <ul>
-  <li>100% Discount: bring 10 lbs of smoked meet<br>
-  <li>50% Discount: bring a side or dessert to share<br>
-  <li>25% Discount: bring a large bag of chips, snacks or candy to share<br>
+  100% Discount:<br>bring 10 lbs of smoked meat<br><br>
+  50% Discount:<br>bring a side or dessert to share<br><br>
+  25% Discount:<br>bring a large bag of chips, snacks or candy to share<br>
 </ul>
 
 ## Saturday Lunch Option
