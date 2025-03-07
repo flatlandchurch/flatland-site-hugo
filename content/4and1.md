@@ -39,17 +39,17 @@ We all face tough decisions in life. What career field should I enter? Should I 
 
 ## Speakers
 
-### Mike McDonald, Ph.D.<br>Senior Workplace Conultant, Gallup
+### <u>Mike McDonald, Ph.D.</u><br>Senior Workplace Conultant<br>Gallup
 
-### Lance Laurent<br>President and Owner, Pro Track and Tennis
+### <u>Lance Laurent</u><br>President and Owner<br>Pro Track and Tennis
 
-### M. Rohan Fernando, Ph.D.<br>Director, Molecular Diagnostic Research Laboratory
+### <u>M. Rohan Fernando, Ph.D.</u><br>Director<br>Molecular Diagnostic Research Laboratory
 
-### Allan Hale<br>Training Coach, Peak Leadership
+### <u>Allan Hale</u><br>Training Coach<br>Peak Leadership
 
-### David Brooks<br>President & Founder, Retire SMART, SMART Wealth, and Tax SMART
+### <u>David Brooks</u><br>President and Founder<br>Retire SMART<br>SMART Wealth<br>Tax SMART
 
-### Adam Julch<br>Financial Advisor, RetirePath Advisors
+### <u>Adam Julch</u><br>Wealth Advisor/Partner<br>RetirePath Advisors
 
 ## Tailgate Discount
 
