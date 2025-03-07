@@ -3,11 +3,11 @@ title: Men's Event
 image: /images/4and1.png
 ---
 
-## Begins
+## When
 
 {{< times >}}
-- day: Friday, April 11
-  time: 6:30 PM
+- day: Friday-Saturday, April 11-12
+  time: 6:30 PM to 11:30 AM
 {{</ times >}}
   
 ## Ends
