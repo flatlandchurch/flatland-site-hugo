@@ -18,33 +18,51 @@ Register
 
 We all face tough decisions in life. What career field should I enter? Should I switch jobs? What should I do about this relationship I'm in? Am I going to watch the game today? If so, what should I eat? Okay, some decisions are less important than others. Discover how to go about making the toughest decisions in life at our annual Men's Event. Join us as we take a close look at scripture, learn from several business executives from Flatland, and spend time in God’s presence. The event will also be loaded with tailgate food, a great breakfast, laughter and entertainment.
 
-### Agenda
+## Agenda
 
-Friday, April 11
-<li>6:00pm - Doors Open
-<li>6:30pm - Tailgate
-<li>7:00pm - Main Session
-<li>8:15pm - Huddle
-<li>8:55pm - Reflection
-<li>9:30pm - Halftime</li></li>
+### Friday, April 11
+<ul>
+  6:00pm - Doors Open
+  6:30pm - Tailgate
+  7:00pm - Main Session
+  8:15pm - Huddle
+  8:55pm - Reflection
+  9:30pm - Halftime
+</ul>
 
-Saturday, April 12
-<li>7:30am - Doors Open
-<li>8:00am - Breakfast
-<li>8:30am - Main Session
-<li>9:30am - Worship and Prayer
-<li>10:50am - Awards
-<li>11:30am - Conclude (lunch option)</li>
+### Saturday, April 12
+<ul>
+  7:30am - Doors Open
+  8:00am - Breakfast
+  8:30am - Main Session
+  9:30am - Worship and Prayer
+  10:50am - Awards
+  11:30am - Conclude (lunch option)
+</ul>
 
-### Speakers
+## Speakers
 
+### Mike McDonald
+???
+### Lance Laurent
+???
+### Rohan Fernando
+???
+### Allan Hale
+???
+### David Brooks
+???
+### Adam Julch
 ???
 
-### Tailgate Discount
+## Tailgate Discount
 
-???
+When you register you will have the option to sign up to bring food for our tailgate party. Discounts are available based on the food you bring.
+<li>
+  Bring 
+</li>
 
-### Saturday Lunch Option
+## Saturday Lunch Option
 
 ???
 
