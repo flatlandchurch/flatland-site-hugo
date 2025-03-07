@@ -21,38 +21,43 @@ We all face tough decisions in life. What career field should I enter? Should I 
 
 ### Friday, April 11
 <ul>
-  6:00pm - Doors Open
-  6:30pm - Tailgate
-  7:00pm - Main Session
-  8:15pm - Huddle
-  8:55pm - Reflection
-  9:30pm - Halftime
+  6:00pm - Doors Open<br>
+  6:30pm - Tailgate<br>
+  7:00pm - Main Session<br>
+  8:15pm - Huddle<br>
+  8:55pm - Reflection<br>
+  9:30pm - Halftime<br>
 </ul>
 
 ### Saturday, April 12
 <ul>
-  7:30am - Doors Open
-  8:00am - Breakfast
-  8:30am - Main Session
-  9:30am - Worship and Prayer
-  10:50am - Awards
-  11:30am - Conclude (lunch option)
+  7:30am - Doors Open<br>
+  8:00am - Breakfast<br>
+  8:30am - Main Session<br>
+  9:30am - Worship and Prayer<br>
+  10:50am - Awards<br>
+  11:30am - Conclude (lunch option)<br>
 </ul>
 
 ## Speakers
 
-### Mike McDonald
-???
+### Mike McDonald, Ph.D. 
+<ul>Senior Workplace Conultant, Gallup</ul>
+
 ### Lance Laurent
-???
-### Rohan Fernando
-???
+<ul>President and Owner, Pro Track and Tennis, Inc.</ul>
+
+### M. Rohan Fernando, Ph.D.
+<ul>Director, Molecular Diagnostic Research Laboratory, Boys Town National Research Hospital</ul>
+
 ### Allan Hale
-???
-### David Brooks
-???
+<ul>Training Coach, Peak Leadership</ul>
+
+### David Brooks 
+<ul>President & Founder, Retire SMART, SMART Wealth, and Tax SMART</ul>
+
 ### Adam Julch
-???
+<ul>Financial Advisor, RetirePath Advisors</ul>
 
 ## Tailgate Discount
 
