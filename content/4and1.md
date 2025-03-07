@@ -61,12 +61,14 @@ We all face tough decisions in life. What career field should I enter? Should I 
 
 When you register you will have the option to sign up to bring food for our tailgate party. Discounts are available based on the food you bring.
 <li>
-  Bring 
+  100% Discount: bring 10 lbs of smoked meet<br>
+  50% Discount: bring a side or dessert to share<br>
+  25% Discount: bring a large bag of chips, snacks or candy to share<br>
 </li>
 
 ## Saturday Lunch Option
 
-???
+<ul>At the conclusion, we encourage you to join your Men's Event table group for lunch. Details will be available at the event.</ul>
 
 {{< action href="https://flatland.churchcenter.com/registrations/events/2776013" context="primary">}}
 Register
