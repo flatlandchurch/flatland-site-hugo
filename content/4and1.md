@@ -3,13 +3,13 @@ title: Men's Event
 image: /images/4and1.png
 ---
 
-## Friday & Saturday, April 11-12
+## April 11-12, 2025
 
 ### 6:30pm Friday thru 11:30am Saturday
 
 ### Cost: $40
 
-See below for our Tailgate Discount.<br><br>
+<ul>See below for our Tailgate Discount.</ul><br><br>
 
 {{< action href="https://flatland.churchcenter.com/registrations/events/2776013" context="primary">}}
 Register
