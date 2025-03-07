@@ -10,13 +10,6 @@ image: /images/4and1.png
   time: 6:30 PM to 11:30 AM
 {{</ times >}}
   
-## Ends
-
-{{< times >}}
-- day: Saturday, April 12
-  time: 11:30 AM
-{{</ times >}}
-  
 ## Cost
 
 {{< times >}}
