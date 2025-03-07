@@ -3,20 +3,14 @@ title: Men's Event
 image: /images/4and1.png
 ---
 
-## When
+## Friday & Saturday, April 11-12
 
-{{< times >}}
-- day: Friday-Saturday, April 11-12
-  time: 6:30 PM to 11:30 AM
-{{</ times >}}
-  
-## Cost
+We'll begin with a tailgate dinner on Friday at 6:30pm and conclude at 11:30am on Saturday (see lunch option below).
 
-{{< times >}}
-- day: Discounts Available
-  time: $40
-{{</ times >}}
-  
+## Cost: $40
+
+See below for our Tailgate Discount.
+
 {{< action href="https://flatland.churchcenter.com/registrations/events/2776013" context="primary">}}
 Register
 {{< /action >}}
