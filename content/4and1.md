@@ -5,11 +5,12 @@ image: /images/4and1.png
 
 ## Friday & Saturday, April 11-12
 
-We'll begin with a tailgate dinner on Friday at 6:30pm and conclude at 11:30am on Saturday (see lunch option below).
+6:30pm Friday thru 11:30am Saturday
 
-## Cost: $40
+### Cost: $40
 
 See below for our Tailgate Discount.
+
 
 {{< action href="https://flatland.churchcenter.com/registrations/events/2776013" context="primary">}}
 Register
