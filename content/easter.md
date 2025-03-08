@@ -1,7 +1,9 @@
 ---
-title: Easter Sunday
-image: /images/4and1.png
+title: Feed the World
+image: /images/easter.png
 ---
+
+# Easter Sunday
 
 ## April 20, 2025
 
