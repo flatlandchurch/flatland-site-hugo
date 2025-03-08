@@ -1,0 +1,30 @@
+---
+title: Easter Sunday
+image: /images/4and1.png
+---
+
+## April 20, 2025
+
+### 9:30 and 11:00am
+
+Join us this Easter Sunday for an inspiring and purposeful service as we celebrate the resurrection of our Lord and Savior, Jesus Christ.
+
+## Feed the World
+
+Our theme this Easter is <b>Feed the World</b>. Jesus generously gives us new life as we trust and follow Him. In return, He calls us to live generously. In His parable of the Sheep and the Goats, Jesus said, "I was hungry and you gave me something to eat." As part of our Easter celebration, we invite you to participate with us in feeding the world.
+
+## Our Partners
+
+### Convoy of Hope
+
+We will receive a special offering to support Convoy of Hope's <b>One Day to Feed the World</b> campaign. The challenge is to give the equivalent of one day's wage in this offering. Giving your "One Day" transforms there every day.
+
+### Open Door Mission
+
+As part of our <b>Feed the World</b> campaign this Easter, we invite you to bring an item on Easter from the following list. Drop off your donated items at our truck that will be located near the church entrance on Easter Sunday morning.
+<ul>
+  Canned fruit, soup or meat
+  Spaghetti and sauce
+  Boxed meals (i.e. Hamburger Helper)
+  Boxed Cereals
+</ul>
