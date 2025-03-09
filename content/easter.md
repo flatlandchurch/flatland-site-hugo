@@ -28,5 +28,5 @@ As part of our <b>Feed the World</b> campaign this Easter, we invite you to brin
   <li>Canned fruit, soup or meat
   <li>Spaghetti and sauce
   <li>Boxed meals (i.e. Hamburger Helper)
-  <li>Boxed Cereals<br><br>
+  <li>Boxed Cereals<br>
 </ul>
