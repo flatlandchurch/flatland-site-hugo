@@ -25,8 +25,8 @@ We will receive a special offering to support Convoy of Hope's <b>One Day to Fee
 
 As part of our <b>Feed the World</b> campaign this Easter, we invite you to bring an item on Easter from the following list. Drop off your donated items at our truck that will be located near the church entrance on Easter Sunday morning.
 <ul>
-  Canned fruit, soup or meat<br>
-  Spaghetti and sauce<br>
-  Boxed meals (i.e. Hamburger Helper)<br>
-  Boxed Cereals<br><br>
+  <li>Canned fruit, soup or meat
+  <li>Spaghetti and sauce
+  <li>Boxed meals (i.e. Hamburger Helper)
+  <li>Boxed Cereals<br><br>
 </ul>
