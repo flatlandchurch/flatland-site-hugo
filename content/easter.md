@@ -9,7 +9,7 @@ image: /images/easter.png
 
 ### 9:30 and 11:00am
 
-Join us this Easter Sunday for an inspiring and purposeful service as we celebrate the resurrection of our Lord and Savior, Jesus Christ.
+Join us this Easter Sunday for an inspiring and purposeful service as we celebrate the resurrection of our Lord and Savior, Jesus Christ. If you have kids, drop them off at our kids' church for our Easter Palooza!
 
 ## Feed the World
 
