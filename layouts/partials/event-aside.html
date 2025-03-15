@@ -1,34 +1,28 @@
 <ul class="no-style">
-    {{ with .Params.Day }}
     <li>
-        <p>
+        <div>
             <span class="far fa-calendar"></span>
-            <spn>{{ . }}</spn>
-        </p>
+            <p>{{ .Params.DisplayDate }}</p>
+        </div>
     </li>
-    {{ end }}
-    {{ with .Params.Time }}
-    <li>
-        <p>
-            <span class="far fa-clock"></span>
-            <spn>{{ . }}</spn>
-        </p>
-    </li>
-    {{ end }}
     {{ with .Params.Location }}
     <li>
-        <p>
+        <div>
             <span class="fas fa-map-marker-alt"></span>
-            <spn>{{ delimit . " | " }}</spn>
-        </p>
+            <p>{{ . }}</p>
+        </div>
     </li>
     {{ end }}
     {{ with .Params.Price }}
     <li>
-        <p>
+        <div>
             <span class="fas fa-dollar-sign"></span>
-            <spn>{{ . }}</spn>
-        </p>
+            <div>
+            {{ range . }}
+            <p>{{ . }}</p>
+            {{ end }}
+            </div>
+        </div>
     </li>
     {{ end }}
     {{ if isset .Params "childcare" }}

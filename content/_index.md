@@ -12,6 +12,9 @@ today:
     title: today.flatland.church
     subtitle: Check out our latest news and information.<br><br>
     url: https://today.flatland.church
+events:
+  title: What's Coming Up
+  subtitle: Find out what's going on at Flatland Church
 connect:
     title: Authenticity | Enthusiasm | Love | Collaboration | Transformation
     subtitle: There's something here for you.

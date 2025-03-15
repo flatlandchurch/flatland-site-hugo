@@ -72,6 +72,31 @@ Flatland Church | Helping people move to the center of God's Kingdom
         </section>
     {{ end }}
 
+    {{/* Events */}}
+    {{/* TODO: base this on current events */}}
+    {{ $events := sort (where .Site.RegularPages "Section" "events") ".Params.StartDate" "asc" }}
+    {{ if gt ($events.Len) 0 }}
+    <section class="block">
+        <div class="section-title">
+            <h2>{{ .Params.Events.Title }}</h2>
+            <p>{{ .Params.Events.Subtitle }}</p>
+            <a href="/events">See All Events</a>
+        </div>
+        <div class="container container__cards--full-width">
+            {{ range first 4 $events }}
+            <a class="card-link" href="{{ .Permalink }}">
+                <div class="card card__img">
+                    <i class="far fa-calendar"></i>
+                    <h3>{{ .Title }}</h3>
+                    <img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}" />
+                    <div class="overlay"></div>
+                </div>
+            </a>
+            {{ end }}
+        </div>
+    </section>
+    {{ end }}
+
     {{/* Today Page Section */}}
     <section class="block block--alt" style="overflow-x: hidden">
         <div class="container container--two-col">

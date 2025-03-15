@@ -1,7 +1,7 @@
 ---
 title: "Overwhelmed? Trust and Seek"
 image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw5NjYxfDB8MXxzZWFyY2h8MTB8fFRydXRofGVufDB8fHx8MTYxODIzNjM3Mw&ixlib=rb-1.2.1&q=85"
-date: "2022-03-02T010:11:49.987Z"
+date: "2022-03-02T10:11:49.987Z"
 author:
   id: "bill-reveal"
   name: "Bill Reveal"

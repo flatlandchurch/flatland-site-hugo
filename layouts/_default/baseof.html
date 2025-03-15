@@ -11,7 +11,7 @@
         <link rel="apple-touch-icon" sizes="152x152" href="https://firebasestorage.googleapis.com/v0/b/flatland-api.appspot.com/o/icons%2Ficon-152x152.png?alt=media&amp;token=f1dbc73a-9804-4617-8f5a-60bcb440d37b">
         <link rel="apple-touch-icon" sizes="180x180" href="https://firebasestorage.googleapis.com/v0/b/flatland-api.appspot.com/o/icons%2Ficon-167x167.png?alt=media&amp;token=81113e67-3e07-42ff-8f02-17f5e3aee3b6">
         <link rel="apple-touch-icon" sizes="167x167" href="https://firebasestorage.googleapis.com/v0/b/flatland-api.appspot.com/o/icons%2Ficon-180x180.png?alt=media&amp;token=62c6340a-ce77-40a1-bcd7-2a39afff82e3">
-        {{ $style := resources.Get "styles/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+        {{ $style := resources.Get "styles/main.scss" | css.Sass | resources.Minify | resources.Fingerprint }}
         <link rel="stylesheet" href="{{ $style.Permalink }}">
         <link rel="canonical" href={{ .Permalink }} />
         <meta name="author" content="Flatland Church">
