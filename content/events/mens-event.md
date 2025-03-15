@@ -2,7 +2,7 @@
 title: Men's Event
 image: mens-event-vert.png
 imageAlt: "football field with football at hashmark with one yard to go"
-startDate: "2025-03-17T10:11:49.987Z"
+startDate: "2025-04-11T10:11:49.987Z"
 endDate: "2025-04-12T10:11:49.987Z"
 location: "Flatland 144"
 category: "Men"
