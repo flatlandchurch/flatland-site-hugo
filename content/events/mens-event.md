@@ -1,9 +1,9 @@
 ---
-title: Men's Event 2024
+title: Men's Event
 image: https://images.unsplash.com/photo-1740715537042-6de862cdaab4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8
 imageAlt: ""
 startDate: "2025-03-17T10:11:49.987Z"
-endDate: "2025-03-17T10:11:49.987Z"
+endDate: "2025-04-12T10:11:49.987Z"
 location: "Flatland 144"
 category: "Men"
 action:
@@ -11,7 +11,7 @@ action:
     label: "Register Now"
 displayDate: "April 11-12, 2025"
 price:
-  - $25 (Early Bird)
+  - $40 (Discounts Available)
 ---
 
 We all face tough decisions in life. What career field should I enter? Should I switch jobs? What should I do about this relationship I’m in? Am I going to watch the game today? If so, what should I eat? 
