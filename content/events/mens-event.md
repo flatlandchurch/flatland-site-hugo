@@ -1,7 +1,7 @@
 ---
 title: Men's Event
-image: https://images.unsplash.com/photo-1740715537042-6de862cdaab4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8
-imageAlt: ""
+image: mens-event-vert.png
+imageAlt: "football field with football at hashmark with one yard to go"
 startDate: "2025-03-17T10:11:49.987Z"
 endDate: "2025-04-12T10:11:49.987Z"
 location: "Flatland 144"
