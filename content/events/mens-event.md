@@ -9,7 +9,7 @@ category: "Men"
 action:
     url: "https://flatland.churchcenter.com/registrations/events/123456"
     label: "Register Now"
-displayDate: "March 16-17, 2025"
+displayDate: "April 11-12, 2025"
 price:
   - $25 (Early Bird)
 ---
