@@ -1,6 +1,6 @@
 ---
 title: MEGA Sports Camp
-image: "https://flatlandchurch.com/images/mens-event-vert.png"
+image: "https://flatlandchurch.com/images/mega_logo.png"
 imageAlt: "mega sports camp vbs vacation bible school lightning bolt logo"
 startDate: "2025-07-14T09:00:49.987Z"
 endDate: "2025-07-18T11:30:49.987Z"
