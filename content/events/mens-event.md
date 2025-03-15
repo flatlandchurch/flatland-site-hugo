@@ -1,14 +1,14 @@
 ---
 title: Men's Event
-image: images/mens-event-vert.png
+image: "images/mens-event-vert.png"
 imageAlt: "football field with football at hashmark with one yard to go"
 startDate: "2025-04-11T10:11:49.987Z"
 endDate: "2025-04-12T10:11:49.987Z"
 location: "Flatland 144"
 category: "Men"
 action:
-    url: "https://flatland.churchcenter.com/registrations/events/123456"
-    label: "Register Now"
+    url: "https://flatland.churchcenter.com/registrations/events/2776013"
+    label: "Register"
 displayDate: "April 11-12, 2025"
 price:
   - $40 (Discounts Available)
@@ -64,7 +64,3 @@ When you register you will have the option to sign up to bring food for our tail
 ## Saturday Lunch Option
 
 At the conclusion, we encourage you to join your Men's Event table group for lunch. Details will be available at the event.</ul>
-
-{{< action href="https://flatland.churchcenter.com/registrations/events/2776013" context="primary">}}
-Register
-{{< /action >}}
