@@ -2,8 +2,8 @@
 title: Men's Event
 image: "https://flatlandchurch.com/images/mens-event-vert.png"
 imageAlt: "football field with football at hashmark with one yard to go"
-startDate: ""
-endDate: ""
+startDate: "2026-04-11T10:11:49.987Z"
+endDate: "2026-04-12T10:11:49.987Z"
 location: "Flatland 144"
 category: "Men"
 action:
