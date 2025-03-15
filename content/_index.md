@@ -92,5 +92,5 @@ _holiday:
         label: Info
 ---
 
-If you want a safe and inspiring place to discover the good news of Jesus, <b>there's something here for you</b>. Flatland offers a level, straightforward pathway to move to the center of God's kingdom.
+<b>There's something here for you</b>.<br>Discover our pathway for following Jesus more closely and moving to the center of God's kingdom with the help of the Holy Spirit.
 
