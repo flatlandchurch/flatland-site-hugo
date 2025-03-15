@@ -1,6 +1,6 @@
 ---
 title: Men's Event
-image: mens-event-vert.png
+image: images/mens-event-vert.png
 imageAlt: "football field with football at hashmark with one yard to go"
 startDate: "2025-04-11T10:11:49.987Z"
 endDate: "2025-04-12T10:11:49.987Z"
