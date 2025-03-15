@@ -23,7 +23,9 @@
                                         <span>{{ .Params.Location }}</span>
                                     </div>
                                 </div>
-                                <div class="event-card__summary">{{ .Summary }}</div>
+                                <div class="event-card__summary">
+                                    <p>{{ .Params.Excerpt }}</p>
+                                </div>
                             </a>
                         </div>
                     {{ end }}

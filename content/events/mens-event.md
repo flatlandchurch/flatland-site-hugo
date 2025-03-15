@@ -1,6 +1,6 @@
 ---
 title: Men's Event
-image: "https://flatlandchurch.com/images/mens-event.png"
+image: "https://flatlandchurch.com/images/mens-event-25.png"
 imageAlt: "football field with football at hashmark with one yard to go"
 startDate: "2025-04-11T10:11:49.987Z"
 endDate: "2025-04-12T10:11:49.987Z"
@@ -12,6 +12,7 @@ action:
 displayDate: "April 11-12, 2025"
 price:
   - $40 (Discounts Available)
+excerpt: "We all face tough decisions in life. What career field should I enter? Should I switch jobs? What should I do about this relationship I'm in? Am I going to watch the game today? If so, what should I eat?"
 ---
 
 {{< action href="https://flatland.churchcenter.com/registrations/events/2776013" context="primary">}}
