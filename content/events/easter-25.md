@@ -9,7 +9,7 @@ category: "Worship"
 action:
     url: ""
     label: ""
-displayDate: "April 20, 2025, 9:30 and 11:00am"
+displayDate: "April 20, 2025"
 price:
   - No cost
 excerpt: "This year, our theme is Feed the World. As part of our Easter celebration we are partnering with two outstanding organizations."
