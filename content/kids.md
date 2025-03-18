@@ -3,16 +3,16 @@ title: Kids
 image: /images/kids2022.jpg
 ---
 
+# Flatland Kids Ministry
+
+Flatland Kids is the children's ministry of Flatland Church, serving children from birth to 5th grade. Our mission at Flatland is to move people to the center of God's kingdom. In our children's ministry we do this by <b>developing authentic, biblical faith within families and a passion for the mission of God</b>.
+
 ## Times
 
 {{< times >}}
 - day: Sunday
   time: 9:30 and 11:00 AM
 {{</ times >}}
-  
-# Flatland Kids Ministry
-
-Flatland Kids is the children's ministry of Flatland Church, serving children from birth to 5th grade. Our mission at Flatland is to move people to the center of God's kingdom. In our children's ministry we do this by <b>developing authentic, biblical faith within families and a passion for the mission of God</b>.
 
 ## Our Core Values
 
@@ -22,23 +22,23 @@ Our core values as a church we champion are <b>Authenticity</b>, <b>Love</b>, <b
 
 This is how we live out our church values in Flatland Kids:
 <ul>
-  Jesus in every step
-  Biblical Comprehension
-  Parents in the lead
-  Empowered by the Spirit
-  Giving that Moves
-  Pray without ceasing
-  Everyday witness
+  <li>Jesus in every step
+  <li>Biblical Comprehension
+  <li>Parents in the lead
+  <li>Empowered by the Spirit
+  <li>Giving that Moves
+  <li>Pray without ceasing
+  <li>Everyday witness
 </ul>
 
 ## What We Teach
 
 Our goal is for every child to journey through the Bible multiple times during their time with us, gaining a deep understanding of how the entire story points to Jesus. We achieve this through:
 <ul>
-  Parent partnering
-  Scripture memorization
-  Teaching the Bible as a unified story of Jesus
-  Encouraging responses to Jesus' offer of salvation
+  <li>Parent partnering
+  <li>Scripture memorization
+  <li>Teaching the Bible as a unified story of Jesus
+  <li>Encouraging responses to Jesus' offer of salvation
 </ul>
 
 We provide various materials to help children and families learn together at home. Stay connected with us on Facebook and Instagram for updates and resources. Additionally, we send out a newsletter every series to keep you informed and engaged with what your child is learning.
@@ -54,12 +54,12 @@ Instagram
 
 Throughout the year, we host six exciting Paloozas that are designed to engage children in fun, high-energy activities while connecting them to the faith and community:
 <ul>
-  Friends Palooza
-  Easter Palooza
-  Summer Palooza
-  Back to School Palooza
-  Candy Palooza
-  Christmas Palooza
+  <li>Friends Palooza
+  <li>Easter Palooza
+  <li>Summer Palooza
+  <li>Back to School Palooza
+  <li>Candy Palooza
+  <li>Christmas Palooza
 </ul>
 
 Each Palooza is packed with themed games, crafts, and activities that help children celebrate the season and grow in their faith in a fun, interactive way. It’s a chance for children to come together, build friendships, and create lasting memories.
