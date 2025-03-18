@@ -1,6 +1,6 @@
 ---
 title: College
-image: https://i.imgur.com/1o8RpFS.jpg
+image: https://flatlandchurch.com/images/college.png
 imagePosition: 40%
 ---
 
