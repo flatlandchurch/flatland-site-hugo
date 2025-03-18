@@ -10,29 +10,93 @@ image: /images/kids2022.jpg
   time: 9:30 and 11:00 AM
 {{</ times >}}
   
-Our children's ministry is available during both of our Sunday morning services.
+# Flatland Kids Ministry
 
-FlatKids is the Flatland Church ministry for children birth to 5th Grade. Flatland Children’s Ministry department is based on Bible education, spiritual experience and practical application. Each child who begins their faith journey in our preschool program and ends in 5th grade will go through the Bible 8 times learning Bible stories, Biblical principles and how to know God personally. It is our desire to partner with parents to disciple their children. Each child is provided a take home paper with additional home activities coordinating with the week’s lesson.
+Flatland Kids is the children's ministry of Flatland Church, serving children from birth to 5th grade. Our mission at Flatland is to move people to the center of God's kingdom. In our children's ministry we do this by <b>developing authentic, biblical faith within families and a passion for the mission of God</b>.
 
-Our FlatKid’s facility is specially designed for kids. Each room is brightly colored and equipped with age appropriate toys and activities. The highlight of our elementary area is a custom rock climbing wall. Our FlatKid’s area can only be accessed by one entry point and is staffed with security at all times. All staff and team members are background checked and screened prior to working with our Flatland children.
+## Our Core Values
 
-### FlatKid’s Nursery (Birth – 3 years old)
+Our core values as a church we champion are <b>Authenticity</b>, <b>Love</b>, <b>Enthusiasm</b>, <b>Collaboration</b>, and <b>Transformation</b>. These values guide our approach to ministry and are reflected in all aspects of Flatland Kids.
 
-Our nursery is staffed by parents and individuals who love the littlest of children. We strive to have a safe and caring environment that introduces children to God through loving care. You can drop your child off and enjoy the main adult service knowing your child is well taken care of. If any issue arises we will text a parent/guardian as needed.
+### Values in Action
 
-### FlatKid’s Juniors (3 years – 5 years old)
+This is how we live out our church values in Flatland Kids:
+<ul>
+  Jesus in every step
+  Biblical Comprehension
+  Parents in the lead
+  Empowered by the Spirit
+  Giving that Moves
+  Pray without ceasing
+  Everyday witness
+</ul>
 
-Our preschool ministry is fast moving and fun. Each week preschoolers will learn a Bible story, worship through song and dance, and have a hands-on activity. Children will also be encouraged to pray for one another. Children are never too young to begin their faith journey.
+## What We Teach
 
-### FlatKid’s Elementary (Kindergarten – 5th Grade)
+Our goal is for every child to journey through the Bible multiple times during their time with us, gaining a deep understanding of how the entire story points to Jesus. We achieve this through:
+<ul>
+  Parent partnering
+  Scripture memorization
+  Teaching the Bible as a unified story of Jesus
+  Encouraging responses to Jesus' offer of salvation
+</ul>
 
-For our elementary FlatKid’s we use TRUFIRE curriculum. Each week the kids experience a large group Bible lesson and truth along with a worship time. Children also have an age appropriate small group time for discussion and prayer together.  Children are encouraged to bring their Bible, bring a friend and memorize weekly Bible verses. Tokens can be earned and used at the FlatKid’s Store.
+We provide various materials to help children and families learn together at home. Stay connected with us on Facebook and Instagram for updates and resources. Additionally, we send out a newsletter every series to keep you informed and engaged with what your child is learning.
 
-### Other Children’s Activities:
+{{< action href="https://www.facebook.com/profile.php?id=61555710766078" context="primary">}}
+Facebook
+{{< /action >}}
+{{< action href="https://www.instagram.com/flatlandkids/" context="primary">}}
+Instagram
+{{< /action >}}
 
-Summer Kid’s Camp: FlatKid’s, going in 2nd grade – 5th grade can attend our Summer Kid’s Camp in Lexington, Nebraska each June.
+## Paloozas
 
-High-Five Class: Every April/May children ending their 5th grade year have a special 6 week class taught by our youth pastor, Codey Friesen. The mission of the High Five Course is to help students move easily and comfortably from children's ministry to youth ministry. All those who successfully complete this class will be able to attend Youth Camp for free.
+Throughout the year, we host six exciting Paloozas that are designed to engage children in fun, high-energy activities while connecting them to the faith and community:
+<ul>
+  Friends Palooza
+  Easter Palooza
+  Summer Palooza
+  Back to School Palooza
+  Candy Palooza
+  Christmas Palooza
+</ul>
+
+Each Palooza is packed with themed games, crafts, and activities that help children celebrate the season and grow in their faith in a fun, interactive way. It’s a chance for children to come together, build friendships, and create lasting memories.
+
+## Our Facility
+
+Our Flatland Kids facility is specially designed for children. Each room is brightly colored and equipped with age-appropriate toys and activities. The highlight of our elementary area is a custom rock climbing wall. The facility is secure, with access restricted to a single entry point and staffed by security at all times. All staff and volunteers undergo background checks and screenings before serving.
+
+## Flatland Kids Nursery (Birth – 3 years old)
+
+Nursery provides a nurturing, safe, and engaging environment for children as they begin their faith journey. Leaders ensure that every baby and toddler are well cared for, prayed for, and that they experience God's love in our midst. You can drop your child off and enjoy service knowing your child is well taken care of. If any issue arises, we will text a parent/guardian as needed.
+
+## Flatland Kids Juniors (3 years – 5 years old)
+
+Juniors is designed to fill the unique needs of children aged 3 to 5 years old. Our Juniors ministry is fast-paced, a place for learning, and fun! Children learn that God made them, He loves them, and Jesus wants to be their friend forever. Each week, children receive a take-home coloring sheet and enjoy crafts and activities that help them engage with the Bible story at their level of understanding. They are encouraged to begin practicing disciplines such as learning to pray and worship together. Juniors are staffed by parents and team members who love to teach the Word of God to those starting their faith journey. We believe children are never too young to start their faith journey!
+
+## Flatland Kids Elementary (Kindergarten – 5th Grade)
+
+For elementary age children, we offer Kid's Church! We utilize the 'Gospel Project' Curriculum. Each week, the children experience a large group Bible lesson, Scripture memorization, worship, and age-appropriate small group time for discussion and prayer together. We encourage children to bring their Bible, invite friends, memorize our Key Passage, and learn the answer to our Big Picture Question! Children have an opportunity to earn tokens for their efforts, which can be spent at our shop. We strive to create an environment where children feel supported, encouraged, and excited about growing in their faith.
+
+## Other Flatland Kid’s Activities:
+
+### Summer Kid’s Camp
+
+Every summer, Flatland Kids (2nd grade – 5th grade) have the opportunity to attend our exciting Summer Kid’s Camp in Lexington, Nebraska. Camp is one of the most important things we do, offering children a chance to grow in their faith, build lasting relationships with others, and to step away from the usual routine for a week of adventure. They are accompanied by our dedicated leaders and the Children’s Pastor, ensuring they are supported every step of the way. It’s a week filled with fun, growth, and new experiences that leave a lasting impact on their spiritual journey!
+
+### Mega Sports Camp
+
+Mega Sports Camp is a high-energy outreach event where children learn sports skills in their sport of choice, with a new theme each year. Along with developing athletic abilities, children will experience teamwork, sportsmanship, and hear Bible lessons from a special guest speaker. We desire to introduce children to Jesus as their Savior while providing a fun, Christ-centered environment for them to grow spiritually and make new friends.
+
+### High-Five Class
+
+Each spring, a special 6-week class is available for 5th graders, led by our youth pastor, Codey Friesen. The High-Five Class is designed to help children transition smoothly from children’s ministry into youth ministry. When they complete the course, they’ll have the chance to attend Youth Camp for free, setting the stage for an awesome next chapter in their spiritual journey.
+
+### BGMC & The Move
+
+Flatland Kids actively participate in supporting BGMC (Boys and Girls Missionary Challenge) through <b>The Move</b>, a program designed to teach children about missions and give them an opportunity to support missionaries around the world through their giving. Children are encouraged to bring in offerings and engage in mission-focused activities throughout the year. We celebrate their generosity with a special dinner to honor their contributions and dedication to supporting missions.
 
 {{< action href="https://flatland.churchcenter.com/people/forms/379972" context="primary">}}
 Find Out More
