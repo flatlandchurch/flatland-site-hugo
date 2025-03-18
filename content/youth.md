@@ -28,7 +28,7 @@ Throughout the year we also offer several events to help students move closer to
 
 {{< gallery >}}
 - label: Codey Friesen
-  image: https://i.imgur.com/6rY2BGR.png
+  image: images/codey-friesen.jpg
 {{< /gallery >}}
 
 {{< action href="https://flatland.churchcenter.com/people/forms/379971" context="primary">}}
