@@ -1,6 +1,6 @@
 ---
 title: Good Friday
-image: "https://flatlandchurch.com/images/good-friday-2025.png"
+image: "https://flatlandchurch.com/images/good-friday.png"
 imageAlt: "good friday crucifixion jesus communion"
 startDate: "2025-04-18T07:00:49.987Z"
 endDate: "2025-04-18T20:00:49.987Z"
