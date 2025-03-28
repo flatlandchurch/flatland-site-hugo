@@ -6,13 +6,8 @@ startDate: "2025-04-18T07:00:49.987Z"
 endDate: "2025-04-18T20:00:49.987Z"
 location: "Flatland 144"
 category: "Worship"
-action:
-    url: ""
-    label: ""
 displayDate: "April 18, 2025"
-price:
-  - No cost
-excerpt: "This year, our theme is Feed the World. As part of our Easter celebration we are partnering with two outstanding organizations."
+excerpt: "Commemorate the Lord's death with us on Friday, April 18, at either 7:00am or 7:00pm."
 ---
 
 ## Good Friday Services
