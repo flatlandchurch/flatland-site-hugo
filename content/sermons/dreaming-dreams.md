@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: bart-wilkins
   name: Bart Wilkins
-title: Dreaming Dreams
+title: 1. Dreaming Dreams
 image: https://i.imgur.com/epBwMhd.png
 date: 2025-03-30T14:30:00.000Z
+series: "living-the-dream"
 ---
