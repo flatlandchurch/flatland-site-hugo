@@ -5,7 +5,7 @@ imageAlt: "travel vacation trip car family parenting station wagon"
 startDate: "2025-05-18T09:30:49.987Z"
 endDate: "2025-05-18T12:00:49.987Z"
 location: "Flatland 144"
-category: "All"
+category: "Church"
 action:
     url: "https://flatland.churchcenter.com/people/forms/650071"
     label: "Plan a Visit"
