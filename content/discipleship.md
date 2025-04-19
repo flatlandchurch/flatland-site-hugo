@@ -14,21 +14,21 @@ Let's Move!
 
 Discipleship really requires community. The majority of our units are offered as classes or small cohorts that meet weekly or every other week. A few units are compact workshops that can be completed in a day or two. The list of units below is our recommended order for the pathway; however, detours are common and okay. Taking them out of order on occassion will not prevent you from moving to the center of God's kingdom. Before you embark on this journey, however, we recommend you check out <b>Flatland 101</b>. This will equip you with important tools and information for a successful journey toward the center of God's kingdom. 
 
-### Discipleship Pathway Units
+## Discipleship Pathway Units
 
-<li>Alpha Course
-<li>Reading Through Genesis
-<li>Christian Essentials
-<li>Reading Through Matthew and Acts
-<li>Living the Spirit-Formed Life
-<li>How to Read Biblical Narrative
-<li>How to Read Biblical Prose Discourse
-<li>How to Read the Psalms
-<li>Practicing the Way
-<li>Emotionally Healthy Spirituality
-<li>Encountering the Holy Spirit
-<li>Step Up to Life
-<li>Spiritual Conversations
+### Alpha Course
+### Reading Through Genesis
+### Christian Essentials
+### Reading Through Matthew and Acts
+### Living the Spirit-Formed Life
+### How to Read Biblical Narrative
+### How to Read Biblical Prose Discourse
+### How to Read the Psalms
+### Practicing the Way
+### Emotionally Healthy Spirituality
+### Encountering the Holy Spirit
+### Step Up to Life
+### Spiritual Conversations
 
 ## How do I sign up?
 
