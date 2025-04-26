@@ -15,7 +15,7 @@ price:
 excerpt: "We all face tough decisions in life. What career field should I enter? Should I switch jobs? What should I do about this relationship I'm in? Am I going to watch the game today? If so, what should I eat?"
 ---
 
-{{< action href="https://flatland.churchcenter.com/registrations/events/2776013" context="primary">}}
+{{< action href="https://flatland.churchcenter.com/registrations/events/2740734" context="primary">}}
 Register
 {{< /action >}}<br>
 
