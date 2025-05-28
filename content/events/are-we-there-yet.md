@@ -7,9 +7,9 @@ endDate: "2025-05-18T12:00:49.987Z"
 location: "Flatland 144"
 category: "Church"
 action:
-    url: "https://flatland.churchcenter.com/people/forms/650071"
-    label: "Plan a Visit"
-displayDate: "May 18, 2025"
+    url: "https://flatlandchurch.com/series/are-we-there-yet"
+    label: "Go to Series"
+displayDate: "May 18-Jun 22, 2025"
 excerpt: "We all face tough decisions in life. What career field should I enter? Should I switch jobs? What should I do about this relationship I'm in? Am I going to watch the game today? If so, what should I eat?"
 ---
 What’s the ideal family? Is there even such a thing? Each family has its own struggles and dysfunctions, but God is able to help us influence our families in positive ways. Discover how you can play an influential role in helping your family move to the center of God’s kingdom.
