@@ -13,4 +13,4 @@ displayDate: "May 18, 2025"
 excerpt: "We all face tough decisions in life. What career field should I enter? Should I switch jobs? What should I do about this relationship I'm in? Am I going to watch the game today? If so, what should I eat?"
 ---
 What’s the ideal family? Is there even such a thing? Each family has its own struggles and dysfunctions, but God is able to help us influence our families in positive ways. Discover how you can play an influential role in helping your family move to the center of God’s kingdom.
-Join us for the start of our new sermon series, <b>Are We There Yet?</b>, on Sunday, May 18, 9:30 and 11:00am.
+Join us as we continue our sermon series, <b>Are We There Yet?</b>, this Sunday, 9:30 and 11:00am.
