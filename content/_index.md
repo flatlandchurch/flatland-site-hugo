@@ -73,7 +73,7 @@ volunteer:
     action:
       url: https://flatland.churchcenter.com/registrations/events/category/86059
       label: Find Your Spot
-footerAd:
+_footerAd:
     title: Flatland Life Center
     subtitle: Flatland is developing 7 unique centers for the purpose of providing holistic, Christ-centered support for optimal well-being.
     action:
