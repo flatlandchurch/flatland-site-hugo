@@ -1,6 +1,6 @@
 ---
 title: Hot Topics (vol. 5)
-image: "https://flatlandchurch.com/images/series-hot-topics.png"
+image: "https://flatlandchurch.com/images/series-hot-topics.jpg"
 imageAlt: "hot topics spirituality denominations women's rights cohabitation sports"
 startDate: "2025-06-29T09:30:49.987Z"
 endDate: "2025-08-03T12:00:49.987Z"
