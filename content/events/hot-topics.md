@@ -1,5 +1,5 @@
 ---
-title: Hot Topics<br>(vol. 5)
+title: Hot Topics
 image: "https://flatlandchurch.com/images/series-hot-topics.jpg"
 imageAlt: "hot topics spirituality denominations women's rights cohabitation sports"
 startDate: "2025-06-29T09:30:49.987Z"
@@ -12,7 +12,7 @@ action:
 displayDate: "June 29 - August 3"
 excerpt: "We'll explore six hot topics in this challenging, thought-provoking series."
 ---
-Together we’ll tackle another six major issues facing our Church and culture. For each issue, we’ll determine what’s at stake, what the Bible says, and what we should do about it. This series runs June 29 through August 3, 2025.
+Together we’ll tackle another six major issues facing our Church and culture. For each issue, we’ll determine what’s at stake, what the Bible says, and what we should do about it. This series, <b>Hot Topics (vol. 5)</b> runs June 29 through August 3, 2025.
 
 ### Denominations
 ### Foreign Affairs
