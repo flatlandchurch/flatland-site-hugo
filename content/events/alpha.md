@@ -27,5 +27,7 @@ Alpha is a series of group conversations that explore the basics of the Christia
 
 ### Wednesdays, 7:00-8:30pm
 
-We meet at Flatland Church, 4801 North 144th Street
+Begins July 2<br><br>
+Flatland Church<br>
+4801 North 144th Street<br>
 Omaha, Nebraska
