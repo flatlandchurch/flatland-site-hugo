@@ -19,7 +19,13 @@ excerpt: "Discover and discuss the topics of first importance in our faith."
 Register
 {{< /action >}}<br>
 
-Alpha is the first letter of the Greek alphabet, and this is the first unit in our Discipleship Pathway. Discover and discuss the topics of first importance in our faith.<br>
+# Join a conversation...
+
+### Explore faith together.
+
+Alpha is a series of group conversations that explore the basics of the Christian faith in a friendly environment.
 
 ### Wednesdays, 7:00-8:30pm
-We meet at Flatland Church for this class.
+
+We meet at Flatland Church, 4801 North 144th Street
+Omaha, Nebraska
