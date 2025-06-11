@@ -41,7 +41,7 @@ We believe that Jesus will come again to judge the living and the dead before ma
 
 {{< action href="/discipleship" context="primary" >}}
 Our Discipleship Pathway
-{{< /action >}}<br><br>
+{{< /action >}}
 
 <hr>
 
