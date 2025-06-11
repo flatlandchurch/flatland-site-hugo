@@ -3,14 +3,42 @@ title: What We Believe
 image: https://i.imgur.com/I0fxJTM.jpg
 ---
 
-At Flatland we try to keep things simple. That's why we explain the Good News of Jesus with a simple circle. You can watch our video on what we call "Circle Theology."
+At Flatland we are passionate about introducing people to Jesus. We believe that following Him is the way to life. Please take a few minutes to watch our video to find out more.
 
-{{< vimeo 497270412 >}}
+{{< vimeo 1068177766 >}}
 
-## Fundamental Truths
+## Core Beliefs
 
-Flatland is a member of a cooperative fellowship of churches called the [Assemblies of God](https://ag.org/). You can check out the full list of the [16 Fundamental Truths of the AG](https://ag.org/beliefs/statement-of-fundamental-truths), which we both affirm and adhere to. Of course, a list without an explanation can often be unhelpful, that's why we encourage you to attend our Next Step class to learn more about our vision, values, and beliefs.
+### One God in Three Persons
 
-{{< action href="/classes/next-step" context="primary" >}}
-Join a Next Step Class
+We believe in One God in Trinity: Father, Son and Holy Spirit.
+
+### Salvation in Jesus
+
+We believe that Jesus came to rescue the world through His life, death and resurrection, and that salvation comes through faith in Him.
+
+### Life in the Holy Spirit
+
+We believe that the Holy Spirit lives in those who follow Jesus, bearing fruit in our lives and empowering us with gifts to serve.
+
+### The Bible
+
+We believe that the Scriptures are God's word to us, revealing His wisdom for life and salvation in Jesus Christ.
+
+### Gifts of the Spirit
+
+We believe that the gifts of the Spirit are available today and are to be used to build others up.
+
+### The Gift of Tongues
+
+We believe that this unique gift of the Holy Spirit--unique to the New Testament--is available for every believer.
+
+### The Second Coming
+
+We believe that Jesus will come again to judge the living and the dead before making all things new.
+
+{{< action href="/discipleship" context="primary" >}}
+Our Discipleship Pathway
 {{< /action >}}
+
+Flatland is a member of a cooperative fellowship of churches called the Assemblies of God.
