@@ -35,13 +35,13 @@ We believe that this gift of the Holy Spirit--unique to the New Testament--is av
 
 ### The Second Coming
 
-We believe that Jesus will come again to judge the living and the dead before making all things new.<br>
+We believe that Jesus will come again to judge the living and the dead before making all things new.<br><br>
 
 <hr>
 
 {{< action href="/discipleship" context="primary" >}}
 Our Discipleship Pathway
-{{< /action >}}<br><br>
+{{< /action >}}<br>
 
 <hr>
 
