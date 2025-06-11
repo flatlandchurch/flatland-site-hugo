@@ -37,8 +37,12 @@ We believe that this unique gift of the Holy Spirit--unique to the New Testament
 
 We believe that Jesus will come again to judge the living and the dead before making all things new.
 
+<hr>
+
 {{< action href="/discipleship" context="primary" >}}
 Our Discipleship Pathway
-{{< /action >}}
+{{< /action >}}<br><br>
+
+<hr>
 
 Flatland is a member of a cooperative fellowship of churches called the Assemblies of God.
