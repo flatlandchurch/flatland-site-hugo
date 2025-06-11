@@ -3,7 +3,7 @@ title: What We Believe
 image: https://i.imgur.com/I0fxJTM.jpg
 ---
 
-At Flatland we are passionate about introducing people to Jesus. We believe that following Him is the way to life. Please take a few minutes to watch our video to find out more.
+At Flatland we are passionate about introducing people to Jesus. We believe that following Him is the way to life. Please take a few minutes to watch our video to find out more.<br><br>
 
 {{< vimeo 1068177766 >}}
 
@@ -35,13 +35,13 @@ We believe that this gift of the Holy Spirit--unique to the New Testament--is av
 
 ### The Second Coming
 
-We believe that Jesus will come again to judge the living and the dead before making all things new.
+We believe that Jesus will come again to judge the living and the dead before making all things new.<br>
 
 <hr>
 
 {{< action href="/discipleship" context="primary" >}}
 Our Discipleship Pathway
-{{< /action >}}
+{{< /action >}}<br><br>
 
 <hr>
 
