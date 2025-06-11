@@ -31,7 +31,7 @@ We believe that the gifts of the Spirit are available today and are to be used t
 
 ### The Gift of Tongues
 
-We believe that this unique gift of the Holy Spirit--unique to the New Testament--is available for every believer.
+We believe that this gift of the Holy Spirit--unique to the New Testament--is available for every believer.
 
 ### The Second Coming
 
