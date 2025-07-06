@@ -41,4 +41,4 @@ We believe in the resurrection of the body and the second coming of Christ to ju
 Our Discipleship Pathway
 {{< /action >}}<br><br>
 
-Flatland is a member of a cooperative fellowship of churches called the Assemblies of God.
+Flatland is a member of the Assemblies of God, a global fellowship of cooperative churches.
