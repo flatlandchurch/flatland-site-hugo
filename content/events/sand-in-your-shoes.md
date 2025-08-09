@@ -14,9 +14,11 @@ excerpt: "Experience the hope and peace of God."
 ---
 Fear and doubt keeps us from experiencing the hope and peace of God. In this series through Deuteronomy 1-3, you’ll find the faith and fortitude to follow Jesus into the abundant life of rest He offers.
 
-### East of the Jordan
-### Spies in Giant Country
-### Yahweh and the Giants
-### Israel and the Giant
-### Rest in Giant Country
-### West of the Jordan
+<li>
+08/10 East of the Jordan
+08/17 Spies in Giant Country
+08/24 Yahweh and the Giants
+08/31 Israel and the Giant
+09/07 Rest in Giant Country
+09/14 West of the Jordan
+</li>
