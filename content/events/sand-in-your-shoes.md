@@ -1,6 +1,6 @@
 ---
 title: Sand in Your Shoes
-image: "https://flatlandchurch.com/images/series-sand-in-your-shoes.png"
+image: "https://flatlandchurch.com/images/series-sand-in-your-shoes.jpg"
 imageAlt: "a man with a camel wandering in a desert full of sand in his shoes"
 startDate: "2025-08-10T09:30:49.987Z"
 endDate: "2025-09-14T12:00:49.987Z"
