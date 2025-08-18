@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: matthew-mcelwee
   name: Matthew McElwee
-title: Spies in the Giant Country
+title: 2. Spies in Giant Country
 image: https://i.imgur.com/SXMGbgp.png
 date: 2025-08-17T14:30:00.000Z
+series: "sand-in-your-shoes"
 ---
