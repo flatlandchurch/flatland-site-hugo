@@ -1,7 +1,7 @@
 ---
 title: Moving to the <ins>center</ins> of God's Kingdom.
 subtitle: Welcome to Flatland Church. There's something here for you.
-image: /images/flatland-sunday.jpg
+image: /images/flatland-sunday.png
 action:
     url: https://flatland.online.church
     label: Watch Live
@@ -73,7 +73,7 @@ volunteer:
     action:
       url: https://flatland.churchcenter.com/registrations/events/category/86059
       label: Find Your Spot
-footerAd:
+_footerAd:
     title: Flatland Life Center
     subtitle: Flatland is developing 7 unique centers for the purpose of providing holistic, Christ-centered support for optimal well-being.
     action:
