@@ -21,6 +21,6 @@ On Sunday, September 21, we will have one, united service at Flatland. We will n
 
 ## Church Picnic
 
-Lunch is on us! Stay after service for a church picnic: fried chicken, chips and cookies. Kids will enjoy a <b>Foam Party</b>, so bring towels to dry off.
+Lunch is on us! Stay after service for a church picnic: fried chicken, chips and cookies. Bring <b>lawn chairs</b> to sit and eat outside. Kids will enjoy a <b>Foam Party</b>, so bring towels to dry off.
 
 Let’s move!
