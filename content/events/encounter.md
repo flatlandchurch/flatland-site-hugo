@@ -1,6 +1,6 @@
 ---
 title: Encounter
-image: "https://flatlandchurch.com/images/encounter-fire.png"
+image: "https://flatlandchurch.com/images/encounter.png"
 imageAlt: "encounter night holy spirit fire worship prayer"
 startDate: "2025-09-14T17:15:49.987Z"
 endDate: "2025-09-14T21:00:49.987Z"
