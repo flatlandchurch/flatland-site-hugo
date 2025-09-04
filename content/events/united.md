@@ -1,6 +1,6 @@
 ---
 title: Flatland United
-image: "https://flatlandchurch.com/images/united.png"
+image: "https://flatlandchurch.com/images/united.jpg"
 imageAlt: "flatland united picnic celebration service"
 startDate: "2025-09-21T17:15:49.987Z"
 endDate: "2025-09-21T21:00:49.987Z"
