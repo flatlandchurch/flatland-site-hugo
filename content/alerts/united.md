@@ -6,7 +6,7 @@ display:
   modal: true
 liveThru: "2025-09-21T13:59:00Z"
 action:
-  uri: "/united"
+  uri: "/events/united"
   label: "Learn More"
 ---
 
