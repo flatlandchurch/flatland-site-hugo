@@ -10,9 +10,9 @@ action:
     url: "https://flatland.churchcenter.com/people/forms/650071"
     label: "Plan a Visit"
 displayDate: "Sep 28 - Nov 2"
-excerpt: "An overview of the book of Romans."
+excerpt: "A study in Romans"
 ---
-Fear and doubt keeps us from experiencing the hope and peace of God. In this series through Deuteronomy 1-3, you’ll find the faith and fortitude to follow Jesus into the abundant life of rest He offers.
+The gospel offers an All Access invitation into a life-transforming relationship with God. This study through Romans highlights this incredible gospel, or good news, available to you today.
 
 <ul>
 <li>09/28 - Access Revealed</li>
