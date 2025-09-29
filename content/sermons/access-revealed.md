@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: bart-wilkins
   name: Bart Wilkins
-title: Access Revealed
+title: 1. Access Revealed
 image: https://i.imgur.com/rrQvsJ2.jpeg
 date: 2025-09-28T14:30:00.000Z
+series: "all-access"
 ---
