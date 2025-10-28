@@ -20,7 +20,7 @@ Upcoming Units
 
 ### Flatland 101
 
-This series of introductory videos (still in the making) will help you engage more deeply at Flatland as you learn about our mission, our culture, our pathway, and more.
+This unit will help you engage more deeply at Flatland as you learn about our mission, our culture, our pathway, and more.
 
 ### Alpha Course
 Alpha is the first letter of the Greek alphabet, and this is the first unit in our Discipleship Pathway. Discover and discuss the topics of first importance in our faith.
