@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: codey-friesen
   name: Codey Friesen
-title: Access Secured
+title: 5. Access Secured
 image: https://i.imgur.com/VLOL9dQ.jpeg
 date: 2025-10-26T14:30:00.000Z
+series: "all-access"
 ---
