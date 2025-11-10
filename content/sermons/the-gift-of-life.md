@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: bart-wilkins
   name: Bart Wilkins
-title: The Gift Of Life
+title: 1. The Gift Of Life
 image: https://i.imgur.com/3tcWOk9.jpeg
 date: 2025-11-09T14:30:00.000Z
+series: "love-letters"
 ---
