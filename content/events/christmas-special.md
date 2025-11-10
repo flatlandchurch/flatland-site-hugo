@@ -1,5 +1,5 @@
 ---
-title: Simeon's Hope
+title: Christmas Special
 image: "https://flatlandchurch.com/images/simeon.png"
 imageAlt: "christmas omaha church family play drama"
 startDate: "2025-12-21T11:00:49.987Z"
