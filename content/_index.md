@@ -20,12 +20,12 @@ connect:
     subtitle: There's something here for you.
     cards:
     - url: /locations
-      title: Locations
+      title: Location
       icon: fas fa-map-marker-alt
       img: /images/flatland144_fall.jpg
       imgAlt: Front of Flatland 174 campus
     - url: /flatland-101
-      title: New Here?
+      title: Flatland 101
       icon: fas fa-arrow-right
       img: /images/entering.jpg
       imgAlt: Family entering Flatland 144.
