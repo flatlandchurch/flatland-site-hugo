@@ -7,8 +7,8 @@ endDate: "2025-12-24T23:00:49.987Z"
 location: "Flatland 144"
 category: "Worship"
 action:
-    url: ""
-    label: ""
+    url: "https://flatland.churchcenter.com/people/forms/650071"
+    label: "I'm New | Start Here"
 displayDate: "December 24, 2025"
 price:
   - No cost
