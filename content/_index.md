@@ -7,7 +7,7 @@ action:
     label: Watch Live
 secondaryAction:
     url: https://flatland.churchcenter.com/people/forms/650071
-    label: Plan a Visit
+    label: I'm New | Start Here
 today:
     title: today.flatland.church
     subtitle: Check out our latest news and information.<br><br>
