@@ -7,13 +7,15 @@ image: https://images.unsplash.com/photo-1577222512383-ed8bb23c0f2d?ixid=MnwxMjA
 
 Take at least 10 minutes to abide in God's presence, asking Him to review your past and coming day with you and instruct you in His ways.
 
-### 1.	Become Still Before God (approximately 1 minute)
+### 1.	Become Still Before God
+_(approximately 1 minute)_
 
 - Take deep breaths, acknowledging the presence of the Holy Spirit.
 
 - Invite Him to fill you with His grace, mercy, wisdom and love.
 
-### 2.	Review Your Day (approximately 3 minutes)
+### 2.	Review Your Day
+_(approximately 3 minutes)_
 
 - Consider the blessings you received or experienced these past 24 hours.
 
@@ -29,7 +31,8 @@ Take at least 10 minutes to abide in God's presence, asking Him to review your p
 
 > How did you miss the mark?
 
-### 3.	Pay Attention to Your Heart (approximately 2 minutes)
+### 3.	Pay Attention to Your Heart
+_(approximately 2 minutes)_
 
 - Ask Him to help you recall and reflect on the following questions. 
 
@@ -43,7 +46,8 @@ Take at least 10 minutes to abide in God's presence, asking Him to review your p
 
 - Ask God for forgiveness. Specifically confess the way(s) you missed the mark and trust Him for His forgiveness.
 
-### 4.	Look Ahead (approximately 3 minutes)
+### 4.	Look Ahead
+_(approximately 3 minutes)_
 
 - Think through the day ahead. 
 
@@ -53,7 +57,8 @@ Take at least 10 minutes to abide in God's presence, asking Him to review your p
 
 - Resolve to be with God and reflect His goodness and love in each situation.
 
-### 5.	Abide in Him (approximately 1 minute)
+### 5.	Abide in Him
+_(approximately 1 minute)_
 
 - Once again, take deep breaths as you invite the Holy Spirit to fill you. 
 
