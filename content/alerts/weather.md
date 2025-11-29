@@ -4,7 +4,7 @@ type: alert
 display:
     redBar: true
     modal: true
-liveThru: "2025-11-29T11:00:00Z"
+liveThru: "2025-11-11T11:00:00Z"
 date: "2025-11-30T12:00:00Z"
 ---
 
