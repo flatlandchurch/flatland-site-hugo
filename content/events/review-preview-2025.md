@@ -2,16 +2,14 @@
 title: Review/Preview
 image: "https://flatlandchurch.com/images/review-preview-web.png"
 imageAlt: "national park map church omaha creative"
-startDate: ""
-endDate: ""
+startDate: "2025-12-07T09:30:49.987Z"
+endDate: "2025-12-28T12:00:49.987Z"
 location: "Flatland 144"
-category: ""
+category: "Church"
 action:
     url: "https://flatland.churchcenter.com/people/forms/650071"
     label: "Plan a Visit"
 displayDate: "December 28, 2025"
-price:
-  - Free
 excerpt: "Enjoy some trail mix as we celebrate this year's wins and unviel our eight sermon series for 2026."
 ---
 
