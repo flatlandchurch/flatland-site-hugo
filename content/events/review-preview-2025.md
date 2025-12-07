@@ -2,7 +2,7 @@
 title: Review/Preview
 image: "https://flatlandchurch.com/images/review-preview-web.png"
 imageAlt: "national park map church omaha creative"
-startDate: "2025-12-07T09:30:49.987Z"
+startDate: "2025-12-28T11:00:49.987Z"
 endDate: "2025-12-28T12:00:49.987Z"
 location: "Flatland 144"
 category: "Church"
