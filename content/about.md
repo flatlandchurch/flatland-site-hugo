@@ -2,7 +2,7 @@
 title: Welcome to Flatland
 description: Find out more about Flatland Church.
 image: /images/about-worship-2.jpg
-imagePosition: bottom
+imagePosition: center
 ---
 
 ## Visit a Sunday Service
