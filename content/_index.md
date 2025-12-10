@@ -3,7 +3,7 @@ title: Moving to the <ins>center</ins> of God's Kingdom.
 subtitle: Welcome to Flatland Church. There's something here for you.
 image: /images/flatland-sunday.png
 secondaryAction:
-    url: https://flatland.churchcenter.com/people/forms/650071
+    url: https://flatlandchurch.com/about
     label: I'm New | Start Here
 today:
     title: today.flatland.church
