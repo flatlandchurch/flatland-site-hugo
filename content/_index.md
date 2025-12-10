@@ -5,9 +5,6 @@ image: /images/flatland-sunday.png
 secondaryAction:
     url: https://flatland.churchcenter.com/people/forms/650071
     label: I'm New | Start Here
-action:
-    url: https://flatland.online.church
-    label: Watch Live
 today:
     title: today.flatland.church
     subtitle: Check out our latest news and information.<br><br>
@@ -92,7 +89,7 @@ _holiday:
         label: Info
 ---
 
-<b>There's something here for you</b>.<br>Discover our simple pathway to help you follow Jesus.
+<b>There's something here for you</b>.<br>
 
 {{< action href="https://flatland.online.church" context="primary">}}
 Watch Live
