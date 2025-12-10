@@ -12,10 +12,30 @@ imagePosition: bottom
 Flatland is all about moving people to the center of God’s kingdom. Through creative presentations and messages you will discover what God’s kingdom is all about. You will also discover how being a part of God's kingdom will transform your life in a powerful way.
 
 {{< gallery >}}
-- label: Men
+- label: 
   image: https://flatlandchurch.com/images/about-men.jpg
-- label: Youth Game
+- label: 
   image: https://flatlandchurch.com/images/about-youth-game.jpg
+- label: 
+  image: https://flatlandchurch.com/images/about-baptism.jpg
+- label: 
+  image: https://flatlandchurch.com/images/about-family-dinner.jpg
+- label: 
+  image: https://flatlandchurch.com/images/about-college-prayer.jpg
+- label: 
+  image: https://flatlandchurch.com/images/about-kids-suds.jpg
+- label: 
+  image: https://flatlandchurch.com/images/about-kids-checkin.jpg
+- label: 
+  image: https://flatlandchurch.com/images/about-orange-table.jpg
+- label: 
+  image: https://flatlandchurch.com/images/about-service.jpg
+- label: 
+  image: https://flatlandchurch.com/images/about-missions-trip.jpg
+- label: 
+  image: https://flatlandchurch.com/images/about-youth-girls.jpg
+- label: 
+  image: https://flatlandchurch.com/images/about-youth-prayer.jpg
 {{< /gallery >}}
 
 If you're new to the area, new to church, or looking for a new start, our Sunday morning services offer the opportunity to be transformed and grow deeper in your walk with Christ. We currently have worship services at our Flatland 144 campus (144th & Larimore) on Sundays at 9:30 and 11:00am.
