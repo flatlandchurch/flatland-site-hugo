@@ -92,5 +92,5 @@ _holiday:
         label: Info
 ---
 
-<b>There's something here for you</b>.<br>Discover our pathway for following Jesus more closely and moving to the center of God's kingdom with the help of the Holy Spirit.
+<b>There's something here for you</b>.<br>Discover our simple pathway to help you follow Jesus.
 
