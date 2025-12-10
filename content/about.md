@@ -15,7 +15,9 @@ Flatland is all about moving people to the center of God’s kingdom. Through cr
 - label: 
   image: https://flatlandchurch.com/images/about-men.jpg
 - label: 
-  image: https://flatlandchurch.com/images/about-youth-game.jpg
+  image: https://flatlandchurch.com/images/about-youth-girls.jpg
+- label: 
+  image: https://flatlandchurch.com/images/about-mike-rod.jpg
 - label: 
   image: https://flatlandchurch.com/images/about-baptism.jpg
 - label: 
@@ -32,8 +34,6 @@ Flatland is all about moving people to the center of God’s kingdom. Through cr
   image: https://flatlandchurch.com/images/about-service.jpg
 - label: 
   image: https://flatlandchurch.com/images/about-missions-trip.jpg
-- label: 
-  image: https://flatlandchurch.com/images/about-youth-girls.jpg
 - label: 
   image: https://flatlandchurch.com/images/about-youth-prayer.jpg
 {{< /gallery >}}
