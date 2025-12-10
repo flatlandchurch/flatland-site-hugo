@@ -9,8 +9,6 @@ imagePosition: center
 
 ### 9:30 and 11:00 AM
 
-Flatland is all about moving people to the center of God’s kingdom. Through creative presentations and messages you will discover what God’s kingdom is all about. You will also discover how being a part of God's kingdom will transform your life in a powerful way.
-
 {{< gallery >}}
 - label: 
   image: https://flatlandchurch.com/images/about-men.jpg
@@ -37,6 +35,8 @@ Flatland is all about moving people to the center of God’s kingdom. Through cr
 - label: 
   image: https://flatlandchurch.com/images/about-youth-prayer.jpg
 {{< /gallery >}}
+
+Flatland is all about moving people to the center of God’s kingdom. Through creative presentations and messages you will discover what God’s kingdom is all about. You will also discover how being a part of God's kingdom will transform your life in a powerful way.
 
 If you're new to the area, new to church, or looking for a new start, our Sunday morning services are a great place to start.
 
