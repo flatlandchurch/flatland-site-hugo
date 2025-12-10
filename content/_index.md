@@ -93,7 +93,7 @@ _holiday:
 ---
 
 <b>There's something here for you</b>.<br>Discover our simple pathway to help you follow Jesus.
-action:
-    url: https://flatland.online.church
-    label: Watch Live
 
+{{< action href="https://flatland.online.church" context="primary">}}
+Watch Live
+{{< /action >}}
