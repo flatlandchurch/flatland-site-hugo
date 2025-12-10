@@ -5,6 +5,10 @@ image: /images/flatland-2023.jpg
 imagePosition: bottom
 ---
 
+## Visit a Sunday Service
+
+### 9:30 and 11:00 AM
+
 Flatland is all about moving people to the center of God’s kingdom. Through creative presentations and messages you will discover what God’s kingdom is all about. You will also discover how being a part of God's kingdom will transform your life in a powerful way.
 
 If you're new to the area, new to church, or looking for a new start, our Sunday morning services offer the opportunity to be transformed and grow deeper in your walk with Christ. We currently have worship services at our Flatland 144 campus (144th & Larimore) on Sundays at 9:30 and 11:00am.
