@@ -36,8 +36,10 @@ imagePosition: center
   image: https://flatlandchurch.com/images/about-youth-prayer.jpg
 {{< /gallery >}}
 
-Flatland is all about moving people to the center of God’s kingdom. Through creative presentations and messages you will discover what God’s kingdom is all about. You will also discover how being a part of God's kingdom will transform your life in a powerful way.
+If you're new to the area, new to church, or looking for a new start, our Sunday morning services are a great place to begin. Flatland is all about inspiring people to move to the center of God's kingdom.
 
-If you're new to the area, new to church, or looking for a new start, our Sunday morning services are a great place to start.
+Let us know you're thinking of visiting and we'll send you an FAQ email. Find out about our services, pastor, kids and youth ministries, beliefs and values.
+
+
 
 
