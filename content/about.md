@@ -40,6 +40,8 @@ If you're new to the area, new to church, or looking for a new start, our Sunday
 
 Let us know you're thinking of visiting and we'll send you an FAQ email. Find out about our services, pastor, kids and youth ministries, beliefs and values.
 
-
+{{< action href="https://flatland.churchcenter.com/people/forms/1111573" context="primary">}}
+Find Out More
+{{< /action >}}
 
 
