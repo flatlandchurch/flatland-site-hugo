@@ -21,7 +21,7 @@ imagePosition: center
 - label: 
   image: https://flatlandchurch.com/images/about-family-dinner.jpg
 - label: 
-  image: https://flatlandchurch.com/images/about-college-prayer.jpg
+  image: https://flatlandchurch.com/images/about-worship-2.jpg
 - label: 
   image: https://flatlandchurch.com/images/about-kids-suds.jpg
 - label: 
