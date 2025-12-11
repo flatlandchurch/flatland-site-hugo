@@ -1,7 +1,7 @@
 ---
 title: Welcome to Flatland
 description: Find out more about Flatland Church.
-image: /images/about-invited.jpg
+image: /images/about-invited.png
 imagePosition: center
 ---
 
