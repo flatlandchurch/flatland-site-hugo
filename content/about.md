@@ -1,7 +1,7 @@
 ---
 title: Welcome to Flatland
 description: Find out more about Flatland Church.
-image: /images/about-invited.png
+image: /images/about-orange-table.jpg
 imagePosition: center
 ---
 
@@ -27,7 +27,7 @@ imagePosition: center
 - label: 
   image: https://flatlandchurch.com/images/about-kids-checkin.jpg
 - label: 
-  image: https://flatlandchurch.com/images/about-orange-table.jpg
+  image: https://flatlandchurch.com/images/about-youth-game.jpg
 - label: 
   image: https://flatlandchurch.com/images/about-service.jpg
 - label: 
