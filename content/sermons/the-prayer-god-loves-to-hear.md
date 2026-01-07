@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: bart-wilkins
   name: Bart Wilkins
-title: The Prayer God Loves to Hear
+title: 1. The Prayer God Loves to Hear
 image: https://i.imgur.com/GCRoVxM.png
 date: 2026-01-04T14:30:00.000Z
+series: "dear-god"
 ---
