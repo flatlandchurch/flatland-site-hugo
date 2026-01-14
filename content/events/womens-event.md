@@ -2,8 +2,8 @@
 title: 
 image: "https://flatlandchurch.com/images/IF.png"
 imageAlt: "women friends Bible worship church"
-startDate: ""
-endDate: ""
+startDate: "2026-02-27T16:45:49.987Z"
+endDate: "2026-02-28T13:00:49.987Z"
 location: "Flatland 144"
 category: "Women"
 action:
