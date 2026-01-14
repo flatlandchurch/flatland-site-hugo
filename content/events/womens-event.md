@@ -19,10 +19,10 @@ excerpt: "If only we followed Jesus more closely and loved one another more deep
 Register
 {{< /action >}}<br>
 
-#Flatland Women's Event
-##Friday 5:00pm to Saturday 1:00pm
-###February 27-28, 2026
-###Cost: $50 ($25 for ladies 25 and under)
+# Flatland Women's Event
+## Friday 5:00pm to Saturday 1:00pm
+### February 27-28, 2026
+### Cost: $50 ($25 for ladies 25 and under)
 
 Join us Friday evening as we unite with thousands of women worldwide for a night of worship and teaching from Jennie Allen, Francis Chan, Christine Caine, and many others.
 
