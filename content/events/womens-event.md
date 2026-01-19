@@ -1,5 +1,5 @@
 ---
-title: 
+title: Women's Event
 image: "https://flatlandchurch.com/images/IF.png"
 imageAlt: "women friends Bible worship church"
 startDate: "2026-02-27T16:45:49.987Z"
