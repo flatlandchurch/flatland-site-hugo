@@ -1,6 +1,6 @@
 ---
 title: Easter
-image: "https://flatlandchurch.com/images/easter.png"
+image: "https://flatlandchurch.com/images/easter-background.png"
 imageAlt: "easter omaha Jesus resurrection hope joy love"
 startDate: "2026-04-05T09:30:49.987Z"
 endDate: "2026-04-05T12:00:49.987Z"
