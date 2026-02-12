@@ -2,8 +2,8 @@
 title: Easter
 image: "https://flatlandchurch.com/images/easter-web.png"
 imageAlt: "easter omaha feed the world"
-startDate: "2025-04-20T09:30:49.987Z"
-endDate: "2025-04-20T12:00:49.987Z"
+startDate: "2026-04-05T09:30:49.987Z"
+endDate: "2026-04-05T12:00:49.987Z"
 location: "Flatland 144"
 category: "Worship"
 action:
