@@ -7,8 +7,8 @@ endDate: "2026-03-29T12:00:49.987Z"
 location: "Flatland 144"
 category: "Church"
 action:
-    url: "https://flatland.churchcenter.com/people/forms/650071"
-    label: "Plan a Visit"
+    url: "https://flatlandchurch.com/images/Blueprint-OM.pdf"
+    label: "Owner's Manual"
 displayDate: "Feb 22 - Mar 29"
 excerpt: "A study in Zechariah"
 ---
