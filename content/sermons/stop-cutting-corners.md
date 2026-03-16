@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: bart-wilkins
   name: Bart Wilkins
-title: Stop Cutting Corners
+title: 4. Stop Cutting Corners
 image: https://i.imgur.com/avz5rv1.jpeg
 date: 2026-03-15T14:30:00.000Z
+series: "blueprint"
 ---
