@@ -7,8 +7,8 @@ endDate: "2026-07-17T20:30:49.987Z"
 location: "Flatland 144"
 category: "Kids"
 action:
-    url: "https://flatland.churchcenter.com/registrations/events/2740734"
-    label: "Register"
+    url: ""
+    label: "Register Apr 1"
 displayDate: "July 13-17, 2026"
 price:
   - $25
@@ -19,10 +19,10 @@ excerpt: ""
 Register
 {{< /action >}}<br>
 
-### MEGA Sports Camp
+# MEGA Sports Camp
 
 ## July 13-17
-# 6:00 pm to 8:15pm
+### 6:00 pm to 8:15pm
 
 MEGA Sports Camp® Mission Cup VBS invites kids to view their sports as an opportunity to make a difference, inspired by the excitement and purpose behind the world’s biggest soccer competition. This theme connects kids’ passion for sports with their journey of faith, showing them how athletic skills and dedication can be used to make a positive impact and fulfill the unique purpose God has for their lives.
 
@@ -31,7 +31,7 @@ Just as athletes dedicate themselves to rigorous training with the goal of reach
 <mark>Registration opens April 1</mark>
 
 ## Our Partner:
-# Project Rescue
+### Project Rescue
 
 All offerings collected during Mega Sports Camp will be given through BGMC to Project Rescue. 
 
