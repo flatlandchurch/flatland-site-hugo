@@ -6,16 +6,9 @@ startDate: "2026-04-08T18:00:49.987Z"
 endDate: "2026-04-22T20:11:49.987Z"
 location: "Flatland 144"
 category: "Discipleship"
-action:
-    url: "https://flatland.churchcenter.com/registrations/events/3439477"
-    label: "Register"
 displayDate: "April 8-22, 2026"
 excerpt: "Find out about Flatland's mission, culture and pathway."
 ---
-
-{{< action href="https://flatland.churchcenter.com/registrations/events/3439477" context="primary">}}
-Register
-{{< /action >}}<br>
 
 Curious about our name?<br>
 Want to know what Flatland is all about?<br>
