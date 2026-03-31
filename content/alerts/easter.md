@@ -9,4 +9,4 @@ action:
   uri: "/events/easter"
   label: "Find Out More"
 --- 
-Service Times: 9:30 and 11:00 AM
+April 5 | 9:30 and 11:00 AM
