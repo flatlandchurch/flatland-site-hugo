@@ -3,7 +3,7 @@ title: "Easter Services"
 type: "notif"
 display:
   redBar: true
-  modal: false
+  modal: true
 liveThru: "2026-04-06T00:00:00"
 action:
   uri: "/events/easter"
