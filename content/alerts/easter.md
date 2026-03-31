@@ -1,5 +1,5 @@
 ---
-title: "Easter"
+title: "Easter Services"
 type: "notif"
 display:
   redBar: true
