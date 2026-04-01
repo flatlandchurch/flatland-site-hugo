@@ -1,5 +1,5 @@
 ---
-title: 
+title: "Resistance"
 image: "https://flatlandchurch.com/images/series-resistance.png"
 imageAlt: "Jesus God James Faith Rebellion Resistance Joy Why"
 startDate: "2026-04-12T09:30:49.987Z"
