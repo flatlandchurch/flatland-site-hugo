@@ -1,6 +1,6 @@
 ---
 title: Flatland 101
-image: "https://flatlandchurch.com/images/worship-2023.jpg"
+image: "https://flatlandchurch.com/images/tp-101.png"
 imageAlt: "flatland 101 church questions God Jesus Holy Spirit christianity"
 startDate: "2026-04-08T18:00:49.987Z"
 endDate: "2026-04-22T20:11:49.987Z"
