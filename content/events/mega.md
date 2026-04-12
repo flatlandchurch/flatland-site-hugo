@@ -15,7 +15,7 @@ price:
 excerpt: ""
 ---
 
-{{< action href="https://flatland.churchcenter.com/registrations/events/2740734" context="primary">}}
+{{< action href="https://flatland.churchcenter.com/registrations/events/3458257" context="primary">}}
 Register
 {{< /action >}}<br>
 
