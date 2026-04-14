@@ -44,4 +44,4 @@ Come have a blast, get a little messy, and see the impact you can make in just f
 
 {{< action href="https://flatland.churchcenter.com/registrations/events/3458258" context="primary">}}
 Count Me In!
-{{< /action >}}<br>
+
