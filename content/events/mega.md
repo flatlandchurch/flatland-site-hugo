@@ -28,7 +28,6 @@ MEGA Sports Camp® Mission Cup VBS invites kids to view their sports as an oppor
 
 Just as athletes dedicate themselves to rigorous training with the goal of reaching the world’s biggest competitions, Mission Cup teaches kids to live “on mission.” Like the soccer stars who compete on the world stage, kids will be challenged to develop qualities that make a lasting impact: To show focus on what truly matters, respect to others, humility in victory, endurance in challenges, and leadership in uncertainty.
 
-<mark>Registration opens April 1</mark>
 
 ## Our Partner:
 ### Project Rescue
@@ -43,4 +42,6 @@ You're already making sure your kids have a great summer—why not be a part of 
 
 Come have a blast, get a little messy, and see the impact you can make in just five days.
 
-<mark>Count Me In!</mark>
+{{< action href="https://flatland.churchcenter.com/registrations/events/3458258" context="primary">}}
+Count Me In!
+{{< /action >}}<br>
