@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: bart-wilkins
   name: Bart Wilkins
-title: Resisting Repentance
+title: 6. Resisting Repentance
 image: https://i.imgur.com/pMnieOU.jpeg
 date: 2026-05-17T14:30:00.000Z
+series: "resistance"
 ---
