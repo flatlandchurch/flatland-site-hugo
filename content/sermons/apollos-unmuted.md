@@ -5,7 +5,8 @@ video:
 speaker:
   permalink: rob-yanike
   name: Rob Yanike
-title: Apollos Unmuted
+title: 3. Apollos Unmuted
 image: https://i.imgur.com/yxc156l.jpeg
 date: 2026-06-07T14:30:00.000Z
+series: "unmuted"
 ---
